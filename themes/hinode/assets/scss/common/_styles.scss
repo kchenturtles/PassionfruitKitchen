@@ -1,0 +1,31 @@
+//
+// Remove underline from all links
+//
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
+
+//
+// Ensure main page is rendered to full viewport height
+//
+.main {
+    min-height: 100vh;
+}
+
+.tickmark li::marker {
+    content: "✓ ";
+}
+
+.anchor
+{
+    color: transparent;
+}
+
+.heading:hover .anchor 
+{
+    transition: 0.25s ease-in-out;
+    color: $primary;
+}
