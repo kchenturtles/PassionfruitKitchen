@@ -1,5 +1,5 @@
 ---
 title: "hi"
-draft: true
+draft: false
 ---
 
