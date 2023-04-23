@@ -11,3 +11,6 @@
 [submodule "themes/my-hinode-site"]
 	path = themes/my-hinode-site
 	url = https://github.com/gethinode/child.git
+[submodule "hinode"]
+	path = hinode
+	url = https://github.com/gethinode/hinode.git

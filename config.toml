@@ -1,4 +1,4 @@
 baseURL = 'https://kchenturtles.github.io/PassionfruitKitchen/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "my-hinode-site"
+theme = "hinode"
