@@ -48,7 +48,6 @@
   url = "https://medium.com/"
   weight = 30
 
-# toml-docs-start sample-navigation
 [[sample]]
   name = "Blog"
   url = "/blog/"
@@ -70,4 +69,3 @@
   url = "/en/projects/another-project/"
   parent = "Projects"
   weight = 2
-# toml-docs-end sample-navigation

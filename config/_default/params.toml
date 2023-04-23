@@ -1,40 +1,29 @@
-# toml-docs-start main
 [main]
     separator = "-"
     description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
     enableDarkMode = true
-    modes = ["light", "dark"]
-# toml-docs-end main
 
-# toml-docs-start docs
 [docs]
-    version = "0.8"
-    basePath = ""
-# toml-docs-end docs
+    version = "0.9"
+    basePath = "node_modules/@gethinode/hinode"
 
-# toml-docs-start home
 [home]
     sections = ["blog", "projects"]
     featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
-    centerHeadline = false
-    style = ""
-# toml-docs-end home
 
-# toml-docs-start navigation
 [navigation]
     anchor = true
     logo = "/img/logo_icon.svg"
     color = "body"
+    style = "light"
     fixed = true
     offset = "3.8em"
     search = true
     breadcrumb = false
     toc = true
     sidebar = true
-# toml-docs-end navigation
 
-# toml-docs-start list
 [list]
     [blog]
         title = "Blog"
@@ -46,31 +35,27 @@
         header = "full"
         footer = "none"
         orientation = "stacked"
-        style = "border-0 card-zoom"
+        style = "border-0"
         homepage = 3
-        separator = true
     [projects]
         title = "Projects"
         sort = "title"
         reverse = false
         cols = 1
-        color = "body-tertiary"
+        color = ""
         padding = "3"
         header = "none"
         footer = "tags"
         orientation = "none"
         style = "border-1 card-emphasize"
         homepage = 3
-        separator = false
-# toml-docs-end list
 
 [favicon]
     logo = "img/favicon.png"
     sizes = [16, 32, 48]
 
-# toml-docs-start theme-colors
 [style]
-    primary = "#d43900"
+    primary = "#2596be"
     secondary = "#6c757d"
     success = "#198754"
     info = "#0dcaf0"
@@ -78,16 +63,9 @@
     danger = "#dc3545"
     light = "#f8f9fa"
     dark = "#212529"
-# toml-docs-end theme-colors
     themeOpacity = "10"
-# toml-docs-start font
     themeFont = "Inter"
-    # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
-    themeFontPath = "/fonts" # local path
-# toml-docs-end font
-# toml-docs-start build
-    purge = false
-# toml-docs-end build
+    themeFontPath = "/fonts"
 
 [schema]
     type = "Organization"
