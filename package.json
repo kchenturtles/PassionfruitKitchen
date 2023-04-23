@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "hugo-extended": "^0.111.3"
   }
 }
