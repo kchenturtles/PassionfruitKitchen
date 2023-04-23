@@ -6,7 +6,7 @@ enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-baseURL = "https://demo.gethinode.com/"
+baseURL = "https://kchenturtles.github.io/PassionfruitKitchen/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
