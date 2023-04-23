@@ -8,3 +8,6 @@
 	path = passionfruit-kitchen/themes/themes/hugo-theme-luna
 	url = https://github.com/Ice-Hazymoon/hugo-theme-luna
 	branch = master
+[submodule "themes/my-hinode-site"]
+	path = themes/my-hinode-site
+	url = https://github.com/gethinode/child.git
