@@ -26,14 +26,62 @@ DefaultContentLanguageInSubdir = true
         weight = 2
 
     [[languages.en.menu.main]]
+        name = "Collections"
+        url = "categories"
+        weight = 3
+
+  [languages.de]
+    contentDir = "content/de" # Deutsch
+    weight = 2
+    languageName = "Deutsch"
+    title = "Blist (mehrsprachig)"
+    description = "Modernes Blog-Theme für Ihre Hugo-Site."
+    [languages.de.params]
+      introTitle = "Passionfruit Kitchen"
+      introPhoto = "/picture.jpg"
+      logo = "/blist-logo-de.png"
+    [[languages.de.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 1
+
+    [[languages.de.menu.main]]
+        name = "Über mich"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.de.menu.main]]
         name = "Tags"
         url = "tags"
         weight = 3
+        
+  [languages.fr]
+    contentDir = "content/fr" #French
+    weight = 1
+    languageName = "Français"
+    [languages.fr.params]
+      introTitle = "Passionfruit Kitchen"
+      introPhoto = "/picture.jpg"
+      logo = "/blist-logo.png"
+    [[languages.fr.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 1
 
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "posts/post1/"
-        weight = 4
+    [[languages.fr.menu.main]]
+        name = "À propos"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.fr.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 3
+        
+  [languages.dy]
+    contentDir = "content/dy" #Example language
+    weight = 3
+    languageName = "Test Language"
 
 [params]
   # Enable the darkmode toggle in header
@@ -70,7 +118,7 @@ DefaultContentLanguageInSubdir = true
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
-  hideMeta = true
+  hideMeta = false
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
@@ -139,3 +187,7 @@ DefaultContentLanguageInSubdir = true
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+
+[taxonomies]
+    tag = "tag"
+    category = "categories"
