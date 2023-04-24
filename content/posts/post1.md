@@ -1,19 +1,22 @@
 ---
-title: "Post1"
+title: "Red Curry Fried Rice"
 date: 2023-04-23T17:46:35-04:00
 description: ""
 categories: []
 toc: false
 dropCap: true
-displayInMenu: false
+displayInMenu: true
 displayInList: true
-draft: true
+draft: false
+thumbnail: /static/fried_rice.jpeg
 resources:
 - name: featuredImage
-  src: ""
+  src: "/static/fried_rice.jpeg"
   params:
     description: ""
     attribution:
       name: ""
       link: ""
 ---
+
+![fried rice](/static/fried_rice.jpeg)
