@@ -2,29 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kchenturtles.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://kchenturtles.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kchenturtles.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dy"
-                href="https://kchenturtles.github.io/dy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kchenturtles.github.io/en/"
-                />
+    <loc>https://kchenturtles.github.io/en/page/collections/pone-pot/</loc>
+    <lastmod>2023-04-23T20:50:38-04:00</lastmod>
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/page/</loc>
+    <lastmod>2023-04-23T20:50:38-04:00</lastmod>
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/page/collections/</loc>
+    <lastmod>2023-04-23T20:20:42-04:00</lastmod>
   </url><url>
     <loc>https://kchenturtles.github.io/en/categories/</loc>
+    <lastmod>2023-04-23T20:19:22-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -46,26 +34,63 @@
                 href="https://kchenturtles.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://kchenturtles.github.io/en/tags/</loc>
+    <loc>https://kchenturtles.github.io/en/posts/honey_soy_salmon/</loc>
+    <lastmod>2023-04-23T20:19:22-04:00</lastmod>
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/categories/recipes/</loc>
+    <lastmod>2023-04-23T20:19:22-04:00</lastmod>
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/posts/</loc>
+    <lastmod>2023-04-23T19:38:49-04:00</lastmod>
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/</loc>
+    <lastmod>2023-04-23T17:47:26-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kchenturtles.github.io/fr/tags/"
+                href="https://kchenturtles.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kchenturtles.github.io/de/tags/"
+                href="https://kchenturtles.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://kchenturtles.github.io/dy/tags/"
+                href="https://kchenturtles.github.io/dy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kchenturtles.github.io/en/tags/"
+                href="https://kchenturtles.github.io/en/"
+                />
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/posts/red_curry_fried_rice/</loc>
+    <lastmod>2023-04-23T17:46:35-04:00</lastmod>
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/page/about/</loc>
+  </url><url>
+    <loc>https://kchenturtles.github.io/en/tag/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kchenturtles.github.io/fr/tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kchenturtles.github.io/de/tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dy"
+                href="https://kchenturtles.github.io/dy/tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kchenturtles.github.io/en/tag/"
                 />
   </url>
 </urlset>

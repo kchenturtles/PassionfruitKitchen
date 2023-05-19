@@ -189,5 +189,5 @@ DefaultContentLanguageInSubdir = true
     unsafe = true
 
 [taxonomies]
-    tag = "tag"
+    tag = "tags"
     category = "categories"

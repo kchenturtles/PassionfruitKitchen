@@ -46,26 +46,26 @@
                 href="https://kchenturtles.github.io/de/categories/"
                 />
   </url><url>
-    <loc>https://kchenturtles.github.io/de/tags/</loc>
+    <loc>https://kchenturtles.github.io/de/tag/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kchenturtles.github.io/en/tags/"
+                href="https://kchenturtles.github.io/en/tag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kchenturtles.github.io/fr/tags/"
+                href="https://kchenturtles.github.io/fr/tag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://kchenturtles.github.io/dy/tags/"
+                href="https://kchenturtles.github.io/dy/tag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kchenturtles.github.io/de/tags/"
+                href="https://kchenturtles.github.io/de/tag/"
                 />
   </url>
 </urlset>

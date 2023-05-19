@@ -2,28 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kchenturtles.github.io/dy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kchenturtles.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://kchenturtles.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kchenturtles.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dy"
-                href="https://kchenturtles.github.io/dy/"
-                />
-  </url><url>
     <loc>https://kchenturtles.github.io/dy/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -46,26 +24,48 @@
                 href="https://kchenturtles.github.io/dy/categories/"
                 />
   </url><url>
-    <loc>https://kchenturtles.github.io/dy/tags/</loc>
+    <loc>https://kchenturtles.github.io/dy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kchenturtles.github.io/en/tags/"
+                href="https://kchenturtles.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kchenturtles.github.io/fr/tags/"
+                href="https://kchenturtles.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kchenturtles.github.io/de/tags/"
+                href="https://kchenturtles.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://kchenturtles.github.io/dy/tags/"
+                href="https://kchenturtles.github.io/dy/"
+                />
+  </url><url>
+    <loc>https://kchenturtles.github.io/dy/tag/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kchenturtles.github.io/en/tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kchenturtles.github.io/fr/tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kchenturtles.github.io/de/tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dy"
+                href="https://kchenturtles.github.io/dy/tag/"
                 />
   </url>
 </urlset>

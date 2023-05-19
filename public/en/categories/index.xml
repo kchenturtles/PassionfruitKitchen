@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Blist Multilingual Theme</title>
+    <title>Categories on Passionfruit Kitchen</title>
     <link>https://kchenturtles.github.io/en/categories/</link>
-    <description>Recent content in Categories on Blist Multilingual Theme</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kchenturtles.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Categories on Passionfruit Kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Apr 2023 20:19:22 -0400</lastBuildDate><atom:link href="https://kchenturtles.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>recipes</title>
+      <link>https://kchenturtles.github.io/en/categories/recipes/</link>
+      <pubDate>Sun, 23 Apr 2023 20:19:22 -0400</pubDate>
+      
+      <guid>https://kchenturtles.github.io/en/categories/recipes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Passionfruit Kitchen</title>
+    <link>https://kchenturtles.github.io/en/posts/</link>
+    <description>Recent content in Posts on Passionfruit Kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Apr 2023 19:38:49 -0400</lastBuildDate><atom:link href="https://kchenturtles.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Honey soy salmon</title>
+      <link>https://kchenturtles.github.io/en/posts/honey_soy_salmon/</link>
+      <pubDate>Sun, 23 Apr 2023 20:19:22 -0400</pubDate>
+      
+      <guid>https://kchenturtles.github.io/en/posts/honey_soy_salmon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Curry Fried Rice</title>
+      <link>https://kchenturtles.github.io/en/posts/red_curry_fried_rice/</link>
+      <pubDate>Sun, 23 Apr 2023 17:46:35 -0400</pubDate>
+      
+      <guid>https://kchenturtles.github.io/en/posts/red_curry_fried_rice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
