@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Passionfruit Kitchen"
       introSubtitle = "a recipe blog"
       introPhoto = "/passionfruit.png"
-      logo = "../static/passionfruit-icon.png"
+      logo = "/passionfruit-icon.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "posts/"
@@ -58,7 +58,7 @@ DefaultContentLanguageInSubdir = true
 
   # Custom copyright - optional
   copyright = "Copyright © 2023 - Kendree C · All rights reserved"
-  favicon = "../static/passionfruit-icon.png"
+  favicon = "/passionfruit-icon.png"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors

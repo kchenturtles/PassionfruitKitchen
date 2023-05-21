@@ -20,4 +20,4 @@ resources:
       link: ""
 ---
 
-![fried rice](../static/fried_rice.jpeg)
+![fried rice](/fried_rice.jpeg)

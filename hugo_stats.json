@@ -35,7 +35,10 @@
       "ul"
     ],
     "classes": [
+      "#301934",
       "absolute",
+      "background-color:",
+      "background-color:#301934",
       "bg-blue-100",
       "bg-gray-100",
       "bg-white",
@@ -56,6 +59,7 @@
       "dark:text-gray-600",
       "dark:text-gray-800",
       "dark:text-white",
+      "display:flex",
       "flex",
       "flex-1",
       "flex-col",
