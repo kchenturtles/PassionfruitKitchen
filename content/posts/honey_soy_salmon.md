@@ -9,10 +9,10 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-thumbnail: fried_rice.jpeg
+thumbnail: /images/fried_rice.jpeg
 resources:
 - name: featuredImage
-  src: "fried_rice.jpeg"
+  # src: "/fried_rice.jpeg"
   params:
     description: ""
     attribution:
@@ -20,4 +20,4 @@ resources:
       link: ""
 ---
 
-![fried rice](static/fried_rice.jpeg)
+![fried rice](/images/fried_rice.jpeg)
