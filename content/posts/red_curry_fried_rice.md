@@ -9,7 +9,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-thumbnail: /fried_rice.jpeg
+thumbnail: fried_rice.jpeg
 resources:
 - name: featuredImage
   # src: "fried_rice.jpeg"
@@ -20,7 +20,7 @@ resources:
       link: ""
 ---
 
-![fried rice](/fried_rice.jpeg)
+![fried rice](fried_rice.jpeg)
 
 
 J
