@@ -9,10 +9,10 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-thumbnail: fried_rice.jpeg
+thumbnail: honey_soy_salmon.jpg
 resources:
 ---
 
-![fried rice](../../fried_rice.jpeg)
+![honey soy salmon](../../honey_soy_salmon.jpg)
 
 Hello
