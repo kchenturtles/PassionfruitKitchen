@@ -13,6 +13,6 @@ thumbnail: fried_rice.jpeg
 resources:
 ---
 
-![fried rice](fried_rice.jpeg)
+![fried rice](../../fried_rice.jpeg)
 
 Hello
