@@ -132,6 +132,8 @@
       "md:flex",
       "md:flex-row",
       "md:grid-cols-2",
+      "md:grid-cols-4",
+      "md:grid-cols-5",
       "md:hidden",
       "md:items-center",
       "md:justify-between",

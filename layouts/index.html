@@ -2,7 +2,7 @@
   {{- partial "intro.html" . -}}
   {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
   <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0"  style = "font-family: cursive;">Latest Posts</div>
-  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4 lg:gap-8">
     {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
       {{- partial "blog-card.html" . -}}
     {{ end }}
@@ -11,7 +11,7 @@
   {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
   <div class = "{{ .Site.Params.ascentColor | default "bg-pink-50" }}">
     <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Featured Posts</div>
-  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4 lg:gap-8">
     {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
       {{- partial "blog-card.html" . -}}
     {{ end }}
@@ -21,7 +21,7 @@
 
   {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
   <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Recipes for Spring</div>
-  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4 lg:gap-8">
     {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
       {{- partial "blog-card.html" . -}}
     {{ end }}
