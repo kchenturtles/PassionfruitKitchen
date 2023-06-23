@@ -75,8 +75,8 @@
     <hr></hr>
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div class="container mx-auto my-2 text-3xl font-light pb-0 pt-4 mb-0 mt-0">You Might Also Like:</div>
-    <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
-      {{ range first 6 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
+    <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 lg:gap-8">
+      {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
         {{- partial "mini-blog-card.html" . -}}
       {{ end }}
     </div>

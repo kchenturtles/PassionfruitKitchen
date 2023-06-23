@@ -2,12 +2,7 @@
     <a href="{{ .Permalink }}">
       {{ if .Params.thumbnail }}
       <div class="relative">
-        <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" />
-        {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5" >
-          {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
-        </div>
-        {{ end }}
+        <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "object-fit: cover; height:7em; width:7em;" />
       </div>
       {{ end }}
       <div class="my-0 text-lg font-light" style = "text-decoration:none; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">{{ .Params.title }}</div>
