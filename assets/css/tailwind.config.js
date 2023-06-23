@@ -16,6 +16,8 @@ module.exports = {
       "PassionfruitKitchen/content/**/*.html",
       "PassionfruitKitchen/layouts/**/*.html",
       "PassionfruitKitchen/config.toml",
+      themeDir + "PassionfruitKitchen/content/**/*.html",
+      themeDir + "PassionfruitKitchen/layouts/**/*.html",
     ],
   },
   darkMode: "class",
