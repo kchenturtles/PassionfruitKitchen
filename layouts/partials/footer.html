@@ -1,4 +1,4 @@
-<div class = "{{ .Site.Params.ascentColor | default "bg-pink-50" }}">
+<div class = "{{ .Site.Params.ascentColor | default "bg-pink-50" }}" style = "background-color: papayawhip;">
 <footer class="container mx-auto p-6">
   <div class = "flex justify-between align-center items-left mx-20 center">
       <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" class=" w-6 h-6 my-6" style = "max-width: 5em; max-height: 5em;" />
@@ -12,10 +12,10 @@
     </div>
     {{- partial "social.html" . -}}
     <div class = "my-12 font-bold text-xl mb-4">
-      <div class = "mb-2">Search by tag</div>
+      <div class = "mb-2">Collections</div>
       <ul class = "underline font-light text-sm">
-        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-          <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+          <li><a href="{{ "/PassionfruitKitchen/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
         {{ end }}
       </ul>
     </div>
