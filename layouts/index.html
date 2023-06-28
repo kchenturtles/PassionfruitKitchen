@@ -343,7 +343,7 @@
       </div>
       <div style = "margin-left:1rem; margin-right: 4rem; justify-content: center; justify-self: center; justify-items: center; align-items: center; align-self: center; align-content: center;">
         <img src = "https://kchenturtles.github.io/PassionfruitKitchen/broccoli_soup_thumbnail.jpeg" alt = "image"/>
-        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:text-black"  style = " margin-top:2rem; background-color: papayawhip; text-align: center; padding-bottom:1rem; margin-bottom: 0.25em;">Recipe Collections</div>
+        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:text-black"  style = " margin-top:2rem; background-color: papayawhip; text-align: center; padding-bottom:1rem; padding-top:1rem; margin-bottom: 0.25em;">Recipe Collections</div>
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
             <div  class="dark:text-black" style = "border-width: 1px; border-color: white; border-style: solid; background-color: papayawhip; margin-top:0.25em; margin-bottom:0.25em; padding-left:2rem; padding-top: 1rem; padding-bottom: 1rem; font-size: large;"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></div>
           {{ end }}

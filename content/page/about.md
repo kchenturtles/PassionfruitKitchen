@@ -1,6 +1,6 @@
 ---
 title: "About"
-categories: ["blog"]
+categories: ["blog-posts"]
 date: 2023-04-23T17:46:35-04:00
 draft: false
 resources:

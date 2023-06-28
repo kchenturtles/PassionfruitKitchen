@@ -3,7 +3,7 @@ title: "red curry fried rice"
 date: 2023-04-23T17:46:35-04:00
 description: ""
 summary: "Fried rice is one of my favorite meals to make. It’s the perfect clean-out-the-fridge dinner, and it’s quick and so easy to cook. Growing up, my grandparents would make egg fried rice with leftover pork or even ham and frozen mixed vegetables. "
-categories: ["recipes", "one-pot", "dinner", "lunch", "quick & easy"]
+categories: ["one-pot", "dinner", "lunch", "quick & easy"]
 tags: ["vegetarian", "gluten-free", "dairy-free"]
 toc: true
 dropCap: true

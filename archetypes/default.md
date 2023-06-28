@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: "{{ replace .Name "-" " " | description }}"
-categories: ["recipes", "one-pot", "dinner", "seafood"]
+categories: ["one-pot", "dinner", "seafood"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]
 toc: true
 dropCap: true

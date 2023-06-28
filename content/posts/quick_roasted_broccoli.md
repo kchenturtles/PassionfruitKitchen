@@ -1,7 +1,7 @@
 ---
 title: "quick roasted broccoli"
 date: 2023-06-22T22:55:04-04:00
-categories: ["recipes", "dinner", "lunch", "quick & easy", "salads", "snacks", "sides"]
+categories: ["dinner", "lunch", "quick & easy", "salads", "snacks", "sides"]
 tags: ["vegetarian", "gluten-free", "dairy-free"]
 summary: "Roasted broccoli is simple, healthy, and versatile. It’s a quick recipe, easy to customize, and surprisingly addictive. I made a batch of roasted broccoli a few days ago, and my family snacked on it before dinner until half of it was gone!"
 toc: true
