@@ -15,7 +15,7 @@
       <div class = "mb-2">Collections</div>
       <ul class = "underline font-light text-sm">
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-          <li><a href="{{ "/PassionfruitKitchen/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+          <li><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
         {{ end }}
       </ul>
     </div>
