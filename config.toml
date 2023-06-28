@@ -16,7 +16,7 @@ DefaultContentLanguageInSubdir = true
       introPhoto = "https://kchenturtles.github.io/PassionfruitKitchen/passionfruit.png"
       logo = "https://kchenturtles.github.io/PassionfruitKitchen/passionfruit-icon.png"
     [[languages.en.menu.main]]
-        name = "Blog"
+        name = "All Posts"
         url = "posts/"
         weight = 1
 
@@ -31,8 +31,8 @@ DefaultContentLanguageInSubdir = true
         weight = 3
 
     [[languages.en.menu.main]]
-        name = "Collections"
-        url = "categories"
+        name = "Tags"
+        url = "tags"
         weight = 3
 
 [params]
