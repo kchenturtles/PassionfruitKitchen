@@ -337,7 +337,7 @@
         {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
           {{- partial "blog-post.html" . -}}
         {{ end }}
-        <div class = "container mx-auto" style = "margin-top:2rem; max-width: fit-content; margin-bottom: 2rem;">
+        <div class = "container mx-auto" style = "margin-top:3rem; max-width: fit-content; margin-bottom: 3rem;">
           <a href = "/posts/" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; background-color: peru; font-family: 'Times New Roman', Times, serif; padding-left: 10rem; padding-right: 10rem;">All Recent Posts</a>
         </div>
       </div>
