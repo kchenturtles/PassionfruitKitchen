@@ -8,6 +8,8 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
+featured: true
+spring: true
 draft: false
 thumbnail: honey_soy_salmon.jpg
 resources:

@@ -9,6 +9,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
+spring: true
 thumbnail: fried_rice.jpeg
 resources:
 - name: featuredImage
