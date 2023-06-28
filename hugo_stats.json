@@ -72,6 +72,7 @@
       "dark:hover:text-gray-300",
       "dark:prose-dark",
       "dark:text-black",
+      "dark:text-black,",
       "dark:text-gray-600",
       "dark:text-gray-800",
       "dark:text-white",
