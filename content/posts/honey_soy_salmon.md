@@ -2,6 +2,7 @@
 title: "honey soy salmon"
 date: 2023-04-23T20:19:22-04:00
 description: ""
+summary: "Salmon is a popular and easy dinner to make. A common way to make it is roasting it in the oven, which I used to do all the time. Except the problem is, I kept ending up with overcooked salmon, because the oven was too hot. And using the oven is such as hassle – you have to preheat it, and defrost the salmon, and what not."
 categories: ["recipes", "one-pot", "dinner", "seafood"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]
 toc: true

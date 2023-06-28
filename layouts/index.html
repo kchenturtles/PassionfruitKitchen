@@ -69,6 +69,7 @@
     .md\:p-0 {
         padding: 0
     }
+    
 }
 
 @media(min-width: 1024px) {
@@ -296,6 +297,11 @@
         grid-template-columns: repeat(4,minmax(0,1fr))
     }
 
+    .lg\:grid-cols-2 {
+      grid-template-columns: 2fr 1fr;
+      gap:2rem;
+    }
+
     .lg\:gap-6 {
         gap: 1.5rem
     }
@@ -315,21 +321,33 @@
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div style = "margin-top:3rem;">
-    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0"  style = "font-family: cursive;">Latest Posts</div>
-    <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-      {{ range first 4 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
-        {{- partial "blog-card.html" . -}}
-      {{ end }}
-    </div>
-    </div>
-  
-    {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div class = "dark:text-black {{ .Site.Params.ascentColor | default "bg-pink-50" }}" style = "margin-top:3rem;">
       <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Featured Posts</div>
     <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "featured")  }}
         {{- partial "blog-card.html" . -}}
       {{ end }}
+    </div>
+    </div>
+
+    {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
+    <div style = "margin-top:3rem;">
+    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0"  style = "font-family: cursive;">The Latest</div>
+    <div class = "container p-6 mx-auto grid md:grid-cols-1 lg:grid-cols-2">
+      <div>
+        {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
+          {{- partial "blog-post.html" . -}}
+        {{ end }}
+        <div class = "container mx-auto" style = "margin-top:2rem; max-width: fit-content; margin-bottom: 2rem;">
+          <a href = "/posts/" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; background-color: peru; font-family: 'Times New Roman', Times, serif; padding-left: 10rem; padding-right: 10rem;">All Recent Posts</a>
+        </div>
+      </div>
+      <div style = "margin-left:1rem; margin-right: 4rem; justify-content: center; justify-self: center; justify-items: center; align-items: center; align-self: center; align-content: center;">
+        <img src = "https://kchenturtles.github.io/PassionfruitKitchen/broccoli_soup_thumbnail.jpeg" alt = "image"/>
+        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:text-black"  style = " margin-top:2rem; background-color: papayawhip; text-align: center; padding-bottom:1rem; margin-bottom: 0.25em;">Recipe Collections</div>
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            <div  class="dark:text-black" style = "border-width: 1px; border-color: white; border-style: solid; background-color: papayawhip; margin-top:0.25em; margin-bottom:0.25em; padding-left:2rem; padding-top: 1rem; padding-bottom: 1rem; font-size: large;"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></div>
+          {{ end }}
+      </div>
     </div>
     </div>
 
