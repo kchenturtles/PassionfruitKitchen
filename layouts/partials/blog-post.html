@@ -26,13 +26,13 @@
         <div>
           <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = " max-width: 20rem; width: 20rem; height:20em; object-fit: cover;" />
           {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-          <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5" >
-            {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
-          </div>
           {{ end }}
         </div>
         {{ end }}
         <div style = "justify-self: center; align-self: center;">
+            <div class="text-gray-400 dark:text-white text-md py-0.5" style="font-family: 'Times New Roman', Times, serif; font-weight: 800;" >
+                {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
+              </div>
             <div class="my-2 text-xl font-semibold" style = "font-size: 2rem; font-family: Georgia, 'Times New Roman', Times, serif; padding-bottom: 1rem; color:purple;">{{ .Params.title }}</div>
                 <div>{{ .Params.description }}</div>
                 <div style = "padding-bottom:1rem;">{{ .Params.summary }} </div>
