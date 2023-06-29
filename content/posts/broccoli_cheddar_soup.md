@@ -2,6 +2,7 @@
 title: "broccoli cheddar soup"
 date: 2023-06-22T22:53:59-04:00
 categories: ["dinner", "lunch", "quick & easy", "soups & stews", "one-pot"]
+featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["vegetarian", "gluten-free"]
 toc: true
 summary: "Who else loves broccoli cheddar soup? I adored it as a kid, but really only from Panera Bread. Unfortunately, I’ve had quite a few bad broccoli cheddar soups in my life (school cafeteria, anyone?) — floury, bland, watery, and sometimes the broccoli inside would still be crunchy (yikes). But Panera’s was really good: creamy, savory, and deliciously cheesy."

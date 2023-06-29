@@ -2,6 +2,7 @@
 title: "vegetable fritatta"
 date: 2023-06-22T22:54:34-04:00
 categories: ["dinner", "lunch", "quick & easy", "casseroles", "one-pot"]
+featured_categories: ["quick & easy", "casseroles", "one-pot"]
 tags: ["vegetarian", "gluten-free"]
 toc: true
 summary: "Fritattas are a great dish to make anytime: They’re easy to whip up, and they’re great for pretty much any meal. Plus, they’re super customizable, and you can use them to clean leftover produce out of your fridge. You can customize the mix-ins if you desire!"

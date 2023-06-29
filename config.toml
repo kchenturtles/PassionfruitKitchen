@@ -143,3 +143,4 @@ DefaultContentLanguageInSubdir = true
 [taxonomies]
     tag = "tags"
     category = "categories"
+    featuredcollection = "featured_categories"

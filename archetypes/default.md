@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: "{{ replace .Name "-" " " | description }}"
 categories: ["one-pot", "dinner", "seafood"]
+featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]
 toc: true
 dropCap: true

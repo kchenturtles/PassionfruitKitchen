@@ -2,6 +2,7 @@
 title: "red curry noodle soup"
 date: 2023-06-22T22:54:49-04:00
 categories: ["dinner", "lunch", "soups & stews", "one-pot", "seafood"]
+featured_categories: ["seafood", "soups & stews", "one-pot"]
 tags: ["vegetarian", "gluten-free", "dairy-free"]
 toc: true
 summary: "Creamy, spicy, savory, coconutty…this soup is possibly one of the best things I’ve ever made. My family definitely agrees – whenever I make this, it’s gone in a day! It’s a great comfort food for winter and also great to make in the summer, since I always crave spicy food in the summer. I love this soup so much!"
