@@ -103,6 +103,8 @@ DefaultContentLanguageInSubdir = true
   inputposition = ""
   theme = ""
 
+  disqusShortname = 'passionfruit-kitchen'
+
   # Options for utterances, exclude hyphens
   # repo = ""
   # issueterm = ""

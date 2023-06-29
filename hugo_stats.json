@@ -124,7 +124,6 @@
       "lg:grid-cols-5",
       "lg:grid-cols-6",
       "lg:prose-lg",
-      "margin-top:-2rem;",
       "max-w-3xl",
       "max-w-4xl",
       "max-w-6xl",
