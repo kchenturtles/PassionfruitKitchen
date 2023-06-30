@@ -320,7 +320,7 @@
 
     .lg\:grid-cols-2 {
       grid-template-columns: 2fr 1fr;
-      gap:2rem;
+      gap:3rem;
     }
 
     .lg\:gap-6 {
@@ -359,7 +359,7 @@
     </div>
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "margin-top:3rem;">
+    <div style = "margin-top:3rem; margin-bottom:4rem;">
     <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0"  style = "font-family: cursive;">The Latest</div>
     <div class = "container p-6 mx-auto grid md:grid-cols-1 lg:grid-cols-2">
       <div>
@@ -370,25 +370,65 @@
           <a href = "/posts/" class = "md:hide lg:display" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; font-family: 'Times New Roman', Times, serif; padding-left: 10rem; padding-right: 10rem;">All Recent Posts</a>
         </div>
       </div>
-      <div style = "margin-left:1rem; margin-right: 4rem; justify-content: center; justify-self: center; justify-items: center; align-items: center; align-self: center; align-content: center;">
-        <img src = "https://kchenturtles.github.io/PassionfruitKitchen/broccoli_soup_thumbnail.jpeg" alt = "image"/>
-        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:text-black"  style = " margin-top:2rem; background-color: papayawhip; text-align: center; padding-bottom:1rem; padding-top:1rem; margin-bottom: 0.25em;">Recipe Collections</div>
+      <div style = "margin-left:1rem; margin-right: 4rem; justify-content: center; justify-self: center; justify-items: center; align-items: center; align-self: center; align-content: center; min-width: 25em;">
+        <!-- <img src = "https://kchenturtles.github.io/PassionfruitKitchen/broccoli_soup_thumbnail.jpeg" alt = "image"/> -->
+        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:text-black"  style = "background-color: papayawhip; text-align: center; padding-bottom:1rem; padding-top:1rem; margin-bottom: 0.25em;">Collections</div>
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
             <div  class="dark:text-black" style = "border-width: 1px; border-color: white; border-style: solid; background-color: papayawhip; margin-top:0.25em; margin-bottom:0.25em; padding-left:2rem; padding-top: 1rem; padding-bottom: 1rem; font-size: large;"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }} {{ .Count }}</a></div>
           {{ end }}
       </div>
     </div>
     </div>
-
+    
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "margin-top:3rem;">
-    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Recipes for Fourth of July</div>
-    <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-      {{ range first 4 (.Site.Pages.ByParam "spring") }}
-        {{- partial "blog-card.html" . -}}
-      {{ end }}
-    </div>
-    </div>
+    <div style = "min-height: 15rem; background-color: papayawhip; margin-bottom:20rem; margin-top:5rem;"></div>
+      <div class = "my-12 font-bold text-xl mb-4 container mx-auto" style = "border-color: peachpuff; border-style: double; border-width: 10px; padding:2rem; margin-top:-38rem; background-color: white;">
+        <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive;">Search by Diet</div>
+        <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+            <div class = "p-2">
+                <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">
+                  <div class="relative">
+                    <!-- <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />             -->
+                  </div>
+                  <div class="my-2 text-xl font-semibold" style = "font-family: Georgia, 'Times New Roman', Times, serif; text-decoration: underline;">{{ $name }}</div>
+                </a>
+              </div>
+          {{ end }}
+      </div>
+      </div>
+
+      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
+      <div style = "margin-top:8rem; margin-bottom:5rem;">
+      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">What To Make This Fourth of July</div>
+      <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+        {{ range first 4 (.Site.Pages.ByParam "spring") }}
+          {{- partial "blog-card.html" . -}}
+        {{ end }}
+      </div>
+      </div>
+
+      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
+      <div style = "margin-top:5rem; margin-bottom:5rem;">
+      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Summer Recipes</div>
+      <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+        {{ range first 4 (.Site.Pages.ByParam "spring") }}
+          {{- partial "blog-card.html" . -}}
+        {{ end }}
+      </div>
+      </div>
+
+      {{- partial "intro.html" . -}}
+
+      <div style = "margin-top:5rem; margin-bottom: 5rem;">
+        <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy One-Pot Recipes</div>
+        <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+          {{ range first 4 (.Site.Pages.ByParam "spring") }}
+            {{- partial "blog-card.html" . -}}
+          {{ end }}
+        </div>
+        </div>
+
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div style = "background-color: papayawhip; padding-top: 1rem; min-height: 15rem;"></div>
@@ -413,10 +453,9 @@
     <!-- </div> -->
     </div>
 
-
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div style = "margin-top:3rem;">
-    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Summer Recipes</div>
+    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Classic Casseroles</div>
     <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "spring") }}
         {{- partial "blog-card.html" . -}}
@@ -425,46 +464,19 @@
     </div>
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-      <div class = "my-12 font-bold text-xl mb-4 container mx-auto">
-        <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive;">Search by Diet</div>
-        <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-            <div class = "p-2">
-                <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">
-                  <div class="relative">
-                    <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />            
-                  </div>
-                  <div class="my-2 text-xl font-semibold" style = "font-family: Georgia, 'Times New Roman', Times, serif;">{{ $name }}</div>
-                </a>
-              </div>
-          {{ end }}
-      </div>
-      </div>
-
-      {{- partial "intro.html" . -}}
+    <div style = "margin-top:3rem;">
+    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy Breakfast Ideas</div>
+    <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+      {{ range first 4 (.Site.Pages.ByParam "spring") }}
+        {{- partial "blog-card.html" . -}}
+      {{ end }}
+    </div>
+    </div>
   
       {{ if .Site.Params.enableSearch }}
       {{- partial "search-ui.html" . -}}
       {{ end }}
 
-      <div style = "margin-top:3rem;">
-      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy One-Pot Recipes</div>
-      <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-        {{ range first 4 (.Site.Pages.ByParam "spring") }}
-          {{- partial "blog-card.html" . -}}
-        {{ end }}
-      </div>
-      </div>
-
-      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-      <div style = "margin-top:3rem;">
-      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Classic Casseroles</div>
-      <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-        {{ range first 4 (.Site.Pages.ByParam "spring") }}
-          {{- partial "blog-card.html" . -}}
-        {{ end }}
-      </div>
-      </div>
   
     {{ if gt (len (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)) 6 }}
     <div class="text-center mb-8">
