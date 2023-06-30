@@ -314,6 +314,9 @@
     .lg\:grid-cols-6 {
         grid-template-columns: repeat(6,minmax(0,1fr))
     }
+    .lg\:grid-cols-8 {
+        grid-template-columns: repeat(8,minmax(0,1fr))
+    }
 
     .lg\:grid-cols-2 {
       grid-template-columns: 2fr 1fr;
@@ -391,7 +394,7 @@
     <div style = "background-color: papayawhip; padding-top: 1rem; min-height: 15rem;"></div>
     <div class = "my-12 font-bold text-xl mb-4 container mx-auto padding-bottom:2rem;"  style = "background-color: white; margin-top:-12rem; padding:1rem; border-color: peachpuff; padding-top: 1rem; border-style: solid; border-width: 2px;">
       <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive;">Top Collections</div>
-      <div class="container p-6 mx-auto grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 lg:gap-8">
+      <div class="container p-6 mx-auto grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4 lg:gap-8">
         {{ range $name, $taxonomy := .Site.Taxonomies.featured_categories }}
           <div class = "p-2">
               <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">

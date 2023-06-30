@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "How To Set Up a Cheeseboard"
+date: 2023-06-29T20:07:11-04:00
 categories: ["one-pot", "dinner", "seafood"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]
