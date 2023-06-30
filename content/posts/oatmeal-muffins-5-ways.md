@@ -5,6 +5,7 @@ categories: ["breakfasts", "desserts", "quick & easy", "snacks"]
 featured_categories: ["quick & easy", "desserts", "breakfasts"]
 tags: ["vegetarian"]
 toc: true
+summary: "A lot of muffins I find in stores are very sweet and very dry, so I prefer to make my own. Homemade muffins are the best, especially warm out of the oven. They only need a bowl and a whisk, and they’re so easy to customize! My recipe has no refined sugar and has oats for added fiber and texture."
 dropCap: true
 displayInMenu: true
 displayInList: true

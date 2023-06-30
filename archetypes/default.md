@@ -4,6 +4,7 @@ date: {{ .Date }}
 categories: ["one-pot", "dinner", "seafood"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]
+summary: "summary"
 toc: true
 dropCap: true
 displayInMenu: true

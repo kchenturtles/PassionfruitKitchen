@@ -4,6 +4,7 @@ date: 2023-06-29T20:07:11-04:00
 categories: ["appetizers", "dinner", "desserts", "snacks"]
 featured_categories: ["desserts"]
 tags: ["pescetarian"]
+summary: "A big cheeseboard is also the perfect appetizer at a holdiay party! I always used to see all these photos of fancy cheeseboards on Instagram and Pinterest, and I’d wish I could make something similar. There are a few steps to making a cheeseboard, which I cover in this guide. "
 toc: true
 dropCap: true
 displayInMenu: true
