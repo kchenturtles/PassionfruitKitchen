@@ -9,6 +9,8 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
+summer: true
+independence: true
 draft: false
 thumbnail: categories/appetizers.jpeg
 resources:

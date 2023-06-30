@@ -11,6 +11,7 @@ displayInMenu: true
 displayInList: true
 featured: true
 draft: false
+summer: true
 thumbnail: broccoli_soup_thumbnail.jpeg
 resources:
 - name: featuredImage

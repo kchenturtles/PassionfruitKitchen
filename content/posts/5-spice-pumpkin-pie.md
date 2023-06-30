@@ -5,6 +5,7 @@ categories: ["breakfasts", "desserts", "pies & tarts"]
 featured_categories: ["breakfasts", "desserts"]
 tags: ["pescetarian", "vegetarian"]
 toc: true
+breakfast: true
 summary: "Pumpkin pie was one of the first things I ever learned how to bake! I originally used the Libby’s pumpkin pie recipe, but after a while, I got sick of baking the same recipe again and again. So I started to tinker with the recipe (to the delight of my family, of course) and I came up with the idea of using Chinese five spice instead of pumpkin pie spice. It gives the pie so much more depth of flavor."
 dropCap: true
 displayInMenu: true

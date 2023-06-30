@@ -9,6 +9,10 @@ summary: "I love jambalaya. It’s traditionally not pescetarian, so I swapped c
 dropCap: true
 displayInMenu: true
 displayInList: true
+summer: true
+featured: true
+independence: true
+one-pot: true
 draft: false
 thumbnail: jambalaya/jambalaya-thumbnail.jpeg
 resources:

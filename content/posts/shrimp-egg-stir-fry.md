@@ -9,6 +9,7 @@ dropCap: true
 summary: "When I was young, we used to get takeout from this one place in Chinatown (I don’t know the name, sadly.) I specifically remember this one dish I loved: their stir-fried shrimp and eggs."
 displayInMenu: true
 displayInList: true
+one-pot: true
 draft: false
 thumbnail: shrimp-eggs/shrimp-eggs-thumbnail.jpeg
 resources:

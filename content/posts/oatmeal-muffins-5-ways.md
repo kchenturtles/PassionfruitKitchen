@@ -9,6 +9,8 @@ summary: "A lot of muffins I find in stores are very sweet and very dry, so I pr
 dropCap: true
 displayInMenu: true
 displayInList: true
+breakfast: true
+summer: true
 draft: false
 thumbnail: muffins/muffins-thumbnail.jpeg
 resources:

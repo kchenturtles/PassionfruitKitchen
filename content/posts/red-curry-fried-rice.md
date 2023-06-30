@@ -11,7 +11,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-spring: true
+one-pot: true
 thumbnail: fried_rice.jpeg
 resources:
 - name: featuredImage

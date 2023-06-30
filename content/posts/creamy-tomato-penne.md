@@ -8,6 +8,9 @@ toc: true
 summary: "I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe!"
 dropCap: true
 displayInMenu: true
+one-pot: true
+summer: true
+featured: true
 displayInList: true
 draft: false
 thumbnail: tomato-pasta/pasta-thumbnail.jpeg

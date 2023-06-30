@@ -7,6 +7,7 @@ tags: ["vegetarian", "pescetarian", "dairy-free"]
 summary: "Mooncakes are a symbolic dessert traditionally eaten on the Mid Autumn Festival. They are decorated with elaborate stamped designs and characters on top. Mooncakes are traditionally baked pastries with a rich filling. The pastry layer is akin to a soft cookie, while the filling can be savory or sweet. Traditional fillings include lotus seed paste with salted egg yolk, red bean paste, mixed nutes, and jujube or date paste."
 toc: true
 dropCap: true
+breakfast: true
 displayInMenu: true
 displayInList: true
 draft: false

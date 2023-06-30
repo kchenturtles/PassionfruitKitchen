@@ -7,8 +7,10 @@ tags: ["vegetarian", "pescetarian"]
 summary: "I love caramelized onions. And mushrooms. And goat cheese. So I thought, why not put them all on top of a puff pastry base? It’s the perfect mix of sweet, savory caramelized onions and tangy, creamy goat cheese."
 toc: true
 dropCap: true
+summer: true
 displayInMenu: true
 displayInList: true
+casserole: true
 draft: false
 thumbnail: galette/galette-thumbnail.jpeg
 resources:

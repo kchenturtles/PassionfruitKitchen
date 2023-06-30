@@ -402,7 +402,7 @@
       <div style = "margin-top:8rem; margin-bottom:5rem;">
       <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">What To Make This Fourth of July</div>
       <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-        {{ range first 4 (.Site.Pages.ByParam "spring") }}
+        {{ range first 4 (.Site.Pages.ByParam "independence") }}
           {{- partial "blog-card.html" . -}}
         {{ end }}
       </div>
@@ -412,7 +412,7 @@
       <div style = "margin-top:5rem; margin-bottom:5rem;">
       <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Summer Recipes</div>
       <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-        {{ range first 4 (.Site.Pages.ByParam "spring") }}
+        {{ range first 8 (.Site.Pages.ByParam "summer") }}
           {{- partial "blog-card.html" . -}}
         {{ end }}
       </div>
@@ -423,7 +423,7 @@
       <div style = "margin-top:5rem; margin-bottom: 5rem;">
         <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy One-Pot Recipes</div>
         <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-          {{ range first 4 (.Site.Pages.ByParam "spring") }}
+          {{ range first 4 (.Site.Pages.ByParam "one-pot") }}
             {{- partial "blog-card.html" . -}}
           {{ end }}
         </div>
@@ -457,7 +457,7 @@
     <div style = "margin-top:3rem;">
     <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Classic Casseroles</div>
     <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-      {{ range first 4 (.Site.Pages.ByParam "spring") }}
+      {{ range first 4 (.Site.Pages.ByParam "casserole") }}
         {{- partial "blog-card.html" . -}}
       {{ end }}
     </div>
@@ -467,7 +467,7 @@
     <div style = "margin-top:3rem;">
     <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy Breakfast Ideas</div>
     <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
-      {{ range first 4 (.Site.Pages.ByParam "spring") }}
+      {{ range first 4 (.Site.Pages.ByParam "breakfast") }}
         {{- partial "blog-card.html" . -}}
       {{ end }}
     </div>
