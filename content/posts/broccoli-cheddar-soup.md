@@ -1,5 +1,5 @@
 ---
-title: "broccoli cheddar soup"
+title: "Broccoli Cheddar Soup"
 date: 2023-06-22T22:53:59-04:00
 categories: ["dinner", "lunch", "quick & easy", "soups & stews", "one-pot"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]

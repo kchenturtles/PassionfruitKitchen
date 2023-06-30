@@ -1,5 +1,5 @@
 ---
-title: "quick roasted broccoli"
+title: "Quick Roasted Broccoli"
 date: 2023-06-22T22:55:04-04:00
 categories: ["dinner", "lunch", "quick & easy", "salads", "snacks", "sides"]
 featured_categories: ["quick & easy"]

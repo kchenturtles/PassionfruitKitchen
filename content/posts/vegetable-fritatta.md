@@ -1,5 +1,5 @@
 ---
-title: "vegetable fritatta"
+title: "Vegetable Fritatta"
 date: 2023-06-22T22:54:34-04:00
 categories: ["dinner", "lunch", "quick & easy", "casseroles", "one-pot"]
 featured_categories: ["quick & easy", "casseroles", "one-pot"]
