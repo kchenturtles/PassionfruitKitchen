@@ -348,7 +348,7 @@
     <div style = "background-color: papayawhip; min-height: 20rem;">
     </div>
       <!-- <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Featured Posts</div> -->
-      <div class = "container p-6 mx-auto" style = "background-color:white; margin-top:-16rem; margin-bottom:6rem; border-style: solid; border-width:3px; border-color:papayawhip">
+      <div class = "dark: text-black container p-6 mx-auto" style = "background-color:white; margin-top:-16rem; margin-bottom:6rem; border-style: solid; border-width:3px; border-color:papayawhip">
     <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "featured")  }}
       <div style = "border-color: peru; border-width:1px; border-style: solid;">
@@ -382,7 +382,7 @@
     
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div style = "min-height: 15rem; background-color: papayawhip; margin-bottom:20rem; margin-top:5rem;"></div>
-      <div class = "my-12 font-bold text-xl mb-4 container mx-auto" style = "border-color: peachpuff; border-style: double; border-width: 10px; padding:2rem; margin-top:-38rem; background-color: white;">
+      <div class = "dark: text-black my-12 font-bold text-xl mb-4 container mx-auto" style = "border-color: peachpuff; border-style: double; border-width: 10px; padding:2rem; margin-top:-38rem; background-color: white;">
         <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive;">Search by Diet</div>
         <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
           {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
@@ -410,7 +410,7 @@
 
       {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
       <div style = "margin-top:5rem; margin-bottom:5rem;">
-      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Summer Recipes</div>
+      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Recipes To Make This Summer</div>
       <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
         {{ range first 8 (.Site.Pages.ByParam "summer") }}
           {{- partial "blog-card.html" . -}}
@@ -421,7 +421,7 @@
       {{- partial "intro.html" . -}}
 
       <div style = "margin-top:5rem; margin-bottom: 5rem;">
-        <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy One-Pot Recipes</div>
+        <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy One-Pot Meals</div>
         <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
           {{ range first 4 (.Site.Pages.ByParam "one-pot") }}
             {{- partial "blog-card.html" . -}}
@@ -432,7 +432,7 @@
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div style = "background-color: papayawhip; padding-top: 1rem; min-height: 15rem;"></div>
-    <div class = "my-12 font-bold text-xl mb-4 container mx-auto padding-bottom:2rem;"  style = "background-color: white; margin-top:-12rem; padding:1rem; border-color: peachpuff; padding-top: 1rem; border-style: solid; border-width: 2px;">
+    <div class =  "dark: text-black my-12 font-bold text-xl mb-4 container mx-auto padding-bottom:2rem;"  style = "background-color: white; margin-top:-12rem; padding:1rem; border-color: peachpuff; padding-top: 1rem; border-style: solid; border-width: 2px;">
       <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive;">Top Collections</div>
       <div class="container p-6 mx-auto grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4 lg:gap-8">
         {{ range $name, $taxonomy := .Site.Taxonomies.featured_categories }}
@@ -463,9 +463,11 @@
     </div>
     </div>
 
+    <!-- {{- partial "newsletter.html" . -}} -->
+
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div style = "margin-top:3rem;">
-    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Easy Breakfast Ideas</div>
+    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Breakfast Ideas</div>
     <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "breakfast") }}
         {{- partial "blog-card.html" . -}}
