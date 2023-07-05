@@ -324,22 +324,31 @@
   </head>
   <body>
 
-  {{ if (and .Params.thumbnail (not (or .Site.Params.hidePageThumbnail .Params.hidePageThumbnail)) ) }}
-  <div class="relative max-w-6xl mx-auto px-4">
-    <!-- <img src="{{ .Params.thumbnail }}" class="rounded-lg shadow-sm w-full object-contain" /> -->
-    {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-    <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
-      {{ $datestr }}
+    <div style = "background-color: papayawhip; display: flex; padding-top: 0.3rem; padding-bottom: 0.3rem; text-decoration: none; box-shadow:1px 2px 5px lightgray inset;"> 
+        <div class = "prose lg: prose-lg container mx-auto" style = "text-align: left; font-size: medium;">
+        <a href = "https://passionfruitkitchen.com/" style = "text-decoration: none; font-weight: 400;">Passionfruit Kitchen </a>
+        <a href = "https://passionfruitkitchen.com/categories/" style = "text-decoration: none; font-weight: 400;"> · Categories</a>
+        {{ range first 1 .Params.categories }}
+            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" style = "text-decoration: none; text-transform: capitalize; font-weight: 400;"> · {{ . }}</a>
+        {{ end }}
+        <a style = "text-decoration: none; font-weight: 400;"> · {{ .Title }}</a>
+        </div>
     </div>
-    {{ end }}
-  </div>
-  {{ end }}
 
   <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark">
 
-    <h1 class="text-2xl font-bold mb-2" style = "font-family:Georgia, 'Times New Roman', Times, serif;">{{ .Title }}</h1>
+    <h1 class="font-bold" style = "font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2.5rem; margin-bottom: 0;">{{ .Title }}</h1>
+    <div class = "flex gap-2" style = "min-height:6rem;">
+        <a href="#recipe" style = "align-self: center; max-height: 3rem; background-color: pink; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;">Jump To Recipe </a>
+
+        <a href="#comments" style = "align-self: center; max-height: 3rem; background-color: peachpuff; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;">Comments </a>
+        {{ partial "tags.html" .}}
+
+    </div>
+
+
     {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-    <h5 class="text-sm flex items-center flex-wrap">
+    <h5 class="text-sm flex items-center flex-wrap"> 
       <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
         <rect x="4" y="5" width="16" height="16" rx="2" />
@@ -380,7 +389,6 @@
         {{- end }}
       {{ end }}
 
-      {{ partial "tags.html" .}}
     </h5>
     {{ end }}
 
@@ -388,17 +396,15 @@
     {{- partial "toc.html" . -}}
     {{ end }}
 
-    {{ .Content }}
+     {{ .Content }}
   </article>
   {{- partial "categories.html" . -}}
 
-  {{- partial "comments.html" . -}}
-  {{ template "_internal/disqus.html" . }}
   <div class = "container mx-auto prose lg: prose-lg">
     <hr></hr>
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div class="container mx-auto my-2 text-3xl font-light pb-0 pt-4 mb-0 mt-0">You Might Also Like:</div>
-    <div class="container p-0 mx-auto grid sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 lg:gap-8" style = "padding-bottom: 10rem;">
+    <div class="container p-0 mx-auto grid sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 lg:gap-8" style = "padding-bottom: 5rem;">
         {{ $related := .Site.RegularPages.Related . | first 5 }}
         {{ with $related }}
         {{ range . }}
@@ -406,6 +412,33 @@
       {{ end }}
     </div>
     {{ end }}
+  </div>
+
+  <div class = "container mx-auto prose lg: prose-lg" style = "display: flex; justify-content: space-between; margin-bottom: 5rem;">
+     
+    <div class="previous-post">
+        {{ if .PrevPage }}
+        <div style = "display: block;">
+            <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: left; font-weight: 800;">prev</div>
+            <a class="link-reverse" style = "font-style: italic; font-size: large; font-weight: 400;" href="{{ .PrevPage.Permalink }}?ref=footer" style = "text-align:left;">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="next-post">
+        {{ if .NextPage }}
+        <div style = "display: block;">
+            <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: right;font-weight: 800;">next</div>
+            <a class="link-reverse" style = "font-style: italic; font-size: large; font-weight: 400;" href="{{ .NextPage.Permalink }}?ref=footer" style = "text-align:right;">{{ .NextPage.Title | truncate 50 "..." }} »</a>
+        </div>
+        {{ end }}
+    </div>
+  </div>
+
+ <hr></hr>
+
+  <div id = "comments">
+    {{- partial "comments.html" . -}}
   </div>
 
 </body>

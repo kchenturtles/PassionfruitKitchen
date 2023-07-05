@@ -1,31 +1,12 @@
-{{ if .Site.Params.comments.system }}
-<div class="" style = "height:0;"> 
-  {{ if eq .Site.Params.comments.system "disqus" }}
-  {{ template "_internal/disqus.html" . }}
-  {{ else if eq .Site.Params.comments.system "giscus" }}
-  <script src="https://giscus.app/client.js"
-    data-repo="{{ .Site.Params.comments.repo }}"
-    data-repo-id="{{ .Site.Params.comments.repoid }}"
-    data-category="{{ .Site.Params.comments.category }}"
-    data-category-id="{{ .Site.Params.comments.categoryid }}"
-    data-mapping="{{ default "pathname" .Site.Params.comments.mapping }}"
-    data-strict="{{ default "0" .Site.Params.comments.strict }}"
-    data-reactions-enabled="{{ default "1" .Site.Params.comments.reactionsenabled }}"
-    data-emit-metadata="{{ default "0" .Site.Params.comments.emitmetadata }}"
-    data-input-position="{{ default "bottom" .Site.Params.comments.inputposition }}"
-    data-theme="{{ default "preferred_color_scheme" .Site.Params.comments.theme }}"
-    data-lang="{{ default "en" $.Site.Language.Lang }}"
-    crossorigin="anonymous"
-    async>
+<div class = "mx-auto prose lg:prose-lg" style = "background-color: whitesmoke; margin-bottom: 2rem; margin-top: 2rem; padding:1rem;">
+  <div id="disqus_thread"></div>
+  <script>
+  (function() {
+  var d = document, s = d.createElement('script');
+  s.src = 'https://passionfruit-kitchen.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
   </script>
-  {{ else if eq .Site.Params.comments.system "utterances" }}
-  <script src="https://utteranc.es/client.js"
-    repo="{{ .Site.Params.comments.repo }}"
-    issue-term="{{ default "pathname" .Site.Params.comments.issueterm }}"
-    theme="{{ default "preferred_color_scheme" .Site.Params.comments.theme }}"
-    crossorigin="anonymous"
-    async>
-  </script>
-  {{ end }}
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
-{{ end }}

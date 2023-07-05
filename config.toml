@@ -89,7 +89,7 @@ DefaultContentLanguageInSubdir = true
 [params.comments]
   # Supports disqus, giscus and utterances
   # Check hugo docs for setting up disqus
-  system = "giscus"
+  system = "disqus"
 
   # Options for giscus, exclude hyphens
   repo = ""

@@ -64,7 +64,7 @@ Dredge each floret in the batter and bake in the oven until crispy. Then, assemb
 - If your cauliflower wings are beginning to burn but are not yet cooked through, you can decrease the oven temperature and bake them for longer.
 - Be sure to adjust your sauce to taste!
 
-<div style = "border-style: solid; border-width: 1px; border-color: black; padding: 2em; padding-top:0em;"> 
+<div style = "border-style: solid; border-width: 5px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Sesame Honey Cauliflower Wings</h2><p style = "font-weight: 300;">Cauliflower wings, an easy and tasty snack!</p></div> | <img src="../../cauli-wings/cauli-wings.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

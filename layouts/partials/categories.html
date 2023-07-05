@@ -1,8 +1,9 @@
 <div class = "prose lg:prose-lg container mx-auto">
   <div class = "mb-2 text-xl font-bold">Categories</div>
-  <ul class = "underline font-light text-l flex gap-8 p-6" style = "padding-top:0; margin-top:0;">
+  <div class = "font-light text-l flex gap-2 p-6" style = "padding-top:0; margin-top:0; flex-wrap: wrap;">
+    <div> Filed Under:</div>
     {{ range .Params.categories }}
-    <li><a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+    <div style = "background-color: peru; padding-left:0.5em; padding-right: 0.5em;"><a  style = "color: white; text-decoration: none;" href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
   {{ end }}
-  </ul>
+  </div>
 </div>
