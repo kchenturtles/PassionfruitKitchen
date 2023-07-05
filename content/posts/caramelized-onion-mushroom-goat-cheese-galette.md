@@ -45,7 +45,7 @@ In general, making a puff pastry tart is pretty simple: you prep the toppings, s
 - Be patient when caramelizing onions! It takes a bit, but it’s definitely worth it. Just make sure not to get impatient and turn the heat too high – this will just make them burn.
 - It helps to grease or flour your baking sheet before putting the puff pastry on top, to keep it from sticking.
 
-<div style = "border-style: solid; border-width: 1px; border-color: black; padding: 2em; padding-top:0em;"> 
+<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Caramelized Onion, Mushroom, & Goat Cheese Tart</h2><p style = "font-weight: 300;">A savory tart with the perfect blend of flavors!</p></div> | <img src="../../galette/galette-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

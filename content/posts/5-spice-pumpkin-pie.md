@@ -44,7 +44,7 @@ Pumpkin pie is actually pretty simple to make. It's a custard pie, so it's stabi
 - The pie is done when it is puffed and set around the edges but still sunken a bit in the center. Removing it at that point will keep the pie from cracking, and the center will cook through as the pie cools.
 - Ovens can run at different temperatures, so be sure to keep an eye on your pie! If the crust is browning too fast, cover it with a little bit of aluminum foil.
 
-<div style = "border-style: solid; border-width: 1px; border-color: black; padding: 2em; padding-top:0em;"> 
+<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;" id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>5 Spice Pumpkin Pie</h2><p style = "font-weight: 300;">The BEST pumpkin pie!</p></div> | <img src="../../pumpkin-pie/pumpkin-pie-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

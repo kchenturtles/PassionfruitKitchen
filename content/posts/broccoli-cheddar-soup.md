@@ -74,7 +74,7 @@ Finally, turn off the heat and add in the cheddar. Stir to help it melt into the
 - Adjust your seasonings to taste! Add more mustard and paprika for a smoky, earthy flavor, and more black pepper for more punch.
 - Make sure not to add the cheese while the stove is on – this will cause it to split. Instead, stir it into the still-hot soup right after you’ve turned the stove off. If the cheese isn’t melting, you can heat it on a low flame until it is just melted. I prefer to hand-shred my cheese from a block because it will melt more smoothly.
 
-<div style = "border-style: solid; border-width: 1px; border-color: black; padding: 2em; padding-top:0em;"> 
+<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Broccoli Cheddar Soup</h2><p style = "font-weight: 300;">Better-Than-Panera’s Broccoli Cheddar Soup!</p></div> | <img src="../../broccoli_soup_thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

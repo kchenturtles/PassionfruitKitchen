@@ -45,7 +45,7 @@ Making this stir fry is just like making scrambled eggs. First, you’ll beat th
 - Mushroom bouillon and dried shrimp give the eggs extra umami, so try to include them if you can!
 - If you want to keep this dish vegetarian, just omit the dried shrimp.
 
-<div style = "border-style: solid; border-width: 1px; border-color: black; padding: 2em; padding-top:0em;"> 
+<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Garlic Chive & Egg Stir Fry</h2><p style = "font-weight: 300;">A quick chive and egg stir fry.</p></div> | <img src="../../chive-eggs/chive-eggs-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

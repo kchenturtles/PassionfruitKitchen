@@ -66,7 +66,7 @@ Mooncakes are baked twice: once to set the outside, and once more with an egg wa
 - If you don’t have a mooncake stamp, you can actually make free-form mooncakes! Just form the mooncakes as per the instructions, and shape them using your hands instead of using a stamp!
 - If you don’t want to use ube filling, you can substitute it for any filling of your choice! I especially like custard, lotus seed paste, and green tea fillings. And feel free to use store-bought filling if you don’t want to make it from scratch!
 
-<div style = "border-style: solid; border-width: 1px; border-color: black; padding: 2em; padding-top:0em;"> 
+<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Ube Mooncakes</h2><p style = "font-weight: 300;">A pan-Asian twist on a traditional Mid-Autumn treat!</p></div> | <img src="../../mooncakes/mooncakes-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

@@ -397,6 +397,8 @@
     {{ end }}
 
      {{ .Content }}
+     <div style = "background-color: peachpuff; font-size: x-large; font-weight: 900; font-family: 'Times New Roman', Times, serif; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
+     <div style = "display: flex; gap: 0.5em; background-color: peachpuff; padding:2rem; padding-top: 0; flex-wrap: wrap; margin-bottom: 5rem;"><img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.svg">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru"> @passionfruit_kitchen </a> on Instagram!</div>
   </article>
   {{- partial "categories.html" . -}}
 
@@ -414,29 +416,35 @@
     {{ end }}
   </div>
 
-  <div class = "container mx-auto prose lg: prose-lg" style = "display: flex; justify-content: space-between; margin-bottom: 5rem;">
+  <div class = "container mx-auto prose lg: prose-lg" style = "margin-bottom: 5rem;">
+    <hr></hr>
+    <div style = "display: flex; justify-content: space-between;">
      
-    <div class="previous-post">
-        {{ if .PrevPage }}
-        <div style = "display: block;">
-            <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: left; font-weight: 800;">prev</div>
-            <a class="link-reverse" style = "font-style: italic; font-size: large; font-weight: 400;" href="{{ .PrevPage.Permalink }}?ref=footer" style = "text-align:left;">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
+        <div class="previous-post">
+            {{ if .PrevPage }}
+            <div style = "display: block;">
+                <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: left; font-weight: 800;">prev</div>
+                <a class="link-reverse" style = "font-size: large; font-weight: 400;" href="{{ .PrevPage.Permalink }}?ref=footer" style = "text-align:left;">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
+            </div>
+            {{ end }}
         </div>
-        {{ end }}
-    </div>
-
-    <div class="next-post">
-        {{ if .NextPage }}
-        <div style = "display: block;">
-            <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: right;font-weight: 800;">next</div>
-            <a class="link-reverse" style = "font-style: italic; font-size: large; font-weight: 400;" href="{{ .NextPage.Permalink }}?ref=footer" style = "text-align:right;">{{ .NextPage.Title | truncate 50 "..." }} »</a>
+    
+        <div class="next-post">
+            {{ if .NextPage }}
+            <div style = "display: block;">
+                <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: right;font-weight: 800;">next</div>
+                <a class="link-reverse" style = "font-size: large; font-weight: 400;" href="{{ .NextPage.Permalink }}?ref=footer" style = "text-align:right;">{{ .NextPage.Title | truncate 50 "..." }} »</a>
+            </div>
+            {{ end }}
         </div>
-        {{ end }}
-    </div>
+      </div>
+    
+     <hr></hr>
+    
+    
   </div>
 
- <hr></hr>
-
+  
   <div id = "comments">
     {{- partial "comments.html" . -}}
   </div>

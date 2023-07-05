@@ -77,7 +77,7 @@ Enjoy!
 - My favorite brand of vegetarian sausage is Beyond Meat’s sausage links or Tofurky vegetarian kielbasa. Use the hot variety for the best kick, but if you don’t like spice, use the sweet version.
 - If you find the jambalaya a little soupy after it’s released pressure, you can turn the Instant Pot to saute and let it boil for a little longer to thicken up.
 
-<div style = "border-style: solid; border-width: 1px; border-color: black; padding: 2em; padding-top:0em;"> 
+<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Brown Rice Jambalaya</h2><p style = "font-weight: 300;">A pescetarian take on jambalaya!</p></div> | <img src="../../jambalaya/jambalaya-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |
