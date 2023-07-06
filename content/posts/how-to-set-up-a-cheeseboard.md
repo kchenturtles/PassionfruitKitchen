@@ -81,7 +81,7 @@ _Pictured: Cheeseboard with Bijou, Raspberry Chevre, Gouda, Stilton_
 
 Have fun making a delicious, gorgeous cheeseboard!
 
-<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Cheeseboard Shopping List</h2><p style = "font-weight: 300;"></p></div> | <img src="../../cheeseboard/cheeseboard.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

@@ -401,8 +401,13 @@
     {{ end }}
 
      {{ .Content }}
-     <div style = "background-color: peachpuff; font-size: x-large; font-weight: 900; font-family: 'Times New Roman', Times, serif; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
-     <div style = "display: flex; gap: 0.5em; background-color: peachpuff; padding:2rem; padding-top: 0; flex-wrap: wrap; margin-bottom: 5rem;"><img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.svg">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru"> @passionfruit_kitchen </a> on Instagram!</div>
+     <div style = "display: flex; background-color: purple; padding: 1rem; gap: 5rem; color: white;">
+        <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style = "height:8rem; width: 8rem; padding-left:1rem;"/>
+        <div style = "display: block; align-self: center;">
+            <div style = "background-color: purple; font-size: x-large; font-weight: 900; font-family: 'Times New Roman', Times, serif; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
+            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: purple; padding-top: 0; margin-bottom: 5rem;">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru"> @passionfruit_kitchen </a> on Instagram!</div>
+        </div>
+     </div>
   </article>
   {{- partial "categories.html" . -}}
 
