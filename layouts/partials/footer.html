@@ -8,7 +8,7 @@
       <div class = "mb-2">Menu</div>
       <ul class="underline font-light text-sm">
         {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+        <li><a href="{{ .URL | relLangURL }}" style = "text-decoration: underline;">{{ .Name }}</a></li>
         {{ end }}
       </ul>
     </div>
@@ -17,7 +17,7 @@
       <div class = "mb-2">Tags</div>
       <ul class = "underline font-light text-sm">
         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-          <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+          <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" style = "text-decoration: underline;">{{ $name }}</a></li>
         {{ end }}
       </ul>
     </div>
