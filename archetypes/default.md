@@ -30,7 +30,7 @@ Description here
 - Tips
 - Here
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Recipe Title</h2><p style = "font-weight: 300;">Recipe Description</p></div> | <img src="../../honey_soy_salmon.jpg"  width="200em" height="200em"> |
 | :--- | :----: |

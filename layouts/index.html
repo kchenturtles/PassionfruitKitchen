@@ -382,7 +382,7 @@
         <!-- <img src = "https://kchenturtles.github.io/PassionfruitKitchen/broccoli_soup_thumbnail.jpeg" alt = "image"/> -->
         <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:text-black"  style = "background-color: papayawhip; text-align: center; padding-bottom:1rem; padding-top:1rem; margin-bottom: 0.25em;">Collections</div>
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <div  class="dark:text-black" style = "border-width: 1px; border-color: white; border-style: solid; background-color: papayawhip; margin-top:0.25em; margin-bottom:0.25em; padding-left:2rem; padding-top: 1rem; padding-bottom: 1rem; font-size: large;"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }} {{ .Count }}</a></div>
+            <div  class="dark:text-black" style = "border-width: 1px; border-color: white; border-style: solid; background-color: papayawhip; margin-top:0.25em; margin-bottom:0.25em; padding-left:2rem; padding-top: 1rem; padding-bottom: 1rem; font-size: large;"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" class = "hovername">{{ $name }} {{ .Count }}</a></div>
           {{ end }}
       </div>
     </div>

@@ -10,18 +10,7 @@
   </head>
   <body>
 
-    <div style = "background-color: papayawhip; display: flex; padding-top: 0.3rem; padding-bottom: 0.3rem; text-decoration: none; box-shadow:1px 2px 5px lightgray inset;"> 
-        <div class = "prose lg: prose-lg container mx-auto" style = "text-align: left; font-size: medium;">
-        <a href = "https://passionfruitkitchen.com/" style = "text-decoration: none; font-weight: 400;">Passionfruit Kitchen </a>
-        <a href = "https://passionfruitkitchen.com/categories/" style = "text-decoration: none; font-weight: 400;"> · Categories</a>
-        {{ range first 1 .Params.categories }}
-            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" style = "text-decoration: none; text-transform: capitalize; font-weight: 400;"> · {{ . }}</a>
-        {{ end }}
-        <a style = "text-decoration: none; font-weight: 400;"> · {{ .Title }}</a>
-        </div>
-    </div>
-
-  <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark" style = "margin-bottom: 8rem;">
+  <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark" style = "margin-bottom: 8rem; margin-top: 4rem;">
 
     <h1 class="font-bold" style = "font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2.5rem; margin-bottom: 0;">{{ .Title }}</h1>
 
