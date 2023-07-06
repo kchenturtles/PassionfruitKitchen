@@ -75,7 +75,7 @@ This recipe is actually pretty straightforward. You’ll start by sauteing the a
 - Season the broth to taste! If it needs to be more sour, add some more lime! If it needs to be sweeter, add a pinch more sugar! You can also add dried shrimp for an extra savory boost, and some chili paste like sambal oelek if you want more spice.
 - Eat this soup while it’s fresh! If you let it sit too long, the noodles can absorb the broth and get soggy, which nobody likes.
 
-<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;" id = "recipe"> 
+<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;" id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Red Curry Noodle Soup</h2><p style = "font-weight: 300;">A deliciously complex noodle soup, perfect comfort food!</p></div> | <img src="../../red_curry_noodle_soup.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

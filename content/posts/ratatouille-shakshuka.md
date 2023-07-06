@@ -62,7 +62,7 @@ Cover the pot and let the eggs poach in the sauce until just set.
 - If tomatoes are in season, feel free to substitute canned diced tomatoes with fresh ones!
 - Cook the eggs to your liking of doneness – if you like them to have a more solid yolk, cook them for a bit longer. I don’t usually time them; I just stop when they’re at my desired point of cooking.
 
-<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Ratatouille Shakshuka Skillet</h2><p style = "font-weight: 300;">Ratatouille/shakshuka, a healthy, tasty one-pan meal!</p></div> | <img src="../../ratatouille-eggs/ratatouille-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

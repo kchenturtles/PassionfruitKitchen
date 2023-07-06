@@ -51,7 +51,7 @@ Then, cook until the eggs are done, and that’s it!
 - To save time, buy pre-peeled and deveined shrimp. This dish is best with smaller shrimp (50-60 count).
 - If you don’t want to add peas, you can add another vegetable of your choosing – perhaps garlic chives! Or, you can just leave them out.
 
-<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;" id = "recipe"> 
+<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;" id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Shrimp & Egg Stir Fry</h2><p style = "font-weight: 300;">Quick takeout-style shrimp and eggs!</p></div> | <img src="../../shrimp-eggs/shrimp-eggs-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |

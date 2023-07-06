@@ -66,7 +66,7 @@ Don’t get bored of the same flavor combination again and again! Here are some 
 - Tomatoes, mozzarella, and basil
 - Vegetarian bacon, cheddar, and scallion
 
-<div style = "border-style: solid; border-width: 3px; border-color: peru; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Vegetable Fritatta</h2><p style = "font-weight: 300;">Fritatta, your way!</p></div> | <img src="../../tomato_fritatta_aerial.jpg"  width="200em" height="200em"> |
 | :--- | :----: |

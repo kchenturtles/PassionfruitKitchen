@@ -69,7 +69,7 @@ Increase the amount of sweetener you are adding if your mix-ins are on the sour 
 - If you want taller muffins, put more batter in each muffin cup and bake for longer.
 - Try not to open the door while the muffins are baking, as this will cause them to drop.
 
-<div style = "border-style: solid; border-width: 3px; border-color: peachpuff; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
 
 | <div style = "margin-bottom:10em;"><h2>Oatmeal Muffins (5 ways!)</h2><p style = "font-weight: 300;">Healthy, tasty, easy-to-customize muffins!</p></div> | <img src="../../muffins/muffins-thumbnail.jpeg"  width="200em" height="200em"> |
 | :--- | :----: |
