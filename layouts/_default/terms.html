@@ -304,6 +304,10 @@
     .lg\:gap-16 {
         gap: 4rem
     }
+
+    .hovername:hover {
+      color: peru;
+    }
 }
 </style>
 </head>
@@ -318,7 +322,7 @@
           <div class="relative">
             <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ .Params.title }}.jpeg" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />            
           </div>
-          <div class="my-2 text-xl font-semibold" style = "font-family: Georgia, 'Times New Roman', Times, serif;">{{ .Params.title }}</div>
+          <div class="my-2 text-xl font-semibold hovername" style = "font-family: Georgia, 'Times New Roman', Times, serif;">{{ .Params.title }}</div>
           <div>{{ .Params.description }}</div>
         </a>
       </div>

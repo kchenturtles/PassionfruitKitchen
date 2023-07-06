@@ -338,6 +338,14 @@
     .lg\:display {
         background-color: peru;
     }
+
+    .hoverlink:hover {
+      text-decoration: underline;
+    }
+
+    .hovername:hover {
+      color: peru;
+    }
 }
 
   </style>
@@ -383,15 +391,15 @@
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div style = "min-height: 15rem; background-color: papayawhip; margin-bottom:20rem; margin-top:5rem;"></div>
       <div class = "dark: text-black my-12 font-bold text-xl mb-4 container mx-auto" style = "border-color: peachpuff; border-style: double; border-width: 10px; padding:2rem; margin-top:-38rem; background-color: white;">
-        <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive;">Search by Diet</div>
+        <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive; text-align: center;">Search by Diet</div>
         <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
           {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-            <div class = "p-2">
+            <div>
                 <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">
                   <div class="relative">
                     <!-- <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />             -->
                   </div>
-                  <div class="my-2 text-xl font-semibold" style = "font-family: Georgia, 'Times New Roman', Times, serif; text-decoration: underline;">{{ $name }}</div>
+                  <div class="my-2 text-xl font-semibold hoverlink" style = "font-size: x-large; font-weight: 300; color: peru; font-family: Georgia, 'Times New Roman', Times, serif; text-align: center;">{{ $name }}</div>
                 </a>
               </div>
           {{ end }}
@@ -400,7 +408,7 @@
 
       {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
       <div style = "margin-top:8rem; margin-bottom:5rem;">
-      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">What To Make This Fourth of July</div>
+      <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">What To Make This Weekend</div>
       <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
         {{ range first 4 (.Site.Pages.ByParam "independence") }}
           {{- partial "blog-card.html" . -}}
@@ -441,7 +449,7 @@
                 <div class="relative">
             <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "object-fit: cover; height:7em; width:7em;" />
           </div>
-          <div class="my-0 text-lg font-light" style = "text-decoration:none; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">{{ $name }}</div>
+          <div class="my-0 text-lg font-light hovername" style = "text-decoration:none; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">{{ $name }}</div>
                 <!-- <div class="relative">
                   <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />            
                 </div>

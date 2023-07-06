@@ -5,7 +5,7 @@
         <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "object-fit: cover; height:7em; width:7em;" />
       </div>
       {{ end }}
-      <div class="my-0 text-lg font-light" style = "text-decoration:none; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">{{ .Params.title }}</div>
+      <div class="my-0 text-lg font-light hovername" style = "text-decoration:none; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">{{ .Params.title }}</div>
       <div>{{ .Params.description }}</div>
     </a>
     {{ if not (or (or .Site.Params.hideOtherLanguages .Params.hideOtherLanguages) false) }}
