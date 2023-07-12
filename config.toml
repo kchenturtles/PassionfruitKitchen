@@ -146,3 +146,7 @@ DefaultContentLanguageInSubdir = true
     tag = "tags"
     category = "categories"
     featuredcollection = "featured_categories"
+
+[[params.newsletter_groups]]
+  name = "subscribers"
+  id = "92448119925507528"
