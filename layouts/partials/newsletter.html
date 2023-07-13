@@ -2,26 +2,58 @@
 <html>
 <head>
   <script>
-    const formElement = document.querySelector("form.newsletter");
-    const formCheckboxElements = formElement.querySelectorAll(`input[type="checkbox"]`);
-    const emailElement = formElement.querySelector("input#email");
-    const responseElement = formElement.querySelector("p.result");
-    formElement.addEventListener("submit", async event => {
-        event.preventDefault();
-        const email = emailElement.value;
-        const groupIds = [];
-        formCheckboxElements.forEach(checkboxElement => {
-            groupIds.push(checkboxElement.value);
-        });
-        const response = await fetch("/newsletter", {
+    // const formElement = document.getElementById("newsletter");
+    // const emailElement = formElement.querySelector("input#email");
+    // const responseElement = document.getElementById("result");
+    // formElement.addEventListener("submit", async event => {
+    //     event.preventDefault();
+    //     // const email = emailElement.value;
+    //     const response = await fetch("https://connect.mailerlite.com/api/subscribers", {
+    //         method: "POST",
+    //         headers: {
+    //             "Content-Type": "application/json",
+    //             "X-Version": "2038-01-19",
+    //             "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiODVlMDNhZDIxYTQzMTUwMTAyODMyOWE0OGI5Y2YxZDQzMTZjZDNjNmMzYWZlNmNkMjljYzM5ZDM5M2JmM2UzZTU1Zjk4NGZiYmNiM2ZmNGMiLCJpYXQiOjE2ODg2MDc0NjguNTY4NywibmJmIjoxNjg4NjA3NDY4LjU2ODcwMywiZXhwIjo0ODQ0MjgxMDY4LjU2MjA2NSwic3ViIjoiNTI1MDIwIiwic2NvcGVzIjpbXX0.Nwt-Fos52lq3sPSYcInQ2lpmIjamke7iglhYZ_3G8Jl78l949ci4tr4ofRvwJZ3VAfx1L4vGzjLWrdurDrL0MHM9CdX8LxHNtSr5XXJz-xEjzKeV2msKhzw9Vvdbx0KFQZujsW8MW_jhwbeSDT04ZuKQdXbkYV7qO77XNkOf1H2-RRDIfRnpVguKNx91CAwlqpE6eVHRaqfvkrXUF_0VDqBUfjRiRraVwWexMZEmbbeIUmpIaxvKoXefQU36MA1uFDOJYustv8C3c6BI14bIXj9OCzgPhM-zOC9X_VylbrcTAWbA8IWsmtm8NSRBlQ5F8Mh7HQelvTrjxupA9Quu7xvTiStyDljkxQ4vkgf8Hv-fy0_LpQawUC_sfA2I2CT-i2MJCi_68WWueweIwVPQkBZSH0VQbDXzsehOWvWQ9MErKzN1TJzumQ6FNqiqiRJT72kWBhgyd5dUpkAQxpK9HJOEOpSs6q1Oq_RXe0cxSYF8L5gnIK7kF2WX7FMgplTDd8TIekEKu1ozamPGx9jmcRcZDQGNqOGXyCK_xG3yUbQnKASZtiJZMJjkRvGlrdLzJEcWg6xwVg1_PznZYFn_Y6V2EuqjhwcnVac8S95TOOe-7pLveApdqGiGtGMJdJ1UaB-EyLNq2IB4CWwN8x4Ov-oJfG3_Sr8Z6wSBR3nTLDY",
+    //         },
+    //         body: {
+    //             "email": "kendree.chen@gmail.com",
+    //             "fields": {
+    //             "name": "Dummy",
+    //             "last_name": "Testerson"
+    //             },
+    //             "groups": [
+    //             "92448119925507528"
+    //          ]
+    //         },
+            
+    //     });
+    //     if(response.status === 200 || response.status === 201) {
+    //         responseElement.innerHTML = "Thanks for subscribing, please check your inbox for a confirmation email.";
+    //     } else {
+    //         console.error(`Could not subscribe to newsletter: ${response.status} ${await response.text()}`)
+    //         responseElement.innerHTML = "Could not subscribe";
+    //     }
+    // });
+
+    async function sendRequest() {
+        const response = await fetch("https://connect.mailerlite.com/api/subscribers", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
+                "X-Version": "2038-01-19",
+                "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiODVlMDNhZDIxYTQzMTUwMTAyODMyOWE0OGI5Y2YxZDQzMTZjZDNjNmMzYWZlNmNkMjljYzM5ZDM5M2JmM2UzZTU1Zjk4NGZiYmNiM2ZmNGMiLCJpYXQiOjE2ODg2MDc0NjguNTY4NywibmJmIjoxNjg4NjA3NDY4LjU2ODcwMywiZXhwIjo0ODQ0MjgxMDY4LjU2MjA2NSwic3ViIjoiNTI1MDIwIiwic2NvcGVzIjpbXX0.Nwt-Fos52lq3sPSYcInQ2lpmIjamke7iglhYZ_3G8Jl78l949ci4tr4ofRvwJZ3VAfx1L4vGzjLWrdurDrL0MHM9CdX8LxHNtSr5XXJz-xEjzKeV2msKhzw9Vvdbx0KFQZujsW8MW_jhwbeSDT04ZuKQdXbkYV7qO77XNkOf1H2-RRDIfRnpVguKNx91CAwlqpE6eVHRaqfvkrXUF_0VDqBUfjRiRraVwWexMZEmbbeIUmpIaxvKoXefQU36MA1uFDOJYustv8C3c6BI14bIXj9OCzgPhM-zOC9X_VylbrcTAWbA8IWsmtm8NSRBlQ5F8Mh7HQelvTrjxupA9Quu7xvTiStyDljkxQ4vkgf8Hv-fy0_LpQawUC_sfA2I2CT-i2MJCi_68WWueweIwVPQkBZSH0VQbDXzsehOWvWQ9MErKzN1TJzumQ6FNqiqiRJT72kWBhgyd5dUpkAQxpK9HJOEOpSs6q1Oq_RXe0cxSYF8L5gnIK7kF2WX7FMgplTDd8TIekEKu1ozamPGx9jmcRcZDQGNqOGXyCK_xG3yUbQnKASZtiJZMJjkRvGlrdLzJEcWg6xwVg1_PznZYFn_Y6V2EuqjhwcnVac8S95TOOe-7pLveApdqGiGtGMJdJ1UaB-EyLNq2IB4CWwN8x4Ov-oJfG3_Sr8Z6wSBR3nTLDY",
             },
-            body: JSON.stringify({
-                email,
-                groups_ids: groupIds,
-            }),
+            body: {
+                "email": "kendree.chen@gmail.com",
+                "fields": {
+                "name": "Dummy",
+                "last_name": "Testerson"
+                },
+                "groups": [
+                "92448119925507528"
+             ]
+            },
+            
         });
         if(response.status === 200 || response.status === 201) {
             responseElement.innerHTML = "Thanks for subscribing, please check your inbox for a confirmation email.";
@@ -29,26 +61,22 @@
             console.error(`Could not subscribe to newsletter: ${response.status} ${await response.text()}`)
             responseElement.innerHTML = "Could not subscribe";
         }
-    });
+    }
 </script>
 </head>
 <body>
-<form class="newsletter">
-  <p class="description">Subscribe to receive an email when I publish an article</p>
-  <ul class="groups">
-  {{- $groups := .Params.newsletter_groups -}}
-  {{ range $.Site.Params.newsletter_groups }}
-      <li><input type="checkbox" id="group_{{ .id }}" value="{{ .id }}" {{- if in $groups .name }} checked{{- end -}} /> <label for="group_{{ .id }}">{{ .name | humanize }}</label></li>
-  {{ end }}
-  </ul>
-  <div class="inputs">
-      <div class="input">
-          <label for="email">Email</label>
-          <input type="email" id="email" placeholder="john.doe@gmail.com" />
-      </div>
-      <button class="black" type="submit">Subscribe</button>
-  </div>
-  <p class="result"></p>
-</form>
+<main>
+    <form class="newsletter" id = "newsletter">
+        <p class="description">Subscribe to receive an email when I publish an article</p>
+        <div class="inputs">
+            <div class="input">
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="john.doe@gmail.com" />
+            </div>
+            <button type="submit" onclick = "sendRequest()">Subscribe</button>
+        </div>
+        <p class="result" id = "result"></p>
+      </form>
+</main>
 </body>
 </html>
