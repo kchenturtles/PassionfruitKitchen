@@ -8,6 +8,7 @@ summary: "Banana bread is a classic bake, and it definitely got more popular dur
 toc: true
 dropCap: true
 displayInMenu: true
+breakfast: true
 displayInList: true
 draft: false
 thumbnail: banana-coffee-cake/banana-bread-stacked.jpeg
