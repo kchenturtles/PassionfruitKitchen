@@ -24,11 +24,11 @@ Peanut butter cookies are usually a big disappointment for me. Peanut butter coo
 
 You only need 5 ingredients (which you probably already have in your cupboard, so what are you waiting for?)
 
-- 2 cups dark brown sugar
-- 2 large eggs
-- 2 cups smooth peanut butter (avoid using natural peanut butter for this recipe)
-- 1 tsp vanilla extract
-- 14-16 Hershey's Kisses
+- Dark brown sugar
+- Eggs
+- Smooth peanut butter (avoid using natural peanut butter for this recipe)
+- Vanilla extract
+- Hershey's Kisses
 
 ![peanut butter cookies aerial](../../peanut-butter-cookies/pb-cookies-aerial.jpeg)
 
