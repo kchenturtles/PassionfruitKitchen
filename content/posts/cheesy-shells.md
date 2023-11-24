@@ -1,6 +1,6 @@
 ---
 title: "Four-Cheese Cheesy Shells"
-date: 2023-11-24T16:12:43-05:00
+date: 2023-10-02T16:12:43-05:00
 categories: ["dinner", "lunch", "pastas"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
@@ -9,7 +9,7 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: true
+draft: false
 thumbnail: cheesy-shells.jpg
 resources:
 ---
@@ -50,20 +50,37 @@ I admit, "cheesy shells" is a fancy way of saying mac and cheese. However, this 
 | :--- | :--- |
 | **_Total Time_: 40 min** | **_Serves_: 4**  |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
-- 
-- Ingredients
-- Here
+- 1/2 box medium shell pasta (8 oz)
+- 4 tbsp butter
+- 3 tbsp flour
+- 1 1/2 cup milk
+- 1 cup vegetable broth
+- 1 cup sharp cheddar, shredded
+- 1 cup fontina cheese, shredded
+- 2 oz cream cheese
+- 1/4 cup parmesan cheese, shredded
+- 1/4 tsp paprika
+- 1/4 tsp salt
+- 1/4 tsp pepper
+- 1/4 tsp nutmeg
+- 1/2 tsp mustard powder
 
 |   |    |
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Instructions</h2></div>|   |
 
-1. Instructions
+1. Bring salted water to a boil over high heat. Add the pasta and cook until al dente. Drain when cooked.
+2. Meanwhile, melt butter in a pot over medium heat. When melted, whisk in flour to form a roux. Stir until clumps are gone.
+3. Add milk and broth bit by bit. Stir until sauce can coat the back of a spoon.
+4. Add salt, pepper, nutmeg, mustard powder, and paprika.
+5. Lower heat. Stir in cheeses until melted and smooth.
+6. Mix in cooked pasta.
+7. Serve and enjoy!
 
 |   |    |
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-Notes
+This recipe is vegetarian.
 
 </div>

@@ -10,6 +10,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
+featured: true
 summer: true
 casserole: true
 thumbnail: tomato_fritatta_aerial.jpg
