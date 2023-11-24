@@ -1,6 +1,6 @@
 <div style = "margin-top: 0rem; margin-bottom: 0;">
-    <div class="container mx-auto px-6 py-12 flex gap-4 lg:gap-16 items-center" style = "padding-top: 0; padding-bottom: 0; align-items: stretch;">
-      <div style = "background-color: white; background-color: white; border-color: peachpuff; border-width: 10px; border-style: double; padding-top: 4rem; padding-bottom:4rem; flex:1;">
+    <div class="container mx-auto px-6 py-12 flex gap-4 lg:gap-16 items-center" style = "padding-top: 0; padding-bottom: 0; align-items: stretch; flex-wrap: wrap;">
+      <div style = "width:60rem; max-width:100%; background-color: white; background-color: white; border-color: peachpuff; border-width: 10px; border-style: double; padding-top: 4rem; padding-bottom:4rem; flex:1;">
         <h1 class="text-4xl font-bold mb-4 font" style = "font-family: cursive; text-align: center;">{{ .Site.Params.introTitle | safeHTML}}</h1>
         <p class="font-light text-lg" style = "margin-bottom: 2rem; margin-left:2rem; font-family:Georgia, 'Times New Roman', Times, serif; margin-right:2rem;">{{ .Site.Params.introSubtitle | safeHTML}}</p>
         <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
@@ -499,6 +499,8 @@
           {{end}}
         </ul>
       </div>
-      <img class="shadow-sm" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}" style = "background-color:white; border-color: peachpuff; border-width: 10px; border-style: double; max-width:45%; object-fit: cover;"/>
+      <div>
+      <img class="shadow-sm" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}" style = "background-color:white; border-color: peachpuff; border-width: 10px; border-style: double; width:40rem; max-width: 100%; height: 100%; object-fit: cover; flex:1; align-self: stretch;"/>
+    </div>
     </div>
   </div>

@@ -37,7 +37,7 @@
             <div class="text-gray-400 dark:text-white text-md py-0.5" style="font-family: 'Times New Roman', Times, serif; font-weight: 800;" >
                 {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
               </div>
-            <div class="my-2 text-xl font-semibold" style = "font-size: 2rem; font-family: Georgia, 'Times New Roman', Times, serif; padding-bottom: 1rem; color:purple;">{{ .Params.title }}</div>
+            <div class="my-2 text-xl font-semibold" style = "font-size: 2rem; font-family: Georgia, 'Times New Roman', Times, serif; padding-bottom: 1rem; color:purple; line-height: 2.5rem;">{{ .Params.title }}</div>
                 <div>{{ .Params.description }}</div>
                 <div style = "padding-bottom:1rem;">{{ .Params.summary }} </div>
             <a href="{{ .Permalink }}" style = "font-size:1.5rem; color:peru; font-weight: 700; font-family: 'Times New Roman', Times, serif;" class = "hoverlink">continue reading</a>

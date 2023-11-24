@@ -323,6 +323,11 @@
     .hovername:hover {
       color: peru;
     }
+
+    .p-3 {
+        padding-left:2rem;
+        padding-right:2rem;
+    }
 }
   </style>
   </head>
@@ -339,7 +344,7 @@
         </div>
     </div>
 
-  <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark">
+  <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark p-3">
 
     <h1 class="font-bold" style = "font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2.5rem; margin-bottom: 0;">{{ .Title }}</h1>
     <div class = "flex gap-2" style = "min-height:6rem;">
@@ -401,11 +406,11 @@
     {{ end }}
 
      {{ .Content }}
-     <div style = "display: flex; background-color: purple; padding: 1rem; gap: 5rem; color: white;">
-        <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style = "height:8rem; width: 9rem; margin-left:2rem;"/>
+     <div style = "display: flex; background-color: purple; padding: 1rem; gap: 2rem; color: white;">
+        <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style = "height:8rem; width: 9rem; margin-left:1rem;"/>
         <div style = "display: block; align-self: center;">
             <div style = "background-color: purple; font-size: x-large; font-weight: 900; font-family: 'Times New Roman', Times, serif; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
-            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: purple; padding-top: 0; margin-bottom: 2rem;">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru"> @passionfruit_kitchen </a> on Instagram!</div>
+            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: purple; padding-top: 0; margin-bottom: 2rem; max-width: fit-content;">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru"> @passionfruit_kitchen </a> on Instagram!</div>
         </div>
      </div>
   </article>
