@@ -4,4 +4,4 @@
 
 [submodule "cloudflare-workers-mailerlite"]
 	path = cloudflare-workers-mailerlite
-	url = https://github.com/samjmck/cloudflare-workers-mailerlite.git
+	url = https://github.com/samjmck/cloudflare-workers-mailerlite.git 
