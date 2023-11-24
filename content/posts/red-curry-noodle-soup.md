@@ -10,7 +10,6 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-featured: true
 thumbnail: red_curry_noodle_soup.jpeg
 resources:
 - name: featuredImage

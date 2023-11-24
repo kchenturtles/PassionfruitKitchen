@@ -1,6 +1,6 @@
 ---
 title: "Brown Rice 'Jambalaya' (Instant Pot Recipe!)"
-date: 2022-09-29T20:24:06-04:00
+date: 2022-09-30T20:24:06-04:00
 categories: ["one-pot", "dinner", "seafood"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free", "vegetarian"]
@@ -10,7 +10,6 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 summer: true
-featured: true
 independence: true
 one-pot: true
 draft: false

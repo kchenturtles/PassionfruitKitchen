@@ -1,6 +1,6 @@
 ---
 title: "Ratatouille Shakshuka"
-date: 2023-06-29T20:24:55-04:00
+date: 2022-06-29T20:24:55-04:00
 categories: ["casseroles", "dinner", "one-pot", "lunch", "quick & easy"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free", "vegetarian"]

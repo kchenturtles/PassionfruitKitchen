@@ -1,14 +1,16 @@
 ---
 title: "The Best Cheesecake Bars"
 date: 2023-08-05T20:08:01-04:00
-categories: ["one-pot", "dinner", "seafood"]
-featured_categories: ["quick & easy", "soups & stews", "one-pot"]
-tags: ["gluten-free", "pescetarian", "dairy-free"]
-summary: "summary"
+categories: ["desserts", "snacks"]
+featured_categories: []
+tags: ["vegetarian", "pescetarian"]
+summary: "While round cheesecakes are impressive when you do get them right, I prefer to hedge my bets by making cheesecake bars. I prefer their taste over regular cheesecake because they have a higher crust to filling ratio, so they're more balanced. And they are much easier to make!"
 toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
+breakfast: true
+featured: true
 draft: false
 thumbnail: cheesecake-bars/cheesecake-aerial.jpeg
 resources:

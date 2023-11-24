@@ -1,6 +1,6 @@
 ---
 title: "Vegetable Fritatta"
-date: 2023-06-22T22:54:34-04:00
+date: 2021-06-22T22:54:34-04:00
 categories: ["dinner", "lunch", "quick & easy", "casseroles", "one-pot"]
 featured_categories: ["quick & easy", "casseroles", "one-pot"]
 tags: ["vegetarian", "gluten-free"]
@@ -10,9 +10,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-featured: true
 summer: true
-breakfast: true
 casserole: true
 thumbnail: tomato_fritatta_aerial.jpg
 resources:

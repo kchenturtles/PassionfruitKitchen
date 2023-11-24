@@ -1,6 +1,6 @@
 ---
 title: "Shrimp & Egg Stir Fry"
-date: 2023-04-29T20:25:04-04:00
+date: 2023-04-17T20:25:04-04:00
 categories: ["one-pot", "dinner", "seafood", "lunch", "quick & easy"]
 featured_categories: ["quick & easy", "seafood", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]

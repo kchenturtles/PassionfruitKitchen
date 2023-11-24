@@ -1,6 +1,6 @@
 ---
 title: "Oatmeal Muffins (5 ways!)"
-date: 2023-04-29T20:24:00-04:00
+date: 2022-04-09T20:24:00-04:00
 categories: ["breakfasts", "desserts", "quick & easy", "snacks"]
 featured_categories: ["quick & easy", "desserts", "breakfasts"]
 tags: ["vegetarian"]
