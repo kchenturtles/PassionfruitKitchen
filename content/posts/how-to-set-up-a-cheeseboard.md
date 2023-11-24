@@ -1,6 +1,6 @@
 ---
 title: "How To Set Up a Cheeseboard"
-date: 2023-06-29T20:07:11-04:00
+date: 2022-06-29T20:07:11-04:00
 categories: ["appetizers", "dinner", "desserts", "snacks"]
 featured_categories: ["desserts"]
 tags: ["pescetarian"]

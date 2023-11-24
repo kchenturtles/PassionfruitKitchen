@@ -1,6 +1,6 @@
 ---
 title: "Caramelized Onion, Mushroom, & Goat Cheese Tart"
-date: 2023-06-29T20:24:22-04:00
+date: 2021-12-29T20:24:22-04:00
 categories: ["appetizers", "dinner", "lunch", "pies & tarts"]
 featured_categories: []
 tags: ["vegetarian", "pescetarian"]

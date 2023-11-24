@@ -1,6 +1,6 @@
 ---
 title: "Easy Shrimp Cocktail (2 ways!)"
-date: 2023-06-29T21:12:02-04:00
+date: 2022-06-29T21:12:02-04:00
 categories: ["quick & easy", "dinner", "seafood", "appetizers", "snacks"]
 featured_categories: ["quick & easy", "seafood", "snacks"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]

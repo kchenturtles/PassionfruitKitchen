@@ -1,6 +1,6 @@
 ---
 title: "Sesame Honey Cauliflower Wings"
-date: 2023-06-29T21:04:12-04:00
+date: 2023-01-29T21:04:12-04:00
 categories: ["appetizers", "dinner", "lunch", "snacks", "quick & easy"]
 featured_categories: ["quick & easy"]
 tags: ["vegetarian", "pescetarian"]

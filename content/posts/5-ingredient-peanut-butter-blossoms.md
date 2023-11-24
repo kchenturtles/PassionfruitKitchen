@@ -1,6 +1,6 @@
 ---
 title: "5 Ingredient Peanut Butter Blossoms"
-date: 2023-08-05T20:08:33-04:00
+date: 2023-05-05T20:08:33-04:00
 categories: ["desserts", "snacks"]
 featured_categories: ["quick & easy"]
 tags: ["gluten-free", "vegetarian", "dairy-free"]

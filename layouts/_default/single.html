@@ -33,6 +33,10 @@
   .grid-cols-7 {
     grid-template-columns: repeat(7, minmax(0, 1fr));
   }
+  .p-3 {
+        padding-left:2rem;
+        padding-right:2rem;
+    }
   @media(min-width: 768px) {
     .md\:relative {
         position:relative
@@ -76,6 +80,11 @@
 
     .md\:p-0 {
         padding: 0
+    }
+    
+    .md\:p-3-md {
+        padding-left:2rem;
+        padding-right:2rem;
     }
 }
 
@@ -323,11 +332,11 @@
     .hovername:hover {
       color: peru;
     }
-
-    .p-3 {
-        padding-left:2rem;
-        padding-right:2rem;
+    .lg\:p-3-lg {
+        padding-left:0rem;
+        padding-right:0rem;
     }
+
 }
   </style>
   </head>
@@ -344,7 +353,7 @@
         </div>
     </div>
 
-  <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark p-3">
+  <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark lg:p-3-lg p-3">
 
     <h1 class="font-bold" style = "font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2.5rem; margin-bottom: 0;">{{ .Title }}</h1>
     <div class = "flex gap-2" style = "min-height:6rem;">

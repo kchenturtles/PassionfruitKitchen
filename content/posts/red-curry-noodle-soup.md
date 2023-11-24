@@ -1,6 +1,6 @@
 ---
 title: "Red Curry Noodle Soup"
-date: 2023-06-22T22:54:49-04:00
+date: 2022-12-22T22:54:49-04:00
 categories: ["dinner", "lunch", "soups & stews", "one-pot", "seafood"]
 featured_categories: ["seafood", "soups & stews", "one-pot"]
 tags: ["vegetarian", "gluten-free", "dairy-free"]

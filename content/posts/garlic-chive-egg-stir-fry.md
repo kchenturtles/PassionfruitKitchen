@@ -1,6 +1,6 @@
 ---
 title: "Garlic Chive & Egg Stir Fry"
-date: 2023-06-29T20:24:15-04:00
+date: 2023-03-29T20:24:15-04:00
 categories: ["one-pot", "dinner", "quick & easy", "lunch"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free", "vegetarian"]

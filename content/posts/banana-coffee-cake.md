@@ -1,6 +1,6 @@
 ---
 title: "Banana Coffee Cake"
-date: 2023-08-05T20:07:42-04:00
+date: 2023-01-05T20:07:42-04:00
 categories: ["desserts", "snacks", "breakfasts"]
 featured_categories: []
 tags: ["vegetarian"]
