@@ -1,3 +1,7 @@
 [submodule "themes/blist"]
 	path = themes/blist
 	url = https://github.com/apvarun/blist-hugo-theme.git
+
+[submodule "cloudflare-workers-mailerlite"]
+	path = /cloudflare-workers-mailerlite
+	url = https://github.com/samjmck/cloudflare-workers-mailerlite.git
