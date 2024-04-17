@@ -1,4 +1,4 @@
-<div class="p-2">
+<div class="p-2 hovername" style = "text-align: center;">
 <a href="{{ .Permalink }}">
   {{ if .Params.thumbnail }}
   <div class="relative">
@@ -10,7 +10,7 @@
     {{ end }}
   </div>
   {{ end }}
-  <div class="my-2 text-xl font-semibold hovername" style = "font-family: Georgia, 'Times New Roman', Times, serif; line-height: 1.5rem;">{{ .Params.title }}</div>
+  <div class="my-2 text-xl font-semibold hovername" style = "font-family: Georgia, 'Times New Roman', Times, serif; line-height: 1.5rem; text-align: center;">{{ .Params.title }}</div>
   <div>{{ .Params.description }}</div>
 </a>
 </div>

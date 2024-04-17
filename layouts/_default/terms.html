@@ -307,6 +307,7 @@
 
     .hovername:hover {
       color: peru;
+      text-decoration: underline;
     }
 }
 </style>
@@ -314,15 +315,15 @@
 <body>
   <h1 class="container px-6 pt-6 mx-auto text-3xl font-bold" style = "font-family: cursive;">{{ .Title }}</h1>
 
-  {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
-  <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+  {{ $paginator := .Paginate (first 12 .Pages.ByDate.Reverse) }}
+  <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8 ">
     {{ range $paginator.Pages }}
-      <div class = "p-2">
+      <div class = "p-2 hovername">
         <a href="{{ .Permalink }}">
           <div class="relative">
             <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ .Params.title }}.jpeg" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />            
           </div>
-          <div class="my-2 text-xl font-semibold hovername" style = "font-family: Georgia, 'Times New Roman', Times, serif;">{{ .Params.title }}</div>
+          <div class="my-2 text-xl font-semibold hovername" style = "font-family: Georgia, 'Times New Roman', Times, serif; text-align: center;">{{ .Params.title }}</div>
           <div>{{ .Params.description }}</div>
         </a>
       </div>
