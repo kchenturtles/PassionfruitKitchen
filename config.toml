@@ -2,6 +2,7 @@ baseurl = "https://kchenturtles.github.io/PassionfruitKitchen/"
 metaDataFormat = "yaml"
 title = "Passionfruit Kitchen"
 theme = "blist"
+paginate = 12
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
