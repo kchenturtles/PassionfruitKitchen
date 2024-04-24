@@ -331,7 +331,13 @@
 
     .hovername:hover {
       color: peru;
+      text-decoration: underline;
     }
+
+    .button:hover {
+        opacity: 50%;
+    }
+
     .lg\:p-3-lg {
         padding-left:0rem;
         padding-right:0rem;
@@ -344,10 +350,10 @@
 
     <div style = "background-color: papayawhip; display: flex; padding-top: 0.3rem; padding-bottom: 0.3rem; text-decoration: none; box-shadow:1px 2px 5px lightgray inset;"> 
         <div class = "prose lg: prose-lg container mx-auto" style = "text-align: left; font-size: medium;">
-        <a href = "https://passionfruitkitchen.com/" style = "text-decoration: none; font-weight: 400;">Passionfruit Kitchen </a>
-        <a href = "https://passionfruitkitchen.com/categories/" style = "text-decoration: none; font-weight: 400;"> · Categories</a>
+        <a href = "https://passionfruitkitchen.com/" style = "text-decoration: none; font-weight: 400;" class = "hovername">Passionfruit Kitchen </a>
+        <a href = "https://passionfruitkitchen.com/categories/" style = "text-decoration: none; font-weight: 400;" class = "hovername"> · Categories</a>
         {{ range first 1 .Params.categories }}
-            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" style = "text-decoration: none; text-transform: capitalize; font-weight: 400;"> · {{ . }}</a>
+            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" style = "text-decoration: none; text-transform: capitalize; font-weight: 400;" class = "hovername"> · {{ . }}</a>
         {{ end }}
         <a style = "text-decoration: none; font-weight: 400;"> · {{ .Title }}</a>
         </div>
@@ -357,9 +363,9 @@
 
     <h1 class="font-bold" style = "font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2.5rem; margin-bottom: 0;">{{ .Title }}</h1>
     <div class = "flex gap-2" style = "min-height:6rem;">
-        <a href="#recipe" style = "align-self: center; max-height: 3rem; background-color: lavender; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;">Jump To Recipe </a>
+        <a href="#recipe" style = "align-self: center; max-height: 3rem; background-color: lavender; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;" class = "button">Jump To Recipe </a>
 
-        <a href="#comments" style = "align-self: center; max-height: 3rem; background-color: peachpuff; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;">Comments </a>
+        <a href="#comments" style = "align-self: center; max-height: 3rem; background-color: peachpuff; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;" class = "button">Comments </a>
 
     </div>
 
@@ -416,10 +422,10 @@
 
      {{ .Content }}
      <div style = "display: flex; background-color: purple; padding: 1rem; gap: 2rem; color: white;">
-        <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style = "height:8rem; width: 9rem; margin-left:1rem;"/>
+       <a href = "instagram.com/passionfruit_kitchen"> <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style = "height:8rem; width: 9rem; margin-left:1rem;" class = "button"/></a>
         <div style = "display: block; align-self: center;">
             <div style = "background-color: purple; font-size: x-large; font-weight: 900; font-family: 'Times New Roman', Times, serif; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
-            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: purple; padding-top: 0; margin-bottom: 2rem; max-width: fit-content;">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru"> @passionfruit_kitchen </a> on Instagram!</div>
+            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: purple; padding-top: 0; margin-bottom: 2rem; max-width: fit-content;">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru" class = "button"> @passionfruit_kitchen </a> on Instagram!</div>
         </div>
      </div>
   </article>
@@ -447,7 +453,7 @@
             {{ if .PrevPage }}
             <div style = "display: block;">
                 <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: left; font-weight: 800;">prev</div>
-                <a class="link-reverse" style = "font-size: large; font-weight: 400;" href="{{ .PrevPage.Permalink }}?ref=footer" style = "text-align:left;">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
+                <a class="link-reverse hovername" style = "font-size: large; font-weight: 400; text-align:right;" href="{{ .PrevPage.Permalink }}?ref=footer">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
             </div>
             {{ end }}
         </div>
@@ -456,7 +462,7 @@
             {{ if .NextPage }}
             <div style = "display: block;">
                 <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: right;font-weight: 800;">next</div>
-                <a class="link-reverse" style = "font-size: large; font-weight: 400;" href="{{ .NextPage.Permalink }}?ref=footer" style = "text-align:right;">{{ .NextPage.Title | truncate 50 "..." }} »</a>
+                <a class="link-reverse hovername" style = "font-size: large; font-weight: 400; text-align:right;" href="{{ .NextPage.Permalink }}?ref=footer">{{ .NextPage.Title | truncate 50 "..." }} »</a>
             </div>
             {{ end }}
         </div>

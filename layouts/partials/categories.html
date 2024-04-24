@@ -3,7 +3,7 @@
   <div class = "font-light text-l flex gap-2 p-6" style = "padding-top:0; margin-top:0; flex-wrap: wrap;">
     <div> Filed Under:</div>
     {{ range .Params.categories }}
-    <div style = "background-color: peru; padding-left:0.5em; padding-right: 0.5em;"><a  style = "color: white; text-decoration: none;" href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
+    <div style = "background-color: peru; padding-left:0.5em; padding-right: 0.5em;" class = "button"><a  style = "color: white; text-decoration: none;" href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
   {{ end }}
   </div>
 </div>
