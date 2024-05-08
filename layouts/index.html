@@ -386,7 +386,7 @@
           </div>
         {{ end }}
         <div class = "container mx-auto" style = "margin-top:3rem; max-width: fit-content; margin-bottom: 3rem;">
-          <a href = "/posts/" class = "md:hide lg:display hoversection" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; font-family: 'Times New Roman', Times, serif; padding-left: 10rem; padding-right: 10rem;">All Recent Posts</a>
+          <a href = "/posts/" class = "md:hide lg:display hoversection" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; padding-left: 10rem; padding-right: 10rem;">All Recent Posts</a>
         </div>
       </div>
       <div style = "margin-left:1rem; margin-right: 4rem; justify-content: center; justify-self: center; justify-items: center; align-items: center; align-self: center; align-content: center; min-width: 25em;">
@@ -405,12 +405,9 @@
         <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive; text-align: center;">Search by Diet</div>
         <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
           {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-            <div>
+            <div style = "margin:auto;">
                 <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">
-                  <div class="relative">
-                    <!-- <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />             -->
-                  </div>
-                  <div class="my-2 text-xl font-semibold hoverlink" style = "font-size: x-large; font-weight: 300; color: peru; font-family: Georgia, 'Times New Roman', Times, serif; text-align: center;">{{ $name }}</div>
+                  <div class="my-2 text-xl font-semibold hoverlink" style = "font-size: x-large; font-weight: 300; color: peru; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">{{ $name }}</div>
                 </a>
               </div>
           {{ end }}

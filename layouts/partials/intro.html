@@ -3,7 +3,7 @@
       <div style = "width:100%; background-color: white; background-color: white; border-color: purple; border-width: 10px; border-style: double; padding-top: 1rem; padding-bottom:1rem; margin-top: -10rem;">
         <img class="" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}" style = "background-color:white; width:20rem; margin: auto"/>
         <h1 class="text-4xl font-bold mb-4 font" style = "font-family: cursive; text-align: center;">{{ .Site.Params.introTitle | safeHTML}}</h1>
-        <p class="font-light text-lg" style = "margin-bottom: 2rem; margin-left:2rem; font-family:Georgia, 'Times New Roman', Times, serif; margin-right:2rem;">{{ .Site.Params.introSubtitle | safeHTML}}</p>
+        <p class="font-light text-lg" style = "margin-bottom: 2rem; margin-left:2rem; font-family:Arial, Helvetica, sans-serif; margin-right:2rem;">{{ .Site.Params.introSubtitle | safeHTML}}</p>
         <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
           {{range .Site.Params.homepage.social.icons}}
     
