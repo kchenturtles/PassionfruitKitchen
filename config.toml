@@ -15,7 +15,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "welcome!"
       introSubtitle = "Thanks for checking out my blog! I started Passionfruit Kitchen in 2021 to share some of my favorite recipes. I especially enjoy exploring and sharing my Chinese heritage through my cooking – usually with a pescatarian twist!"
       introPhoto = "https://kchenturtles.github.io/PassionfruitKitchen/passionfruit.png"
-      logo = "https://kchenturtles.github.io/PassionfruitKitchen/passionfruit-icon.png"
+      logo = "https://kchenturtles.github.io/PassionfruitKitchen/passionfruiticon.png"
     [[languages.en.menu.main]]
         name = "All Posts"
         url = "posts/"
