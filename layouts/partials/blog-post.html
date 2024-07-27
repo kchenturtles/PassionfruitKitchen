@@ -1,48 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-
-@media(min-width: 640px) {
-  .md\:diplay-block {
-    display: block;
-  }
-}
-
-@media(min-width: 800px) {
-  .lg\:display-flex{
-      display: flex;
-      gap:2rem;
-  }
-
-  .hoverlink:hover {
-    text-decoration: underline;
-  }
-}
-
-</style>
+  <link href="/dist/styles.css" rel="stylesheet"> 
 </head>
 <body>
 
-<div class="p-2" style = "padding-top:2rem; padding-bottom:2rem;">
-    <div class = "md:display-block lg:display-flex">
+<div class = "pt-8 pb-8 inline-block md:flex lg:inline-block xl:flex gap-8 md:max-w-20 self-center mx-auto">
+      <div class = "self-center mx-auto w-min">
         {{ if .Params.thumbnail }}
-        <div>
-          <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = " max-width: 20rem; width: 20rem; height:20em; object-fit: cover;" />
+        <div class = "w-64 h-64">
+          <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="shadow-sm object-cover w-full h-full rounded-sm" />
           {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
           {{ end }}
         </div>
+      </div>
         {{ end }}
-        <div style = "justify-self: center; align-self: center;">
-            <div class="text-gray-400 dark:text-white text-md py-0.5" style="font-family:sans-serif" >
+        <div class = "flex flex-col justify-between text-center md:text-left lg:text-center xl:text-left">
+            <div class="text-gray-400 dark:text-white text-md font-sans italic justify-start" >
                 {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
               </div>
-            <div class="my-2 text-xl font-semibold" style = "font-size: 2rem; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; padding-bottom: 1rem; color:purple; line-height: 2.5rem;">{{ .Params.title }}</div>
+            <div class="text-2xl font-bold font-sans pb-1 justify-start" style = "color:purple">{{ .Params.title }}</div>
                 <div>{{ .Params.description }}</div>
-                <div style = "padding-bottom:1rem; font-family:Arial, Helvetica, sans-serif;">{{ .Params.summary }} </div>
-            <a href="{{ .Permalink }}" style = "font-size:1.25rem; color:peru; font-weight: 700; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif" class = "hoverlink">continue reading</a>
-        </div>
-    </div>
+            <div class = "font-sans text-md text-gray-800 justify-center overflow-hidden lg:h-0 xl:h-auto pb-1" >{{ .Params.summary }} </div>
+            <a href="{{ .Permalink }}" class="text-md uppercase hover:underline font-bold font-sans justify-end md:text-left lg:text-center xl:text-left text-center" style = "color:peru" >continue reading</a>
+      </div>
     {{ if not (or (or .Site.Params.hideOtherLanguages .Params.hideOtherLanguages) false) }}
       {{ if .IsTranslated -}}
         <div style="font-style: italic;font-size: smaller;">

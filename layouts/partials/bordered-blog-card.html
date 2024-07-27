@@ -1,10 +1,10 @@
-<div class="rounded-lg">
+<div>
     <a href="{{ .Permalink }}">
       {{ if .Params.thumbnail }}
-      <div class="relative rounded-lg">
-        <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg w-0.5em h-0.5em object-fill" style = "width: 22em; height:25em; object-fit: cover;" />
+      <div class="relative">
+        <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="w-auto h-96 object-cover"/>
         {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-        <div class="absolute top-4 right-4 shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5" >
+        <div class="absolute top-4 right-4 shadow bg-gray-50 rounded-sm text-gray-700 dark:invert text-sm px-2 py-0.5" >
           {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
         </div>
         {{ end }}

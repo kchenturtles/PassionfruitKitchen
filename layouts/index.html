@@ -2,386 +2,29 @@
   <!DOCTYPE html>
   <html>
   <head>
-  <style>
-     .grid-cols-1 {
-    grid-template-columns: repeat(1, minmax(0, 1fr));
-  }
-  
-  .grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-  
-  .grid-cols-3 {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-  
-  .grid-cols-4 {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-  
-  .grid-cols-5 {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-  }
-  
-  .grid-cols-6 {
-    grid-template-columns: repeat(6, minmax(0, 1fr));
-  }
-  
-  .grid-cols-7 {
-    grid-template-columns: repeat(7, minmax(0, 1fr));
-  }
-
-
-@media(min-width: 768px) {
-    .md\:relative {
-        position:relative
-    }
-
-    .md\:flex {
-        display: flex
-    }
-
-    .md\:hidden {
-        display: none
-    }
-
-    .md\:w-auto {
-        width: auto
-    }
-
-    .md\:grid-cols-2 {
-        grid-template-columns: repeat(2,minmax(0,1fr))
-    }
-    .md\:grid-cols-3 {
-        grid-template-columns: repeat(3,minmax(0,1fr))
-    }
-    .md\:grid-cols-4 {
-        grid-template-columns: repeat(4,minmax(0,1fr))
-    }
-    .md\:grid-cols-5 {
-        grid-template-columns: repeat(5,minmax(0,1fr))
-    }
-
-    .md\:flex-row {
-        flex-direction: row
-    }
-
-    .md\:items-center {
-        align-items: center
-    }
-
-    .md\:justify-between {
-        justify-content: space-between
-    }
-
-    .md\:p-0 {
-        padding: 0
-    }
-
-    .md\:hide {
-        background-color: white;
-    }
-    
-}
-
-@media(min-width: 1024px) {
-    .lg\:prose-lg {
-        font-size:1.125rem;
-        line-height: 1.7777778
-    }
-
-    .lg\:prose-lg p {
-        margin-top: 1.3333333em;
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg blockquote {
-        margin-top: 1.6666667em;
-        margin-bottom: 1.6666667em;
-        padding-left: 1em
-    }
-
-    .lg\:prose-lg h1 {
-        font-size: 2.6666667em;
-        margin-top: 0;
-        margin-bottom: .8333333em;
-        line-height: 1
-    }
-
-    .lg\:prose-lg h2 {
-        font-size: 1.6666667em;
-        margin-top: 1.8666667em;
-        margin-bottom: 1.0666667em;
-        line-height: 1.3333333
-    }
-
-    .lg\:prose-lg h3 {
-        font-size: 1.3333333em;
-        margin-top: 1.6666667em;
-        margin-bottom: .6666667em;
-        line-height: 1.5
-    }
-
-    .lg\:prose-lg h4 {
-        margin-top: 1.7777778em;
-        margin-bottom: .4444444em;
-        line-height: 1.5555556
-    }
-
-    .lg\:prose-lg img {
-        margin-top: 1.7777778em;
-        margin-bottom: 1.7777778em
-    }
-
-    .lg\:prose-lg video {
-        margin-top: 1.7777778em;
-        margin-bottom: 1.7777778em
-    }
-
-    .lg\:prose-lg figure {
-        margin-top: 1.7777778em;
-        margin-bottom: 1.7777778em
-    }
-
-    .lg\:prose-lg figure>* {
-        margin-top: 0;
-        margin-bottom: 0
-    }
-
-    .lg\:prose-lg figure figcaption {
-        font-size: .8888889em;
-        line-height: 1.5;
-        margin-top: 1em
-    }
-
-    .lg\:prose-lg code {
-        font-size: .8888889em
-    }
-
-    .lg\:prose-lg h2 code {
-        font-size: .8666667em
-    }
-
-    .lg\:prose-lg h3 code {
-        font-size: .875em
-    }
-
-    .lg\:prose-lg pre {
-        font-size: .8888889em;
-        line-height: 1.75;
-        margin-top: 2em;
-        margin-bottom: 2em;
-        border-radius: .375rem;
-        padding-top: 1em;
-        padding-right: 1.5em;
-        padding-bottom: 1em;
-        padding-left: 1.5em
-    }
-
-    .lg\:prose-lg ol {
-        margin-top: 1.3333333em;
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg ul {
-        margin-top: 1.3333333em;
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg li {
-        margin-top: .6666667em;
-        margin-bottom: .6666667em
-    }
-
-    .lg\:prose-lg ol>li {
-        padding-left: 1.6666667em
-    }
-
-    .lg\:prose-lg ol>li::before {
-        left: 0
-    }
-
-    .lg\:prose-lg ul>li {
-        padding-left: 1.6666667em
-    }
-
-    .lg\:prose-lg ul>li::before {
-        width: .3333333em;
-        height: .3333333em;
-        top: calc(.8888889em - .1666667em);
-        left: .2222222em
-    }
-
-    .lg\:prose-lg>ul>li p {
-        margin-top: .8888889em;
-        margin-bottom: .8888889em
-    }
-
-    .lg\:prose-lg>ul>li>*:first-child {
-        margin-top: 1.3333333em
-    }
-
-    .lg\:prose-lg>ul>li>*:last-child {
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg>ol>li>*:first-child {
-        margin-top: 1.3333333em
-    }
-
-    .lg\:prose-lg>ol>li>*:last-child {
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg ul ul,.lg\:prose-lg ul ol,.lg\:prose-lg ol ul,.lg\:prose-lg ol ol {
-        margin-top: .8888889em;
-        margin-bottom: .8888889em
-    }
-
-    .lg\:prose-lg hr {
-        margin-top: 3.1111111em;
-        margin-bottom: 3.1111111em
-    }
-
-    .lg\:prose-lg hr+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg h2+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg h3+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg h4+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg table {
-        font-size: .8888889em;
-        line-height: 1.5
-    }
-
-    .lg\:prose-lg thead th {
-        padding-right: .75em;
-        padding-bottom: .75em;
-        padding-left: .75em
-    }
-
-    .lg\:prose-lg thead th:first-child {
-        padding-left: 0
-    }
-
-    .lg\:prose-lg thead th:last-child {
-        padding-right: 0
-    }
-
-    .lg\:prose-lg tbody td {
-        padding-top: .75em;
-        padding-right: .75em;
-        padding-bottom: .75em;
-        padding-left: .75em
-    }
-
-    .lg\:prose-lg tbody td:first-child {
-        padding-left: 0
-    }
-
-    .lg\:prose-lg tbody td:last-child {
-        padding-right: 0
-    }
-
-    .lg\:prose-lg>:first-child {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg>:last-child {
-        margin-bottom: 0
-    }
-
-    .lg\:grid-cols-3 {
-        grid-template-columns: repeat(3,minmax(0,1fr))
-    }
-
-    .lg\:grid-cols-4 {
-        grid-template-columns: repeat(4,minmax(0,1fr))
-    }
-    .lg\:grid-cols-5 {
-        grid-template-columns: repeat(5,minmax(0,1fr))
-    }
-    .lg\:grid-cols-6 {
-        grid-template-columns: repeat(6,minmax(0,1fr))
-    }
-    .lg\:grid-cols-8 {
-        grid-template-columns: repeat(8,minmax(0,1fr))
-    }
-
-    .lg\:grid-cols-2 {
-      grid-template-columns: 2fr 1fr;
-      gap:3rem;
-    }
-
-    .lg\:gap-6 {
-        gap: 1.5rem
-    }
-
-    .lg\:gap-8 {
-        gap: 2rem
-    }
-
-    .lg\:gap-16 {
-        gap: 4rem
-    }
-
-    .lg\:display {
-        background-color: peru;
-    }
-
-    .hoverlink:hover {
-      text-decoration: underline;
-    }
-
-    .hovername:hover {
-      color: peru;
-      text-decoration: underline;
-    }
-
-    .hoversection:hover {
-      opacity: 0.6;
-    }
-
-    .hovercard:hover {
-      background-color:lavenderblush;
-    }
-}
-
-  </style>
+    <link href="/dist/styles.css" rel="stylesheet"> 
   </head>
   <body>
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "background-color: peachpuff; min-height: 20rem;">
-    </div>
-      <!-- <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive;">Featured Posts</div> -->
-      <div class = "dark: text-black container p-6 mx-auto" style = "background-color:white; margin-top:-16rem; margin-bottom:6rem; border-style: solid; border-width:3px; border-color:peachpuff">
-    <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+    <div style = "min-height: 20rem; background-color: lavenderblush;" class="min-h-80 dark:invert"></div>
+      <div class = "bg-white dark:invert container p-2 mx-auto -mt-64 mb-12 border-solid border sm:w-8/12 md:w-11/12 lg:w-10/12 xl:w-full" style = "border-color: lavenderblush">
+    <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4 lg:gap-4 xl:gap-8 justify-center">
       {{ range first 4 (.Site.Pages.ByParam "featured")  }}
-      <div style = "border-color: peru; border-width:1px; border-style: solid;" class="hovercard rounded-lg">
+      <div class="shadow-lg w-96 md:w-auto lg:w-96 xl:w-auto justify-center mx-auto">
         {{- partial "bordered-blog-card.html" . -}}
-    </div>
+      </div>
       {{ end }}
     </div>
     </div>
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "margin-top:3rem; margin-bottom:4rem;">
-    <div class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0"  style = "font-family: cursive;">The Latest</div>
-    <div class = "container p-6 mx-auto grid md:grid-cols-1 lg:grid-cols-2">
+    <div class= "mt-0 mb-0" >
+    <div class = "container mx-auto grid md:grid-cols-1 lg:grid-cols-2">
       <div>
+        <div class = "my-2 text-2xl font-extrabold font-mono uppercase text-center md:text-left lg:text-center xl:text-left" style="color: purple; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">The Latest</div>
         {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
-        <div class = "">
+        <div class = "mx-auto">
           {{- partial "blog-post.html" . -}}
           </div>
         {{ end }}
@@ -389,24 +32,24 @@
           <a href = "/posts/" class = "md:hide lg:display hoversection" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; padding-left: 10rem; padding-right: 10rem;">All Recent Posts</a>
         </div>
       </div>
-      <div style = "margin-left:1rem; margin-right: 4rem; justify-content: center; justify-self: center; justify-items: center; align-items: center; align-self: center; align-content: center; min-width: 25em;">
-        <!-- <img src = "https://kchenturtles.github.io/PassionfruitKitchen/broccoli_soup_thumbnail.jpeg" alt = "image"/> -->
-        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:text-black"  style = "background-color: papayawhip; text-align: center; padding-bottom:1rem; padding-top:1rem; margin-bottom: 0.25em;">Collections</div>
+      <div class = "items-center ml-auto sm:mr-auto md:mr-0 w-3/4">
+        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:bg-gray-900 text-center pb-4 mb-1"  style = "background-color: papayawhip;">Collections</div>
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <div  class="dark:text-black hoversection" style = "border-width: 1px; border-color: white; border-style: solid; background-color: papayawhip; margin-top:0.25em; margin-bottom:0.25em; padding-left:2rem; padding-top: 1rem; padding-bottom: 1rem; font-size: large;"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;">{{ $name }} {{ .Count }}</a></div>
+            <div  class="dark:invert border text-lg font-semibold p-4 border-white mt-1 hover:opacity-50" style = "background-color: papayawhip"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;">{{ $name }} {{ .Count }}</a></div>
           {{ end }}
       </div>
     </div>
     </div>
     
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "min-height: 15rem; background-color: papayawhip; margin-bottom:20rem; margin-top:5rem;"></div>
-      <div class = "dark: text-black my-12 font-bold text-xl mb-4 container mx-auto" style = "border-color: peachpuff; border-style: double; border-width: 10px; padding:2rem; margin-top:-38rem; background-color: white;">
-        <div class = "mb-2 text-3xl font-bold" style = "font-family: cursive; text-align: center;">Search by Diet</div>
+    <div style = "min-height: 15rem; background-color: lavender;" class="dark:invert mt-20 mb-80"></div>
+      <div class = "dark:invert my-12 font-bold text-xl mb-4 container mx-auto border-8 p-8 bg-white border-double" style = "border-color: peachpuff; margin-top:-38rem;">
+        <div class = "text-2xl font-extrabold font-mono uppercase text-center" style = "color: purple; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Search by Diet</div>
         <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
           {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
             <div style = "margin:auto;">
                 <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">
+                  <img src = "https://kchenturtles.github.io/PassionfruitKitchen/tags/{{ $name }}.png" alt="{{ $name }}" class="rounded-full shadow-sm w-8 h-8 object-cover mx-auto hover:rounded-sm" />
                   <div class="my-2 text-xl font-semibold hoverlink" style = "font-size: x-large; font-weight: 300; color: peru; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">{{ $name }}</div>
                 </a>
               </div>

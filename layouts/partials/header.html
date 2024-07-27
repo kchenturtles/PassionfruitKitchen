@@ -1,19 +1,14 @@
 <!DOCTYPE html>
   <html>
   <head>
-  <style>
-    .hoverlink:hover {
-      color:peru;
-      text-decoration: underline;
-    }
-  </style>
+    <link href="/dist/styles.css" rel="stylesheet"> 
   </head>
 <body>
-<div style = "box-shadow:0 1px lightgray;">
-  <header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative"style = "font-family: cursive;">
+<div class="shadow-lg sticky top-0 bg-white z-50">
+  <header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto bg-white dark:invert font-semibold font-mono text-xl" style = "color:purple">
     <a href="{{ .Site.Home.Permalink }}" class="capitalize font-extrabold text-2xl">
       {{ if .Site.Params.logo }}
-      <div class = "flex gap-4" style = "color: purple;">
+      <div class = "flex gap-4" style = "color: purple; font-family: cursive;">
         <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" class="h-8 display:flex flex" />
       {{ .Site.Title }}
       </div>
