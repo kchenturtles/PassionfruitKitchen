@@ -1,16 +1,16 @@
-<div class="p-2 hovername" style = "text-align: center;">
+<div class="text-center shadow-lg bg-white rounded hover:text-yellow-600 hover:shadow-xl dark:invert">
 <a href="{{ .Permalink }}">
   {{ if .Params.thumbnail }}
-  <div class="relative">
-    <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />
+  <div class="relative dark:invert">
+    <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="shadow-sm object-cover h-96" style = "width: 120%;" />
     {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-    <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5" >
+    <div class="absolute top-4 right-4 rounded shadow bg-white dark:invert text-sm px-2 py-0.5" >
       {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
     </div>
     {{ end }}
   </div>
   {{ end }}
-  <div class="my-2 text-xl font-semibold hovername" style = "font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; line-height: 1.5rem; text-align: center;">{{ .Params.title }}</div>
+  <div class="my-2 text-xl font-semibold p-2 text-center hover:text-yellow-600">{{ .Params.title }}</div>
   <div>{{ .Params.description }}</div>
 </a>
 </div>

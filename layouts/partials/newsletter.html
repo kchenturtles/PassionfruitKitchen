@@ -39,18 +39,19 @@
 </head>
 <body>
 <main>
-    <div style = "background-color: purple; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; padding:2rem; padding-bottom:3rem;">
+    <div style = "background-color: lavenderblush;" class = "pt-8 pb-8 font-sans">
         <div class = "container mx-auto" style = "max-width: 50%;">
             <div class="newsletter" id = "newsletter" style = "display: flex; flex-wrap: wrap; gap:1rem;  align-items: stretch;">
-                <p class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0" style = "font-family: cursive; color:white;"><i>Sign up for the latest recipes!</i></p>
+                <p class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0 font-sans" style = "color:purple"><i>Sign up for the latest recipes!</i></p>
+                <div>Get alerted when new recipes are posted, straight to your inbox. </div>
                 <div class="inputs" style = "display: flex; flex-wrap: wrap; gap:1rem;">
                     <div class="input">
-                        <input type="name" id="name" placeholder="Name"  style = "font-size: larger; box-shadow: inset 0 0.5em 0.5em lavender; padding:0.5rem;"/>
+                        <input type="name" id="name" placeholder="Name"  class = "font-xl p-2"/>
                     </div>
                     <div class="input">
-                        <input type="email" id="email" placeholder="Email" style = "font-size: larger; box-shadow: inset 0 0.5em 0.5em lavender; padding:0.5rem;" />
+                        <input type="email" id="email" placeholder="Email" class = "font-xl p-2" />
                     </div>
-                    <button type="submit" onclick = "sendRequest()" style = "color: white; background-color: peru; font-size: larger; padding-left: 1rem; padding-right: 1rem;" class = "hoversection hoverlink">Subscribe!</button>
+                    <button type="submit" onclick = "sendRequest()" style = "background-color: purple;" class = "text-white hover:opacity-50 p-2 pr-8 pl-8 font-xl">Subscribe!</button>
                   </div>
                 </div>
               <p class="result" id = "result" style = "color: white;"></p>
