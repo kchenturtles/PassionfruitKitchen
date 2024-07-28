@@ -20,9 +20,9 @@
         </div>
     </div>
 
-  <article class="container mx-auto my-8 dark:prose-dark text-lg lg:p-3-lg p-3 inline-block lg:flex xl:gap-24" style = "width:fit-content" >
+  <article class="container mx-auto my-8 dark:prose-dark text-lg lg:p-3-lg p-3 flex xl:gap-24 justify-center" style = "width:fit-content" >
 
-    <article class = "grow prose prose-lg !max-w-none" style="flex-grow: 1; max-width: none;">
+    <article class = "grow prose prose-lg !max-w-none" style="flex-grow: 1; max-width: none; justify-items: center;">
     <h1 class="container mx-auto text-3xl capitalize font-bold pb-0 font-sans" style = "color:peru">{{ .Title }}</h1>
         <div class = "flex gap-2 mb-2 items-center">
         <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50" style="background-color: lavender; text-decoration: none; font-size:medium; font-weight: 600;">Jump To Recipe</a>
@@ -131,17 +131,17 @@
     
   </div>
     </article>
-     <div class = "lg:container overflow-hidden lg:p-2 lg:prose-lg">
+     <div class = "lg:container w-0 lg:w-auto overflow-hidden lg:p-2 lg:prose-lg">
         <div class="h-0 overflow-hidden lg:h-auto">
         {{- partial "intro-vertical.html" . -}}
         </div>
-        <hr></hr>
         <div class="container p-0 lg:p-2 mx-auto h-0 w-0 overflow-hidden grid lg:h-auto lg:w-auto xl:grid-cols-2 gap-4 xl:gap-2">
-            {{ $related := .Site.RegularPages.Related . | first 8 }}
-            {{ with $related }}
+            {{ $latestPosts := first 8 (sort .Site.RegularPages "Date" "desc") }}
+            {{ with $latestPosts }}
             {{ range . }}
             {{- partial "vertical-mini-blog-card.html" . -}}
           {{ end }}
+          
         </div>
         {{ end }}
       </div>

@@ -233,6 +233,7 @@
       "justify-center",
       "justify-end",
       "justify-items-center",
+      "justify-self-center",
       "justify-start",
       "left-0",
       "lg:",
