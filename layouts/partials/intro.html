@@ -1,7 +1,7 @@
-<div  style = "background-color:lavender;">
-    <div class="container mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-2 gap-4 items-center justify-center" style = "padding-bottom: 3rem; margin-top:10rem; align-items: stretch; flex-wrap: wrap;">
+<div style = "background-color:lavender;">
+    <div class="container mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-2 gap-4 items-center justify-center dark:bg-gray-700" style = "padding-bottom: 3rem; margin-top:10rem; align-items: stretch; flex-wrap: wrap;">
       <div style = "border-color: lavender" class="-mt-20 rounded-full border-8 border-solid justify-center mx-auto w-72 h-72 object-cover overflow-hidden">
-        <img class="object-cover overflow-hidden mt-2 h-full" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}"/>
+        <img class="object-cover overflow-hidden mt-2 h-full dark:invert" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}"/>
       </div>
       <div>
         <h1 class="text-4xl font-bold mb-4 font" style = "color: purple; font-family: cursive; text-align: center;">{{ .Site.Params.introTitle | safeHTML}}</h1>

@@ -19,9 +19,9 @@
             <div class="text-gray-400 dark:text-white text-md font-sans italic justify-start" >
                 {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
               </div>
-            <div class="text-2xl font-bold font-sans pb-1 justify-start" style = "color:purple">{{ .Params.title }}</div>
+            <div class="text-2xl font-bold font-sans pb-1 justify-start" style = "color:purple"><div class="dark:text-green-500">{{ .Params.title }}</div></div>
                 <div>{{ .Params.description }}</div>
-            <div class = "font-sans text-md text-gray-800 justify-center overflow-hidden lg:h-0 xl:h-auto pb-1" >{{ .Params.summary }} </div>
+            <div class = "font-sans text-md text-gray-800 dark:text-gray-200 justify-center overflow-hidden lg:h-0 xl:h-auto pb-1" >{{ .Params.summary }} </div>
             <a href="{{ .Permalink }}" class="text-md uppercase hover:underline font-bold font-sans justify-end md:text-left lg:text-center xl:text-left text-center" style = "color:peru" >continue reading</a>
       </div>
     {{ if not (or (or .Site.Params.hideOtherLanguages .Params.hideOtherLanguages) false) }}
