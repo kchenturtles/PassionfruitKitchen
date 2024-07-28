@@ -20,9 +20,9 @@
         </div>
     </div>
 
-  <article class="container mx-auto my-8 dark:prose-dark text-lg lg:p-3-lg p-3 flex xl:gap-24 justify-center" style = "width:fit-content" >
+  <article class="container mx-auto my-8 dark:prose-dark text-lg lg:p-3-lg p-3 flex gap-2 xl:gap-8 justify-center" >
 
-    <article class = "grow prose prose-lg !max-w-none" style="flex-grow: 1; max-width: none; justify-items: center;">
+    <article class = "prose !max-w-none grow" style="justify-items: center; flex-grow: 1; min-width: 70%;">
     <h1 class="container mx-auto text-3xl capitalize font-bold pb-0 font-sans" style = "color:peru">{{ .Title }}</h1>
         <div class = "flex gap-2 mb-2 items-center">
         <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50" style="background-color: lavender; text-decoration: none; font-size:medium; font-weight: 600;">Jump To Recipe</a>
@@ -98,7 +98,7 @@
 
      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
      <div id="recommended" class="container mx-auto text-xl mb-4 mt-12 lowercase font-bold pb-0 font-sans text-center" style = "color:peru">You Might Also Like:</div>
-     <div class="container p-2 overflow-hidden mx-auto grid grid-cols-4 gap-4">
+     <div class="container p-2 overflow-hidden mx-auto grid grid-cols-4 gap-4 xl:gap-10">
          {{ $related := .Site.RegularPages.Related . | first 4 }}
          {{ with $related }}
          {{ range . }}
@@ -131,7 +131,7 @@
     
   </div>
     </article>
-     <div class = "lg:container w-0 lg:w-auto overflow-hidden lg:p-2 lg:prose-lg">
+     <div class = "lg:container w-0 lg:w-full overflow-hidden lg:p-2 lg:prose-lg">
         <div class="h-0 overflow-hidden lg:h-auto">
         {{- partial "intro-vertical.html" . -}}
         </div>

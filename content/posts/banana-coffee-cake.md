@@ -40,15 +40,18 @@ Banana bread is a classic bake, and it definitely got more popular during lockdo
 - A great tip for mashing bananas is actually to use an electric beater! Just put them in a bowl and mix them around with the tines of the beater until they are mostly homogenous. This way, you avoid getting chunks of un-mashed banana in your banana bread.
 - Banana bread is built for customizations! You can fold in anything from chocolate chips to shredded coconut to chopped walnuts into the batter, or mix it into the streusel on top!
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Banana Coffee Cake</h2><p style = "font-weight: 300;">A tasty treat any time of the day!</p></div> | <img src="../../banana-coffee-cake/banana-bread-aerial.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Banana Coffee Cake</h2><p style = "font-weight: 300;">A tasty treat any time of the day!</p></div> <img src="../../banana-coffee-cake/banana-bread-aerial.jpeg"  width="200em" height="200em"> </div>
 
 | _Prep Time_: 20 min  | _Cook Time_: 45 min  |
 | :--- | :--- |
 | **_Total Time_: 1 hr 5 min** | **_Serves_: 16**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 **For the cake:**
 - 3-4 very ripe bananas
@@ -87,4 +90,5 @@ Banana bread is a classic bake, and it definitely got more popular during lockdo
 
 This recipe is vegetarian. 
 
+</div>
 </div>

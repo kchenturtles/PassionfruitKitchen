@@ -38,15 +38,19 @@ You only need 5 ingredients (which you probably already have in your cupboard, s
 - If the dough feels too soft to work with, try chilling it before scooping.
 - Try to use a peanut butter without much added sugar/salt. If you would like, you can add 1/2 - 1 tsp of salt into the dough when you are making the cookies.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Peanut Butter Blossoms</h2><p style = "font-weight: 300;">A delicious 5-ingredient treat!</p></div> | <img src="../../peanut-butter-cookies/pb-cookies-bite.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Peanut Butter Blossoms</h2><p style = "font-weight: 300;">A delicious 5-ingredient treat!</p></div> <img src="../../peanut-butter-cookies/pb-cookies-bite.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 10 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
 | **_Total Time_: 30 min** | **_Makes_: 12**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+
 - 2 cups dark brown sugar
 - 2 large eggs
 - 2 cups smooth peanut butter (avoid using natural peanut butter for this recipe)
@@ -69,4 +73,5 @@ You only need 5 ingredients (which you probably already have in your cupboard, s
 
 This recipe is gluten-free, dairy-free, and vegetarian.
 
+</div>
 </div>
