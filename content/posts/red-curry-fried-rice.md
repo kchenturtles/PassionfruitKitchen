@@ -73,15 +73,19 @@ At any point, if your rice starts sticking to the pan, you may want to add some 
 If you are using a non-stick pan, use a wooden utensil like chopsticks or a wooden spatula to stir-fry — you don’t want to scrape the coating off of the pan.
 If you want to make this fried rice vegan, you can omit the egg and use vegetarian fish sauce and oyster sauce.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Red Curry Fried Rice</h2><p style = "font-weight: 300;">A simple, quick-to-make fried rice with a red curry twist!</p></div> | <img src="../../fried_rice.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Red Curry Fried Rice</h2><p style = "font-weight: 300;">A simple, quick-to-make fried rice with a red curry twist!</p></div> <img src="../../fried_rice.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 10 min  | _Cook Time_: 10 min  |
 | :--- | :--- |
 | **_Total Time_: 20 min** | **_Serves_: 8**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+
 - 1 small slice ginger (mine was about 1/2 cm thick), minced
 - 1 tsp (about 2 cloves) minced garlic
 - 2 large eggs
@@ -121,4 +125,5 @@ If you want to make this fried rice vegan, you can omit the egg and use vegetari
 
 This recipe is gluten-free and pescetarian, and easy to make vegetarian/vegan!
 
+</div>
 </div>

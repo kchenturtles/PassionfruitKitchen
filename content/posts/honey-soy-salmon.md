@@ -42,15 +42,19 @@ This recipe needs only a few ingredients!
 - If you don’t have honey, you can use basically any other sweetener instead, such as sugar, rice syrup, or agave.
 - Be sure to adjust the sauce to taste! You could also add ginger and chopped scallions for extra flavor.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Honey Soy Salmon</h2><p style = "font-weight: 300;">A sweet, salty one-pan dinner sure to please everyone!</p></div> | <img src="../../honey_soy_salmon.jpg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Honey Soy Salmon</h2><p style = "font-weight: 300;">A sweet, salty one-pan dinner sure to please everyone!</p></div> <img src="../../honey_soy_salmon.jpg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 1 min  | _Cook Time_: 10 min  |
 | :--- | :--- |
 | **_Total Time_: 11 min** | **_Serves_: 4**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+
 - 4 fillets salmon
 - 3 tbsp shaoxing wine
 - 2 tbsp rice vinegar
@@ -77,4 +81,5 @@ This recipe needs only a few ingredients!
 
 This recipe is great served with rice to soak up the extra sauce.
 
+</div>
 </div>

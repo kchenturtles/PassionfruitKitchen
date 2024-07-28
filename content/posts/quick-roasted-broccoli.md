@@ -45,15 +45,19 @@ The ingredients for this recipe are simple: you just need broccoli, a dash of ol
 - Don’t put too many florets on one roasting pan – this will keep them from cooking evenly and browning properly.
 - If you are adding a hard cheese like Parmesan, add it at the end, tossing it with the florets after they come out of the oven. A softer, more meltable cheese like shredded cheddar can be baked with the florets, but hard grated cheeses will burn in the oven.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Quick Roasted Broccoli</h2><p style = "font-weight: 300;">Versatile in a salad or bowl, and tasty on its own as a side!</p></div> | <img src="../../roasted_broccoli.jpeg"  width="200em" height="200em" style = "justify-content: center;"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Quick Roasted Broccoli</h2><p style = "font-weight: 300;">Versatile in a salad or bowl, and tasty on its own as a side!</p></div> <img src="../../roasted_broccoli.jpeg"  width="200em" height="200em" style = "justify-content: center;"></div>
 
 | _Prep Time_: 15 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
 | **_Total Time_: 35 min** | **_Serves_: 4**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+
 - 2 large heads of broccoli
 - 1 tbsp olive oil
 - Salt and pepper to taste
@@ -77,5 +81,5 @@ The ingredients for this recipe are simple: you just need broccoli, a dash of ol
 This recipe is gluten-free and vegetarian, and vegan!
 
 </div>
-
+</div>
 

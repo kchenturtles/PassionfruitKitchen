@@ -65,15 +65,19 @@ Don’t get bored of the same flavor combination again and again! Here are some 
 - Tomatoes, mozzarella, and basil
 - Vegetarian bacon, cheddar, and scallion
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Vegetable Fritatta</h2><p style = "font-weight: 300;">Fritatta, your way!</p></div> | <img src="../../tomato_fritatta_aerial.jpg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Vegetable Fritatta</h2><p style = "font-weight: 300;">Fritatta, your way!</p></div><img src="../../tomato_fritatta_aerial.jpg"  width="200em" height="200em"> </div>
 
 | _Prep Time_: 10 min  | _Cook Time_: 30 min  |
 | :--- | :--- |
 | **_Total Time_: 40 min** | **_Serves_: 8**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+
 - 12 oz white mushrooms, washed and sliced
 - 6 oz baby spinach, washed
 - 2 tsp minced garlic
@@ -106,4 +110,5 @@ Don’t get bored of the same flavor combination again and again! Here are some 
 
 This recipe is gluten-free and vegetarian.
 
+</div>
 </div>

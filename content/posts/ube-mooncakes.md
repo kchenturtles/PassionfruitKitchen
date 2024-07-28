@@ -65,15 +65,18 @@ Mooncakes are baked twice: once to set the outside, and once more with an egg wa
 - If you don’t have a mooncake stamp, you can actually make free-form mooncakes! Just form the mooncakes as per the instructions, and shape them using your hands instead of using a stamp!
 - If you don’t want to use ube filling, you can substitute it for any filling of your choice! I especially like custard, lotus seed paste, and green tea fillings. And feel free to use store-bought filling if you don’t want to make it from scratch!
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Ube Mooncakes</h2><p style = "font-weight: 300;">A pan-Asian twist on a traditional Mid-Autumn treat!</p></div> | <img src="../../mooncakes/mooncakes-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Ube Mooncakes</h2><p style = "font-weight: 300;">A pan-Asian twist on a traditional Mid-Autumn treat!</p></div><img src="../../mooncakes/mooncakes-thumbnail.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 30 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
 | **_Total Time_: 50 min** | **_Serves_: 12**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 2 1/4 cups flour
 - 1/2 cup neutral oil, such as canola oil
@@ -112,4 +115,5 @@ I hope you enjoy some mooncakes this Mid Autumn Festival with your family!
 
 This recipe is vegetarian.
 
+</div>
 </div>

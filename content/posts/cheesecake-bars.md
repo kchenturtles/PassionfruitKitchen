@@ -39,15 +39,19 @@ Cheesecake has a reputation for being hard to make. It's a pretty deserved reput
 - It is okay if the cheesecake browns a bit in the oven, but keep an eye on how set it is. It is done when it is still a little bit soft in the middle -- avoid overbaking.
 - You can customize these bars by mixing in something or adding a topping! You can also sub the graham crackers for another type of cookie. For instance, I've made these with Oreo crust and Oreos mixed in. Or you could swirl them with jam, or Nutella, or whatever you want. 
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Cheesecake Bars</h2><p style = "font-weight: 300;">An easier cheesecake recipe!</p></div> | <img src="../../cheesecake-bars/cheesecake-stacked.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Cheesecake Bars</h2><p style = "font-weight: 300;">An easier cheesecake recipe!</p></div><img src="../../cheesecake-bars/cheesecake-stacked.jpeg"  width="200em" height="200em"> </div>
 
 | _Prep Time_: 30 min  | _Cook Time_: 45 min  |
 | :--- | :--- |
 | **_Total Time_: 75 min** | **_Serves_: 12**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+
  ### Graham Cracker Crust:
  - 24 full sheet graham crackers
  - 1/2 cup granulated sugar
@@ -82,4 +86,5 @@ Cheesecake has a reputation for being hard to make. It's a pretty deserved reput
 
 This recipe is vegetarian. 
 
+</div>
 </div>

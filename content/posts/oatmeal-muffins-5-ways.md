@@ -69,15 +69,18 @@ Increase the amount of sweetener you are adding if your mix-ins are on the sour 
 - If you want taller muffins, put more batter in each muffin cup and bake for longer.
 - Try not to open the door while the muffins are baking, as this will cause them to drop.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Oatmeal Muffins (5 ways!)</h2><p style = "font-weight: 300;">Healthy, tasty, easy-to-customize muffins!</p></div> | <img src="../../muffins/muffins-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Oatmeal Muffins (5 ways!)</h2><p style = "font-weight: 300;">Healthy, tasty, easy-to-customize muffins!</p></div><img src="../../muffins/muffins-thumbnail.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 20 min  | _Cook Time_: 30 min  |
 | :--- | :--- |
 | **_Total Time_: 50 min** | **_Serves_: 12**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1-1/4 cup quick oats
 - 1 cup buttermilk
@@ -124,4 +127,5 @@ Increase the amount of sweetener you are adding if your mix-ins are on the sour 
 
 You can make these muffins vegan by using a plant-based milk and substituting the egg for a flax egg.
 
+</div>
 </div>

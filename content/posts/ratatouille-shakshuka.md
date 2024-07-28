@@ -62,15 +62,18 @@ Cover the pot and let the eggs poach in the sauce until just set.
 - If tomatoes are in season, feel free to substitute canned diced tomatoes with fresh ones!
 - Cook the eggs to your liking of doneness – if you like them to have a more solid yolk, cook them for a bit longer. I don’t usually time them; I just stop when they’re at my desired point of cooking.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Ratatouille Shakshuka Skillet</h2><p style = "font-weight: 300;">Ratatouille/shakshuka, a healthy, tasty one-pan meal!</p></div> | <img src="../../ratatouille-eggs/ratatouille-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Ratatouille Shakshuka Skillet</h2><p style = "font-weight: 300;">Ratatouille/shakshuka, a healthy, tasty one-pan meal!</p></div><img src="../../ratatouille-eggs/ratatouille-thumbnail.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 20 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
 | **_Total Time_: 40 min** | **_Serves_: 4-6**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1 tbsp olive oil
 - 2 cloves garlic, minced
@@ -100,4 +103,5 @@ Cover the pot and let the eggs poach in the sauce until just set.
 
 This recipe is gluten-free, dairy free, and vegetarian.
 
+</div>
 </div>

@@ -41,15 +41,19 @@ I admit, "cheesy shells" is a fancy way of saying mac and cheese. However, this 
 - I typically prefer to buy solid blocks of cheese and shred it by hand. Packaged shredded cheese can have additives that may make the sauce grainy. However, I do buy parmesan pre-shredded. 
 - You can customize the amounts of salt, pepper, nutmeg, paprika, and mustard powder that you add. If you prefer more of a kick, add more to your pasta. If you want to add something else, like garlic or onion powder, you can do that too!
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Four-Cheese Cheesy Shells</h2><p style = "font-weight: 300;">Easy, delicious comfort food</p></div> | <img src="../../cheesy-shells.jpg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Four-Cheese Cheesy Shells</h2><p style = "font-weight: 300;">Easy, delicious comfort food</p></div> <img src="../../cheesy-shells.jpg"  width="200em" height="200em"> </div>
 
 | _Prep Time_: 10 min  | _Cook Time_: 30 min  |
 | :--- | :--- |
 | **_Total Time_: 40 min** | **_Serves_: 4**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+ 
 - 1/2 box medium shell pasta (8 oz)
 - 4 tbsp butter
 - 3 tbsp flour
@@ -83,4 +87,5 @@ I admit, "cheesy shells" is a fancy way of saying mac and cheese. However, this 
 
 This recipe is vegetarian.
 
+</div>
 </div>

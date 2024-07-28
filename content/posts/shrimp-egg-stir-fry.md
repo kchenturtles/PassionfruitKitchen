@@ -51,15 +51,18 @@ Then, cook until the eggs are done, and that’s it!
 - To save time, buy pre-peeled and deveined shrimp. This dish is best with smaller shrimp (50-60 count).
 - If you don’t want to add peas, you can add another vegetable of your choosing – perhaps garlic chives! Or, you can just leave them out.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;" id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Shrimp & Egg Stir Fry</h2><p style = "font-weight: 300;">Quick takeout-style shrimp and eggs!</p></div> | <img src="../../shrimp-eggs/shrimp-eggs-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Shrimp & Egg Stir Fry</h2><p style = "font-weight: 300;">Quick takeout-style shrimp and eggs!</p></div><img src="../../shrimp-eggs/shrimp-eggs-thumbnail.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 5 min  | _Cook Time_: 10 min  |
 | :--- | :--- |
 | **_Total Time_: 15 min** | **_Serves_: 4**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 8 large eggs
 - 2 tbsp shaoxing wine
@@ -86,4 +89,5 @@ Then, cook until the eggs are done, and that’s it!
 
 This recipe is gluten-free, dairy-free and pescetarian.
 
+</div>
 </div>

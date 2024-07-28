@@ -64,15 +64,18 @@ Dredge each floret in the batter and bake in the oven until crispy. Then, assemb
 - If your cauliflower wings are beginning to burn but are not yet cooked through, you can decrease the oven temperature and bake them for longer.
 - Be sure to adjust your sauce to taste!
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Sesame Honey Cauliflower Wings</h2><p style = "font-weight: 300;">Cauliflower wings, an easy and tasty snack!</p></div> | <img src="../../cauli-wings/cauli-wings.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Sesame Honey Cauliflower Wings</h2><p style = "font-weight: 300;">Cauliflower wings, an easy and tasty snack!</p></div><img src="../../cauli-wings/cauli-wings.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 10 min  | _Cook Time_: 30 min  |
 | :--- | :--- |
 | **_Total Time_: 40 min** | **_Serves_: 6**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1 large head cauliflower
 - 1/2 cup all-purpose flour
@@ -112,4 +115,5 @@ Dredge each floret in the batter and bake in the oven until crispy. Then, assemb
 
 If you want to make this recipe vegan, use agave or maple syrup instead of honey, and you can swap buttermilk for the plant-based milk of your choice.
 
+</div>
 </div>

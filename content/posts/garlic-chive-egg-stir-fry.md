@@ -45,15 +45,18 @@ Making this stir fry is just like making scrambled eggs. First, you’ll beat th
 - Mushroom bouillon and dried shrimp give the eggs extra umami, so try to include them if you can!
 - If you want to keep this dish vegetarian, just omit the dried shrimp.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Garlic Chive & Egg Stir Fry</h2><p style = "font-weight: 300;">A quick chive and egg stir fry.</p></div> | <img src="../../chive-eggs/chive-eggs-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Garlic Chive & Egg Stir Fry</h2><p style = "font-weight: 300;">A quick chive and egg stir fry.</p></div> <img src="../../chive-eggs/chive-eggs-thumbnail.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 5 min  | _Cook Time_: 10 min  |
 | :--- | :--- |
 | **_Total Time_: 15 min** | **_Serves_: 4**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 6-8 large eggs
 - 2 tsp mushroom bouillon powder
@@ -81,4 +84,5 @@ Making this stir fry is just like making scrambled eggs. First, you’ll beat th
 
 This recipe is gluten-free, dairy free, and vegetarian without the dried shrimp.
 
+</div>
 </div>

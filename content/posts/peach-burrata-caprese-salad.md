@@ -39,15 +39,18 @@ You will need:
 - Slice your ingredients fairly thinly to make the salad more cohesive.
 - If you want to plate this salad fancily, you can lay the basil, tomato, and peach first and then break open a piece of burrata on top.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Peach & Burrata Caprese Salad</h2><p style = "font-weight: 300;">A new take on caprese! Perfect for summer.</p></div> | <img src="../../categories/salads.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Peach & Burrata Caprese Salad</h2><p style = "font-weight: 300;">A new take on caprese! Perfect for summer.</p></div> <img src="../../categories/salads.jpeg"  width="200em" height="200em"> </div>
 
 | _Prep Time_: 10 min  | _Assembly Time_: 5 min  |
 | :--- | :--- |
 | **_Total Time_: 15 min** | **_Serves_: 4**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 3 ripe yellow peaches
 - 1 large heirloom tomato
@@ -69,4 +72,5 @@ You will need:
 
 This recipe is gluten-free and vegetarian. It will last in the fridge for up to 3 days.
 
+</div>
 </div>

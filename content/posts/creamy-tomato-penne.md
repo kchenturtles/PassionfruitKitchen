@@ -53,16 +53,19 @@ Let the pasta cook in the liquid until softened but not quite cooked through. Ad
 - If you find that when all the liquid has boiled away the pasta isn't fully cooked yet, add some more stock.
 - You can also add herbs and seasonings if you like!
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Creamy Tomato Penne</h2><p style = "font-weight: 300;">An easy, low-key weeknight creamy tomato pasta!</p></div> | <img src="../../tomato-pasta/pasta-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Creamy Tomato Penne</h2><p style = "font-weight: 300;">An easy, low-key weeknight creamy tomato pasta!</p></div><img src="../../tomato-pasta/pasta-thumbnail.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 0 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
 | **_Total Time_: 20 min** | **_Serves_: 6**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
 
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+ 
 - 2 tbsp butter, divided
 - 2 cloves garlic, minced
 - 1 tbsp tomato paste (optional)
@@ -91,4 +94,5 @@ Let the pasta cook in the liquid until softened but not quite cooked through. Ad
 
 This recipe is vegetarian. To make it vegan, you can use a vegan pasta and vegan cream – the recipe will work the same.
 
+</div>
 </div>

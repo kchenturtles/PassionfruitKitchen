@@ -74,15 +74,19 @@ This recipe is actually pretty straightforward. You’ll start by sauteing the a
 - Season the broth to taste! If it needs to be more sour, add some more lime! If it needs to be sweeter, add a pinch more sugar! You can also add dried shrimp for an extra savory boost, and some chili paste like sambal oelek if you want more spice.
 - Eat this soup while it’s fresh! If you let it sit too long, the noodles can absorb the broth and get soggy, which nobody likes.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;" id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Red Curry Noodle Soup</h2><p style = "font-weight: 300;">A deliciously complex noodle soup, perfect comfort food!</p></div> | <img src="../../red_curry_noodle_soup.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Red Curry Noodle Soup</h2><p style = "font-weight: 300;">A deliciously complex noodle soup, perfect comfort food!</p></div><img src="../../red_curry_noodle_soup.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 10 min  | _Cook Time_: 30 min  |
 | :--- | :--- |
 | **_Total Time_: 40 min** | **_Serves_: 6**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+
 - 1 tbsp cooking oil
 - 1 small slice ginger (about 1/2 cm thick), minced
 - 2 tsp (about 3 cloves) minced garlic
@@ -123,4 +127,5 @@ This recipe is actually pretty straightforward. You’ll start by sauteing the a
 
 This recipe is gluten-free if you use rice noodles. To make it vegetarian/vegan, use vegetable stock and vegetarian fish sauce. Omit the shrimp, fish cakes, and eggs as needed.
 
+</div>
 </div>

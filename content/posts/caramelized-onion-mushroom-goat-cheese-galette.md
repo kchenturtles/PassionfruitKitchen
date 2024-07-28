@@ -45,15 +45,18 @@ In general, making a puff pastry tart is pretty simple: you prep the toppings, s
 - Be patient when caramelizing onions! It takes a bit, but it’s definitely worth it. Just make sure not to get impatient and turn the heat too high – this will just make them burn.
 - It helps to grease or flour your baking sheet before putting the puff pastry on top, to keep it from sticking.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Caramelized Onion, Mushroom, & Goat Cheese Tart</h2><p style = "font-weight: 300;">A savory tart with the perfect blend of flavors!</p></div> | <img src="../../galette/galette-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Caramelized Onion, Mushroom, & Goat Cheese Tart</h2><p style = "font-weight: 300;">A savory tart with the perfect blend of flavors!</p></div> <img src="../../galette/galette-thumbnail.jpeg"  width="200em" height="200em"></div>
 
 | _Prep Time_: 40 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
 | **_Total Time_: 1 hr** | **_Serves_: 6**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 12 oz white mushrooms, washed and sliced
 - 1 large sweet onion, sliced
@@ -83,4 +86,5 @@ In general, making a puff pastry tart is pretty simple: you prep the toppings, s
 
 This recipe is vegetarian.
 
+</div>
 </div>

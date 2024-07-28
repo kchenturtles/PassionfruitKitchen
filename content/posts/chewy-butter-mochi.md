@@ -36,15 +36,19 @@ Butter mochi is becoming popular these days. It originates from Hawaii, and fuse
 - If you do not want to brown the butter, you can just use melted butter instead.
 - The bake for butter mochi is quite long, and it can be difficult to tell when it is done. I like to simply test if the center is solid. Overbaking butter mochi by a little bit won't ruin the texture the way it might for a cheesecake, which is good. 
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Brown Butter Mochi</h2><p style = "font-weight: 300;">A fun twist on the chewy classic!</p></div> | <img src="../../butter-mochi/butter-mochi-aerial.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Brown Butter Mochi</h2><p style = "font-weight: 300;">A fun twist on the chewy classic!</p></div> <img src="../../butter-mochi/butter-mochi-aerial.jpeg"  width="200em" height="200em"> </div>
 
 | _Prep Time_: 20 min  | _Cook Time_: 60 min  |
 | :--- | :--- |
 | **_Total Time_: 80 min** | **_Serves_: 12**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
+ 
 - 6-8 tbsp unsalted butter
 - 4 large eggs
 - 4 cups glutinous rice flour
@@ -71,4 +75,5 @@ Butter mochi is becoming popular these days. It originates from Hawaii, and fuse
 
 This recipe is gluten-free and vegetarian. 
 
+</div>
 </div>

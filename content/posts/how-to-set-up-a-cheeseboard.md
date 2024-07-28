@@ -81,14 +81,19 @@ _Pictured: Cheeseboard with Bijou, Raspberry Chevre, Gouda, Stilton_
 
 Have fun making a delicious, gorgeous cheeseboard!
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Cheeseboard Shopping List</h2><p style = "font-weight: 300;"></p></div> | <img src="../../cheeseboard/cheeseboard.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Cheeseboard Shopping List</h2><p style = "font-weight: 300;"></p></div><img src="../../cheeseboard/cheeseboard.jpeg"  width="200em" height="200em"></div>
 
 | **_Prep Time_: 10 min** | **_Serves_: 4-8**  |
 | :--- | :--- |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Cheeses:</h2></div>|   |
+| **_Total Time_: 10 min** |    |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Cheeses</h2></div>
+
 - 1 soft cheese (e.g. Brie or fresh goat cheese)
 - 1 semi-firm cheese (e.g. Havarti, Gruyere, Emmental, or cheddar)
 - 1 blue cheese (e.g. Stilton, Gorgonzola, Roquefort, or Cambozola)
@@ -106,4 +111,5 @@ Have fun making a delicious, gorgeous cheeseboard!
 
 Slice, fan out, and arrange on a serving board of your choice. Enjoy with friends (and some wine!)
 
+</div>
 </div>
