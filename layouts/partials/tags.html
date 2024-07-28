@@ -3,7 +3,7 @@
   tags:  
   {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s"
   $taxonomy $tag) -}}
-    <a href="{{ .Permalink }}" style = "color: purple;">{{ $tag | urlize }}, </a>
+    <a href="{{ .Permalink }}" class="hover:opacity-50" style = "color: purple;">{{ $tag | urlize }}, </a>
   {{- end -}} {{- end -}}
 </div>
 {{ end }}

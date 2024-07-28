@@ -1,5 +1,5 @@
-<div>
-    <a href="{{ .Permalink }}">
+<div style = "color:purple" class = "hover:text-yellow-600">
+    <a href="{{ .Permalink }}" class = "hover:text-yellow-600">
       {{ if .Params.thumbnail }}
       <div class="relative">
         <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="w-auto h-96 object-cover"/>
@@ -10,7 +10,7 @@
         {{ end }}
       </div>
       {{ end }}
-      <div class="my-2 text-xl font-semibold hoverlink" style = "font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align: center; padding-top: 1rem; padding-bottom:1rem">{{ .Params.title }}</div>
+      <div class="my-2 text-xl font-bold hoverlink font-sans text-center pt-4 pb-4 hover:text-yellow-600" >{{ .Params.title }}</div>
       <div>{{ .Params.description }}</div>
     </a>
     </div>

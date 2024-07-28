@@ -5,367 +5,29 @@
   <!DOCTYPE html>
   <html>
   <head>
-  <style>
-     .grid-cols-1 {
-    grid-template-columns: repeat(1, minmax(0, 1fr));
-  }
-  
-  .grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-  
-  .grid-cols-3 {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-  
-  .grid-cols-4 {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-  
-  .grid-cols-5 {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-  }
-  
-  .grid-cols-6 {
-    grid-template-columns: repeat(6, minmax(0, 1fr));
-  }
-  
-  .grid-cols-7 {
-    grid-template-columns: repeat(7, minmax(0, 1fr));
-  }
-  .p-3 {
-        padding-left:1rem;
-        padding-right:1rem;
-    }
-  @media(min-width: 768px) {
-    .md\:relative {
-        position:relative
-    }
-
-    .md\:flex {
-        display: flex
-    }
-
-    .md\:hidden {
-        display: none
-    }
-
-    .md\:w-auto {
-        width: auto
-    }
-
-    .md\:grid-cols-2 {
-        grid-template-columns: repeat(2,minmax(0,1fr))
-    }
-
-    .md\:grid-cols-3 {
-      grid-template-columns: repeat(3, minmax(0,1fr))
-    }
-
-    .md\:grid-cols-4 {
-      grid-template-columns: repeat(4, minmax(0,1fr))
-    }
-
-    .md\:flex-row {
-        flex-direction: row
-    }
-
-    .md\:items-center {
-        align-items: center
-    }
-
-    .md\:justify-between {
-        justify-content: space-between
-    }
-
-    .md\:p-0 {
-        padding: 0
-    }
-    
-    .md\:p-3-md {
-        padding-left:2rem;
-        padding-right:2rem;
-    }
-}
-
-@media(min-width: 1024px) {
-    .lg\:prose-lg {
-        font-size:1.125rem;
-        line-height: 1.7777778
-    }
-
-    .lg\:prose-lg p {
-        margin-top: 1.3333333em;
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg blockquote {
-        margin-top: 1.6666667em;
-        margin-bottom: 1.6666667em;
-        padding-left: 1em
-    }
-
-    .lg\:prose-lg h1 {
-        font-size: 2.6666667em;
-        margin-top: 0;
-        margin-bottom: .8333333em;
-        line-height: 1
-    }
-
-    .lg\:prose-lg h2 {
-        font-size: 1.6666667em;
-        margin-top: 1.8666667em;
-        margin-bottom: 1.0666667em;
-        line-height: 1.3333333
-    }
-
-    .lg\:prose-lg h3 {
-        font-size: 1.3333333em;
-        margin-top: 1.6666667em;
-        margin-bottom: .6666667em;
-        line-height: 1.5
-    }
-
-    .lg\:prose-lg h4 {
-        margin-top: 1.7777778em;
-        margin-bottom: .4444444em;
-        line-height: 1.5555556
-    }
-
-    .lg\:prose-lg img {
-        margin-top: 1.7777778em;
-        margin-bottom: 1.7777778em
-    }
-
-    .lg\:prose-lg video {
-        margin-top: 1.7777778em;
-        margin-bottom: 1.7777778em
-    }
-
-    .lg\:prose-lg figure {
-        margin-top: 1.7777778em;
-        margin-bottom: 1.7777778em
-    }
-
-    .lg\:prose-lg figure>* {
-        margin-top: 0;
-        margin-bottom: 0
-    }
-
-    .lg\:prose-lg figure figcaption {
-        font-size: .8888889em;
-        line-height: 1.5;
-        margin-top: 1em
-    }
-
-    .lg\:prose-lg code {
-        font-size: .8888889em
-    }
-
-    .lg\:prose-lg h2 code {
-        font-size: .8666667em
-    }
-
-    .lg\:prose-lg h3 code {
-        font-size: .875em
-    }
-
-    .lg\:prose-lg pre {
-        font-size: .8888889em;
-        line-height: 1.75;
-        margin-top: 2em;
-        margin-bottom: 2em;
-        border-radius: .375rem;
-        padding-top: 1em;
-        padding-right: 1.5em;
-        padding-bottom: 1em;
-        padding-left: 1.5em
-    }
-
-    .lg\:prose-lg ol {
-        margin-top: 1.3333333em;
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg ul {
-        margin-top: 1.3333333em;
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg li {
-        margin-top: .6666667em;
-        margin-bottom: .6666667em
-    }
-
-    .lg\:prose-lg ol>li {
-        padding-left: 1.6666667em
-    }
-
-    .lg\:prose-lg ol>li::before {
-        left: 0
-    }
-
-    .lg\:prose-lg ul>li {
-        padding-left: 1.6666667em
-    }
-
-    .lg\:prose-lg ul>li::before {
-        width: .3333333em;
-        height: .3333333em;
-        top: calc(.8888889em - .1666667em);
-        left: .2222222em
-    }
-
-    .lg\:prose-lg>ul>li p {
-        margin-top: .8888889em;
-        margin-bottom: .8888889em
-    }
-
-    .lg\:prose-lg>ul>li>*:first-child {
-        margin-top: 1.3333333em
-    }
-
-    .lg\:prose-lg>ul>li>*:last-child {
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg>ol>li>*:first-child {
-        margin-top: 1.3333333em
-    }
-
-    .lg\:prose-lg>ol>li>*:last-child {
-        margin-bottom: 1.3333333em
-    }
-
-    .lg\:prose-lg ul ul,.lg\:prose-lg ul ol,.lg\:prose-lg ol ul,.lg\:prose-lg ol ol {
-        margin-top: .8888889em;
-        margin-bottom: .8888889em
-    }
-
-    .lg\:prose-lg hr {
-        margin-top: 3.1111111em;
-        margin-bottom: 3.1111111em
-    }
-
-    .lg\:prose-lg hr+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg h2+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg h3+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg h4+* {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg table {
-        font-size: .8888889em;
-        line-height: 1.5
-    }
-
-    .lg\:prose-lg thead th {
-        padding-right: .75em;
-        padding-bottom: .75em;
-        padding-left: .75em
-    }
-
-    .lg\:prose-lg thead th:first-child {
-        padding-left: 0
-    }
-
-    .lg\:prose-lg thead th:last-child {
-        padding-right: 0
-    }
-
-    .lg\:prose-lg tbody td {
-        padding-top: .75em;
-        padding-right: .75em;
-        padding-bottom: .75em;
-        padding-left: .75em
-    }
-
-    .lg\:prose-lg tbody td:first-child {
-        padding-left: 0
-    }
-
-    .lg\:prose-lg tbody td:last-child {
-        padding-right: 0
-    }
-
-    .lg\:prose-lg>:first-child {
-        margin-top: 0
-    }
-
-    .lg\:prose-lg>:last-child {
-        margin-bottom: 0
-    }
-
-    .lg\:grid-cols-3 {
-        grid-template-columns: repeat(3,minmax(0,1fr))
-    }
-
-    .lg\:grid-cols-4 {
-        grid-template-columns: repeat(4,minmax(0,1fr))
-    }
-
-    .lg\:grid-cols-5 {
-      grid-template-columns: repeat(5, minmax(0,1fr))
-    }
-
-    .lg\:gap-6 {
-        gap: 1.5rem
-    }
-
-    .lg\:gap-8 {
-        gap: 2rem
-    }
-
-    .lg\:gap-16 {
-        gap: 4rem
-    }
-
-    .hovername:hover {
-      color: peru;
-      text-decoration: underline;
-    }
-
-    .button:hover {
-        opacity: 50%;
-    }
-
-    .lg\:p-3-lg {
-        padding-left:0rem;
-        padding-right:0rem;
-    }
-
-}
-  </style>
+    <link href="/dist/styles.css" rel="stylesheet"> 
   </head>
   <body>
 
-    <div style = "background-color: papayawhip; display: flex; padding-top: 0.3rem; padding-bottom: 0.3rem; text-decoration: none; box-shadow:1px 2px 5px lightgray inset;"> 
-        <div class = "prose lg: prose-lg container mx-auto" style = "text-align: left; font-size: medium;">
-        <a href = "https://passionfruitkitchen.com/" style = "text-decoration: none; font-weight: 400;" class = "hovername">Passionfruit Kitchen </a>
-        <a href = "https://passionfruitkitchen.com/categories/" style = "text-decoration: none; font-weight: 400;" class = "hovername"> · Categories</a>
+    <div style = "background-color: papayawhip" class="pt-1 pb-1 capitalize no-underline font-sans"> 
+        <div class = "prose-lg container mx-auto no-underline text-left" style = "text-decoration: none; max-width: fit-content;">
+        <a href = "https://passionfruitkitchen.com/" class = "no-underline font-semibold hover:text-yellow-600 text-sm" style = "text-decoration: none;">Passionfruit Kitchen </a>
+        <a href = "https://passionfruitkitchen.com/categories/" class = "no-underline font-semibold hover:text-yellow-600 text-sm" style = "text-decoration: none;"> · Categories</a>
         {{ range first 1 .Params.categories }}
-            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" style = "text-decoration: none; text-transform: capitalize; font-weight: 400;" class = "hovername"> · {{ . }}</a>
+            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" class = "no-underline font-semibold text-sm hover:text-yellow-600" style = "text-decoration: none;"> · {{ . }}</a>
         {{ end }}
-        <a style = "text-decoration: none; font-weight: 400;"> · {{ .Title }}</a>
+        <a class = "no-underline font-semibold text-sm hover:text-yellow-600" style = "text-decoration: none;" > · {{ .Title }}</a>
         </div>
     </div>
 
-  <article class="prose lg:prose-lg container mx-auto my-8 dark:prose-dark lg:p-3-lg p-3">
+  <article class="container mx-auto my-8 dark:prose-dark text-lg lg:p-3-lg p-3 inline-block lg:flex xl:gap-24" style = "width:fit-content" >
 
-    <h1 class="font-bold" style = "font-family:cursive; font-size: 2.5rem; margin-bottom: 0;">{{ .Title }}</h1>
-    <div class = "flex gap-2" style = "min-height:6rem;">
-        <a href="#recipe" style = "align-self: center; max-height: 3rem; background-color: lavender; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;" class = "button">Jump To Recipe </a>
+    <article class = "grow prose prose-lg !max-w-none" style="flex-grow: 1; max-width: none;">
+    <h1 class="container mx-auto text-3xl capitalize font-bold pb-0 font-sans" style = "color:peru">{{ .Title }}</h1>
+        <div class = "flex gap-2 mb-2 items-center">
+        <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50" style="background-color: lavender; text-decoration: none; font-size:medium; font-weight: 600;">Jump To Recipe</a>
 
-        <a href="#comments" style = "align-self: center; max-height: 3rem; background-color: peachpuff; padding-left:1rem; padding-right: 1rem; padding-top:0.5rem; padding-bottom:0.5rem; text-decoration: none; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; font-weight: 700; font-size: medium;" class = "button">Comments </a>
+        <a href="#recommended" class="rounded-md px-4 py-2 hover:opacity-50" style="background-color: peachpuff; text-decoration: none; font-size:medium; font-weight: 600;">Similar Recipes</a>
 
     </div>
 
@@ -421,39 +83,38 @@
     {{ end }}
 
      {{ .Content }}
-     <div style = "display: flex; background-color: purple; padding: 1rem; gap: 2rem; color: white;">
-       <a href = "instagram.com/passionfruit_kitchen"> <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style = "height:8rem; width: 9rem; margin-left:1rem;" class = "button"/></a>
+     <div class = "flex justify-center" style = "background-color: lavenderblush; align-content:center; padding: 1rem; gap: 3rem; color: black;">
+      <div class="h-24 w-24" style="padding-bottom: 10rem;">
+        <a href = "instagram.com/passionfruit_kitchen" style="padding:0; margin:0; border:0;" class="hover:opacity-50"> <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style="align-self: center;"/></a>
+     </div>
         <div style = "display: block; align-self: center;">
-            <div style = "background-color: purple; font-size: x-large; font-weight: 900; font-family: 'Times New Roman', Times, serif; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
-            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: purple; padding-top: 0; margin-bottom: 2rem; max-width: fit-content;">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:peru" class = "button"> @passionfruit_kitchen </a> on Instagram!</div>
+            <div style = "background-color: lavenderblush; font-size: x-large; font-weight: 900; font-family: 'Times New Roman', Times, serif; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
+            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: lavenderblush; padding-top: 0; margin-bottom: 2rem; max-width: fit-content;">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:purple" class = "button hover:opacity-50"> @passionfruit_kitchen </a> on Instagram!</div>
         </div>
      </div>
-  </article>
-  {{- partial "categories.html" . -}}
+     {{- partial "categories.html" . -}}
 
-  <div class = "container mx-auto prose lg: prose-lg">
-    <hr></hr>
-    {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div class="container mx-auto my-2 text-3xl font-light pb-0 pt-4 mb-0 mt-0">You Might Also Like:</div>
-    <div class="container p-0 mx-auto grid sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 lg:gap-8" style = "padding-bottom: 5rem;">
-        {{ $related := .Site.RegularPages.Related . | first 5 }}
-        {{ with $related }}
-        {{ range . }}
-        {{- partial "mini-blog-card.html" . -}}
-      {{ end }}
-    </div>
-    {{ end }}
-  </div>
+     <div class="px-24"><hr></hr></div>
 
-  <div class = "container mx-auto prose lg: prose-lg" style = "margin-bottom: 5rem;">
-    <hr></hr>
+     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
+     <div id="recommended" class="container mx-auto text-xl mb-4 mt-12 lowercase font-bold pb-0 font-sans text-center" style = "color:peru">You Might Also Like:</div>
+     <div class="container p-2 overflow-hidden mx-auto grid grid-cols-4 gap-4">
+         {{ $related := .Site.RegularPages.Related . | first 4 }}
+         {{ with $related }}
+         {{ range . }}
+         {{- partial "mini-blog-card.html" . -}}
+       {{ end }}
+     </div>
+     {{ end }}
+     <hr></hr>
+
+  <div class = "mb-20 mt-20" >
     <div style = "display: flex; justify-content: space-between;">
-     
         <div class="previous-post">
             {{ if .PrevPage }}
             <div style = "display: block;">
-                <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: left; font-weight: 800;">prev</div>
-                <a class="link-reverse hovername" style = "font-size: large; font-weight: 400; text-align:right;" href="{{ .PrevPage.Permalink }}?ref=footer">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
+                <div class="font-sans font-bold text-lg lowercase" style ="color:purple">prev</div>
+                <a class="link-reverse text-left text-lg font-light hover:text-yellow-600" href="{{ .PrevPage.Permalink }}?ref=footer">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
             </div>
             {{ end }}
         </div>
@@ -461,22 +122,30 @@
         <div class="next-post">
             {{ if .NextPage }}
             <div style = "display: block;">
-                <div style = "font-family: 'Courier New', Courier, monospace; font-size: large; text-align: right;font-weight: 800;">next</div>
-                <a class="link-reverse hovername" style = "font-size: large; font-weight: 400; text-align:right;" href="{{ .NextPage.Permalink }}?ref=footer">{{ .NextPage.Title | truncate 50 "..." }} »</a>
+                <div class="font-sans font-bold text-lg lowercase text-right" style ="color:purple">next</div>
+                <a class="link-reverse text-right text-lg font-light hover:text-yellow-600" href="{{ .NextPage.Permalink }}?ref=footer">{{ .NextPage.Title | truncate 50 "..." }} »</a>
             </div>
             {{ end }}
         </div>
+      </div>    
+    
+  </div>
+    </article>
+     <div class = "lg:container overflow-hidden lg:p-2 lg:prose-lg">
+        <div class="h-0 overflow-hidden lg:h-auto">
+        {{- partial "intro-vertical.html" . -}}
+        </div>
+        <hr></hr>
+        <div class="container p-0 lg:p-2 mx-auto h-0 w-0 overflow-hidden grid lg:h-auto lg:w-auto xl:grid-cols-2 gap-4 xl:gap-2">
+            {{ $related := .Site.RegularPages.Related . | first 8 }}
+            {{ with $related }}
+            {{ range . }}
+            {{- partial "vertical-mini-blog-card.html" . -}}
+          {{ end }}
+        </div>
+        {{ end }}
       </div>
-    
-     <hr></hr>
-    
-    
-  </div>
-
-  
-  <div id = "comments">
-    {{- partial "comments.html" . -}}
-  </div>
+  </article>
 
 </body>
 </html>

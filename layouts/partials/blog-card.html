@@ -1,5 +1,5 @@
-<div class="text-center shadow-lg bg-white rounded hover:text-yellow-600 hover:shadow-xl dark:invert">
-<a href="{{ .Permalink }}">
+<div style = "color:purple" class="text-center shadow-lg bg-white rounded hover:text-yellow-600 hover:shadow-xl dark:invert">
+<a href="{{ .Permalink }}" class="hover:text-yellow-600">
   {{ if .Params.thumbnail }}
   <div class="relative dark:invert">
     <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="shadow-sm object-cover h-96" style = "width: 120%;" />
@@ -10,7 +10,7 @@
     {{ end }}
   </div>
   {{ end }}
-  <div class="my-2 text-xl font-semibold p-2 text-center hover:text-yellow-600">{{ .Params.title }}</div>
+  <div class="my-2 text-xl font-bold p-2 text-center hover:text-yellow-600">{{ .Params.title }}</div>
   <div>{{ .Params.description }}</div>
 </a>
 </div>

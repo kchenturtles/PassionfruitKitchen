@@ -1,10 +1,12 @@
-<div class = "dark:text-black {{ .Site.Params.ascentColor | default "bg-pink-50" }}" style = "background-color: lavenderblush;">
-<footer class="container mx-auto p-6">
-  <div class = "flex justify-between align-center items-left mx-20 center">
+<div class = "dark:text-black mt-8 {{ .Site.Params.ascentColor | default "bg-pink-50" }}" style = "background-color: papayawhip;">
+<footer class="container mx-auto px-0 md:px-24 pt-6">
+  <div class = "flex flex-wrap justify-center lg:justify-between align-center items-left mx-20 center">
     <a href = "{{ .Site.Home.Permalink }}">
       <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" class="my-6 hover:opacity-50" style = "max-width: 10em; max-height: 10em;" />
     </a>
-    <div class = "my-12 font-bold text-xl mb-4">
+    {{- partial "social.html" . -}}
+    <div class = "flex flex-wrap gap-8">
+    <div class = "my-8 font-bold text-xl mb-4 text-center lg:text-left justify-center">
       <div class = "mb-2">Menu</div>
       <ul class="underline font-light text-sm">
         {{ range .Site.Menus.main }}
@@ -12,8 +14,7 @@
         {{ end }}
       </ul>
     </div>
-    {{- partial "social.html" . -}}
-    <div class = "my-12 font-bold text-xl mb-4">
+    <div class = "my-8 font-bold text-xl mb-4 text-center md:text-left justify-center">
       <div class = "mb-2">Tags</div>
       <ul class = "underline font-light text-sm">
         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
@@ -21,15 +22,11 @@
         {{ end }}
       </ul>
     </div>
-
+  </div>
   </div>
   <div class = "flex justify-between items-center">
     <span class="text-sm font-light">
-      {{ if (isset .Site.Params "copyright") }}
-      {{ .Site.Params.copyright | safeHTML }}
-      {{ else }}
-      {{ dateFormat "2006" now }} © {{ .Site.Title }}
-      {{ end }}
+      Copyright 2021-2024 © Kendree C. All rights reserved.
     </span>
     <span onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="p-1 cursor-pointer">
       <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5"

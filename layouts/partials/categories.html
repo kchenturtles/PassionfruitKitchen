@@ -1,9 +1,6 @@
-<div class = "prose lg:prose-lg container mx-auto">
-  <div class = "mb-2 text-xl font-bold">Categories</div>
-  <div class = "font-light text-l flex gap-2 p-6" style = "padding-top:0; margin-top:0; flex-wrap: wrap;">
-    <div> Filed Under:</div>
+<div class = "container mt-12 mx-auto flex gap-3 justify-start items-center">
+  <div class="text-xl font-bold pb-0 font-sans" style = "color:black">Categories:</div>
     {{ range .Params.categories }}
-    <div style = "background-color: peru; padding-left:0.5em; padding-right: 0.5em;" class = "button"><a  style = "color: white; text-decoration: none;" href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
+    <div style = "background-color: peru; padding-left:0.5em; padding-right: 0.5em; max-width: max-content; height: fit-content;" class = "button hover:opacity-50" ><a  style = "color: white; text-decoration: none; max-width: fit-content;" href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
   {{ end }}
-  </div>
 </div>

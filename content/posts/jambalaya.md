@@ -76,15 +76,18 @@ Enjoy!
 - My favorite brand of vegetarian sausage is Beyond Meat’s sausage links or Tofurky vegetarian kielbasa. Use the hot variety for the best kick, but if you don’t like spice, use the sweet version.
 - If you find the jambalaya a little soupy after it’s released pressure, you can turn the Instant Pot to saute and let it boil for a little longer to thicken up.
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em;"  id = "recipe"> 
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-| <div style = "margin-bottom:10em;"><h2>Brown Rice Jambalaya</h2><p style = "font-weight: 300;">A pescetarian take on jambalaya!</p></div> | <img src="../../jambalaya/jambalaya-thumbnail.jpeg"  width="200em" height="200em"> |
-| :--- | :----: |
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Brown Rice Jambalaya</h2><p style = "font-weight: 300;">A pescetarian take on jambalaya!</p></div>  <img src="../../jambalaya/jambalaya-thumbnail.jpeg"  width="200em" height="200em"> </div>
 
 | _Prep Time_: 20 min  | _Cook Time_: 30 min  |
 | :--- | :--- |
 | **_Total Time_: 50 min** | **_Serves_: 8**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1/2 tsp salt
 - 1/4 tsp pepper
@@ -124,4 +127,5 @@ Enjoy!
 
 This recipe is gluten-free. If you want to make it vegetarian, omit the shrimp. You can use vegetarian chicken or double the amount of mushrooms instead.
 
+</div>
 </div>
