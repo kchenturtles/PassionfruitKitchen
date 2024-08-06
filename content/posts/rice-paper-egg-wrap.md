@@ -3,7 +3,7 @@ title: "Crispy Rice Paper Wrap"
 date: 2024-05-20T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
-tags: ["vegetarian", "pescetarian"]
+tags: ["vegetarian", "pescetarian", "gluten-free", "dairy-free"]
 toc: true
 summary: "I'm back with the rice paper, because I've still got some left! Rice paper is also really good for crisping up, and it makes a really cool substitute for a tortilla in a breakfast egg wrap. This recipe is somewhat inspired by the Chinese dish jian bing, which has eggs and scallions on top of a crepe with black bean sauce. I tried out swapping the tortilla with rice paper, and it turned out great!"
 dropCap: true
@@ -76,7 +76,7 @@ After heating up oil in a pan, you'll actually put the rice paper right on top o
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-This recipe is vegetarian.
+This recipe is vegetarian, dairy-free, and gluten-free.
 
 </div>
 </div>

@@ -3,7 +3,7 @@ title: "Rice Paper Sushi Rolls"
 date: 2024-04-19T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["one-pot"]
-tags: ["vegetarian", "pescetarian"]
+tags: ["vegetarian", "pescetarian", "dairy-free", "gluten-free"]
 toc: true
 summary: "My family likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes great! We usually make it with surimi, cucumber, and avocado, sometimes we swap surimi for smoked salmon. So, how did this recipe come about? Well, a few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not wrap sushi in it? "
 dropCap: true
@@ -87,7 +87,7 @@ You'll need to start by making sushi rice. It's pretty simple actually -- you ju
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-This recipe is pescetarian. To make it vegetarian or vegan, you can use all vegetables as fillings!
+This recipe is pescetarian, dairy-free, and gluten-free. To make it vegetarian or vegan, you can use all vegetables as fillings!
 
 </div>
 </div>

@@ -3,7 +3,7 @@ title: "Vegetarian Gua Bao"
 date: 2024-07-22T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
-tags: ["vegetarian", "pescetarian"]
+tags: ["vegetarian", "pescetarian", "dairy-free"]
 toc: true
 summary: "Gua bao is a dish I grew up with! Basically, it's often eaten as a split bun stuffed with pork belly and cucumber and sometimes other toppings like cilantro. Although as a child, my strongest memory is taking those split buns and making them into odd fusion PB&J sandwiches! After I went pescetarian, I missed having gua bao, so I came up with a vegetarian substitute that swaps mushrooms for pork belly. It tastes just as good!"
 dropCap: true
@@ -71,7 +71,7 @@ Making the mushrooms is quite simple! All you have to do is sweat them out in a 
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-This recipe is vegetarian. To make it vegan, you can use vegan buns!
+This recipe is vegetarian and dairy-free. To make it vegan, you can use vegan buns!
 
 </div>
 </div>
