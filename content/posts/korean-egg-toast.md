@@ -5,7 +5,7 @@ categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "Happy Valentines Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami egg-toast, which is one of the cutest desserts I’ve ever had. I love egg-toast because they are so simple, not to sweet, and so chewy. Traditionally hanami egg-toast are pink, white, and green, but I made it with just pink and white for Valentines Day!"
+summary: " "
 dropCap: true
 displayInMenu: true
 displayInList: true
