@@ -5,7 +5,7 @@
     <link href="/dist/styles.css" rel="stylesheet">
 </head>
 <body>
-  <h1 class="container px-6 pt-6 mx-auto text-3xl font-bold" style = "font-family: cursive;">{{ .Title }}</h1>
+  <h1 class="container mx-auto text-3xl uppercase font-bold pb-0 pb-4 font-sans" style = "color:peru">{{ .Title }}</h1>
 
   {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
   <div class="container p-6 mx-auto">
