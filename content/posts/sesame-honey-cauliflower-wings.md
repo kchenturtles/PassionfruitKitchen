@@ -9,8 +9,6 @@ summary: "Cauliflower wings are an awesome vegetarian snack! I first made caulif
 dropCap: true
 displayInMenu: true
 displayInList: true
-independence: true
-summer: true
 draft: false
 thumbnail: cauli-wings/cauli-wings.jpeg
 resources:

@@ -10,8 +10,8 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
-draft: false
 one-pot: true
+draft: false
 thumbnail: fried_rice.jpeg
 resources:
 - name: featuredImage

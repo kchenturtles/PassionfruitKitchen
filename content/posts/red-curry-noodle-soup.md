@@ -9,6 +9,7 @@ summary: "Creamy, spicy, savory, coconutty…this soup is possibly one of the be
 dropCap: true
 displayInMenu: true
 displayInList: true
+casserole: true
 draft: false
 thumbnail: red_curry_noodle_soup.jpeg
 resources:

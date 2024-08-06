@@ -9,6 +9,7 @@ summary: "Happy Valentines Day! In honor of the holiday, I figured I should take
 dropCap: true
 displayInMenu: true
 summer: true
+featured: true
 displayInList: true
 draft: false
 thumbnail: dango/dango-stacked.jpg

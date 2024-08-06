@@ -9,8 +9,7 @@ summary: "I love pasta alla vodka, but it does require two pots – one to boil 
 dropCap: true
 displayInMenu: true
 one-pot: true
-summer: true
-featured: true
+independence: true
 displayInList: true
 draft: false
 thumbnail: tomato-pasta/pasta-thumbnail.jpeg

@@ -1,6 +1,6 @@
 ---
 title: "Vegetarian Gua Bao"
-date: 2024-08-02T20:24:47-04:00
+date: 2024-07-22T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
@@ -8,7 +8,7 @@ toc: true
 summary: "Happy Valentines Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami gua-bao, which is one of the cutest desserts I’ve ever had. I love gua-bao because they are so simple, not to sweet, and so chewy. Traditionally hanami gua-bao are pink, white, and green, but I made it with just pink and white for Valentines Day!"
 dropCap: true
 displayInMenu: true
-summer: true
+casserole: true
 displayInList: true
 draft: false
 thumbnail: gua-bao/gua-bao.jpg

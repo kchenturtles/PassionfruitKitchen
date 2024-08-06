@@ -9,6 +9,7 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
+summer: true
 draft: false
 thumbnail: cheesy-shells.jpg
 resources:

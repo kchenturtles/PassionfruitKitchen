@@ -11,7 +11,6 @@ displayInMenu: true
 displayInList: true
 draft: false
 spring: true
-casserole: true
 thumbnail: roasted_broccoli.jpeg
 resources:
 - name: featuredImage

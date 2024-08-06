@@ -11,7 +11,6 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-summer: true
 thumbnail: honey_soy_salmon.jpg
 resources:
 ---
