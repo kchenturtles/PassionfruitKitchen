@@ -5,7 +5,7 @@ categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "My family likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes great! We usually make it with surimi, cucumber, and avocado, sometimes we swap surimi for smoked salmon. So, how did this recipe come about? Well, a few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not wrap sushi in it? A bit like a sushi burrito but more self-contained, and it adds a cool chew to the outside of the sushi roll. It's been a huge hit with my family!"
+summary: "My family likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes great! We usually make it with surimi, cucumber, and avocado, sometimes we swap surimi for smoked salmon. So, how did this recipe come about? Well, a few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not wrap sushi in it? "
 dropCap: true
 displayInMenu: true
 summer: true
