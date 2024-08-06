@@ -46,9 +46,9 @@ The most work you have to do in this recipe is chop the apples. You don't even h
 
 <div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Slow-Cooker Applesauce</h2><p style = "font-weight: 300;">A super-convenient, delicious recipe!</p></div><img src="../../applesauce/applesauce-stacked.jpg"  width="200em" height="200em"/></div>
 
-| _Prep Time_: 0 min  | _Cook Time_: 20 min  |
+| _Prep Time_: 20 min  | _Cook Time_: 480 min  |
 | :--- | :--- |
-| **_Total Time_: 20 min** | **_Serves_: 6**  |
+| **_Total Time_: 500 min** | **_Serves_: 20**  |
 
 </div>
 <div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">

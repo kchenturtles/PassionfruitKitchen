@@ -1,11 +1,11 @@
 ---
 title: "Savory Crepe, Jian Bing Style"
-date: 2024-06-11T20:24:47-04:00
+date: 2024-18-11T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: " "
+summary: "My dad's favorite food is probably jian bing, a Chinese street food that usually consists of a crispy whole-wheat crepe filled with egg, black bean sauce, scallions, sometimes lettuce, and a crispy cracker or fried dough piece. As a little bit of fun, this Father's Day I made a version using French crepe batter, which produces a smoother and softer crepe than the traditional Chinese Version. I don't have the plate that vendors typically use to make jian bing, but I made do with what I had. This dish is essentially my recreation of a jian bing, just a little bit simpler and quicker to make!"
 dropCap: true
 displayInMenu: true
 summer: true
@@ -17,9 +17,7 @@ resources:
 
 ![jianbing-crepe thumbnail](../../jianbing-crepe/crepe-aerial.jpg)
 
-I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe! It’s a great weeknight dinner, and I hope you try it too!
-
-On another note, I finally got Lightroom! Now I can edit photos so the lighting/coloring isn’t always so weird :). So I hope you enjoy the properly-edited photos in this post.
+My dad's favorite food is probably jian bing, a Chinese street food that usually consists of a crispy whole-wheat crepe filled with egg, black bean sauce, scallions, sometimes lettuce, and a crispy cracker or fried dough piece. As a little bit of fun, this Father's Day I made a version using French crepe batter, which produces a smoother and softer crepe than the traditional Chinese Version. I don't have the plate that vendors typically use to make jian bing, but I made do with what I had. This dish is essentially my recreation of a jian bing, just a little bit simpler and quicker to make!
 
 ## Ingredients
 

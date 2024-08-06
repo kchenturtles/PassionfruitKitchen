@@ -5,7 +5,7 @@ categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: " "
+summary: "Gua bao is a dish I grew up with! Basically, it's often eaten as a split bun stuffed with pork belly and cucumber and sometimes other toppings like cilantro. Although as a child, my strongest memory is taking those split buns and making them into odd fusion PB&J sandwiches! After I went pescetarian, I missed having gua bao, so I came up with a vegetarian substitute that swaps mushrooms for pork belly. It tastes just as good!"
 dropCap: true
 displayInMenu: true
 casserole: true
@@ -17,40 +17,31 @@ resources:
 
 ![gua-bao thumbnail](../../gua-bao/gua-bao.jpg)
 
-I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe! It’s a great weeknight dinner, and I hope you try it too!
-
-On another note, I finally got Lightroom! Now I can edit photos so the lighting/coloring isn’t always so weird :). So I hope you enjoy the properly-edited photos in this post.
+Gua bao is a dish I grew up with! Basically, it's often eaten as a split bun stuffed with pork belly and cucumber and sometimes other toppings like cilantro. Although as a child, my strongest memory is taking those split buns and making them into odd fusion PB&J sandwiches! After I went pescetarian, I missed having gua bao, so I came up with a vegetarian substitute that swaps mushrooms for pork belly. It tastes just as good!
 
 ## Ingredients
 
-This recipe is pretty low-key, and many of the ingredients are easy to substitute. Truly a pantry pasta recipe! You’ll need:
+This recipe is a bit of a make-your-own sandwich. :) The only really time-consuming thing is the mushrooms.
 
-- Butter
-- Garlic
-- Short-cut pasta of your choice (I used penne, but you could also use anything from fusilli to gemelli.)
-- Canned tomato sauce, or crushed tomatoes, or tomato puree (even diced tomatoes might work!)
-- Evaporated milk, cream, or milk
-- White wine
-- Vegetable broth or chicken stock
-- Tomato paste (optional)
-- Parmesan cheese (or Pecorino-Romano, or whatever you have)
+- Shiitake mushrooms, can also use king oyster or white button
+- Cucumbers
+- Hoisin sauce
+- Steamed white bao buns -- you can find these at a local Asian market!
 
-## Making Creamy Tomato Pasta
+## Making Vegetarian Gua Bao
 
-You’ll start by sauteing the garlic and tomato paste, then deglaze the pan with the white wine. Add the broth and tomatoes, and bring them to a boil. Then, add in your pasta.
-
-Let the pasta cook in the liquid until softened but not quite cooked through. Add in the milk/cream, and continue to cook until al dente. Stir in some butter and parmesan to finish, and you’re done! So easy!
+Making the mushrooms is quite simple! All you have to do is sweat them out in a pan, then make a quick sauce to coat them. Then they're all ready to be put in sandwiches with a generous dollop of hoisin sauce and some crunchy cucumbers!
 
 ## Tips
 
-- It is okay if the pasta is a bit saucy when it is fully cooked — it will thicken up as the pasta cools.
-- If you find that when all the liquid has boiled away the pasta isn't fully cooked yet, add some more stock.
-- You can also add herbs and seasonings if you like!
+- Be sure to cook the mushrooms on high heat. Try to get all the water evaporated out of them so that they won't be too runny. Takes some patience, but it's worth it!
+- Peanuts, cilantro, and even sometimes jalapenos are some creative toppings to add!
+- If you don't have hoisin sauce, you can use oyster sauce or black bean sauce as well. 
 
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Creamy Tomato Penne</h2><p style = "font-weight: 300;">An easy, low-key weeknight creamy tomato pasta!</p></div><img src="../../gua-bao/gua-bao.jpg"  width="200em" height="200em"/></div>
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Vegetarian Gua Bao</h2><p style = "font-weight: 300;">An easy vegetarian version!</p></div><img src="../../gua-bao/gua-bao.jpg"  width="200em" height="200em"/></div>
 
 | _Prep Time_: 0 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
@@ -60,33 +51,27 @@ Let the pasta cook in the liquid until softened but not quite cooked through. Ad
 <div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
  
-- 2 tbsp butter, divided
-- 2 cloves garlic, minced
-- 1 tbsp tomato paste (optional)
-- 1/2 cup white wine
-- 14 oz crushed tomatoes, tomato sauce, or tomato puree
-- 2 1/2 cups vegetable broth or chicken stock
-- 1 lb penne pasta
-- 1 to 1 1/2 cups evaporated milk or cream
-- Parmesan cheese (optional)
+- 1 lb shiitake, king oyster, or white button mushrooms, sliced
+- 2 tbsp oyster sauce
+- 1 tbsp soy sauce
+- 12 steamed white gua bao buns 
+- 2 cucumbers, sliced into fine spears
+- Hoisin sauce, for serving
 
 |   |    |
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Instructions</h2></div>|   |
 
-1. In a large pot over medium heat, melt 1 tbsp butter. Add garlic and saute until fragrant.
-2. Add tomato paste and stir until slightly darkened in color, 1 minute
-3. Add in white wine to deglaze the pan. Pour in tomatoes and broth. Turn up the heat to high and bring to a boil.
-4. When the broth is at a boil, add in the penne pasta. Cook until beginning to soften and the liquid has begun to reduce, 6-7 minutes.
-5. Add in the evaporated milk and cook until the pasta is al dente.
-6. To finish, add in the second tbsp of butter and Parmesan cheese to taste.
-7. Enjoy!
+1. In a large skillet over high heat, sear the mushrooms and saute until the water has evaporated.
+2. Add the soy sauce and oyster sauce to the mushrooms and toss to coat. 
+3. To assemble a gua bao, add the mushrooms, sliced cucumbers, and hoisin sauce into a bun. 
+4. Enjoy!
 
 |   |    |
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-This recipe is vegetarian. To make it vegan, you can use a vegan pasta and vegan cream – the recipe will work the same.
+This recipe is vegetarian. To make it vegan, you can use vegan buns!
 
 </div>
 </div>

@@ -53,7 +53,7 @@ You'll need to start by making sushi rice. It's pretty simple actually -- you ju
 
 | _Prep Time_: 60 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
-| **_Total Time_: 80 min** | **_Serves_: 6**  |
+| **_Total Time_: 80 min** | **_Serves_: 20**  |
 
 </div>
 <div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
