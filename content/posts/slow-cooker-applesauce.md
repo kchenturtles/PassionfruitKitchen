@@ -2,10 +2,10 @@
 title: "Slow Cooker Applesauce"
 date: 2024-01-24T20:24:47-04:00
 categories: ["desserts", "snacks"]
-featured_categories: ["quick & easy", "one-pot"]
+featured_categories: ["one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "Happy Valentines Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami applesauce, which is one of the cutest desserts I’ve ever had. I love applesauce because they are so simple, not to sweet, and so chewy. Traditionally hanami applesauce are pink, white, and green, but I made it with just pink and white for Valentines Day!"
+summary: "I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old, and it was time to use them up. Usually with apples, I would make apple crisp or apple pie, but with robotics season starting I didn't have time. So my solution? Slow cooker applesauce! It's great because you can set it and forget it until it's ready, it tastes great, and it makes the house smell so cozy, which is just what you need in these winter months. (Now the only question is squeezing 10 apples into my slow cooker...)"
 dropCap: true
 displayInMenu: true
 summer: true
@@ -17,44 +17,34 @@ resources:
 
 ![applesauce thumbnail](../../applesauce/applesauce-stacked.jpg)
 
-I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe! It’s a great weeknight dinner, and I hope you try it too!
-
-On another note, I finally got Lightroom! Now I can edit photos so the lighting/coloring isn’t always so weird :). So I hope you enjoy the properly-edited photos in this post.
+I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old, and it was time to use them up. Usually with old apples, I would make apple crisp or apple pie, but with robotics season starting I didn't have time. So my solution? Slow cooker applesauce! It's great because you can set it and forget it until it's ready, it tastes great, and it makes the house smell so cozy, which is just what you need in these winter months. (Now the only question is squeezing 10 apples into my slow cooker...)
 
 ![applesauce thumbnail](../../applesauce/applesauce-aerial.jpg)
 
 ## Ingredients
 
-This recipe is pretty low-key, and many of the ingredients are easy to substitute. Truly a pantry pasta recipe! You’ll need:
+You can actually make an excellent and healthy applesauce with just 3 ingredients -- and one of them is water! No sugar needed, and it still comes out very sweet!
 
-- Butter
-- Garlic
-- Short-cut pasta of your choice (I used penne, but you could also use anything from fusilli to gemelli.)
-- Canned tomato sauce, or crushed tomatoes, or tomato puree (even diced tomatoes might work!)
-- Evaporated milk, cream, or milk
-- White wine
-- Vegetable broth or chicken stock
-- Tomato paste (optional)
-- Parmesan cheese (or Pecorino-Romano, or whatever you have)
+- Apples -- any type, a mix is good. McIntosh make great applesauce, as do Golden Delicious and Empire.
+- Cinnamon and any other spices desired
+- Water
 
-## Making Creamy Tomato Pasta
+## Making Applesauce in the Slow Cooker
 
-You’ll start by sauteing the garlic and tomato paste, then deglaze the pan with the white wine. Add the broth and tomatoes, and bring them to a boil. Then, add in your pasta.
+The most work you have to do in this recipe is chop the apples. You don't even have to peel them! Once you've got your cubed apples, you just throw them in the slow cooker with some water and leave it to simmer for several hours, until the apples are soft and breaking down into a mush. Then you can blend it into a smooth puree, and enjoy!
 
 ![applesauce plated](../../applesauce/applesauce-open.jpg)
 
-Let the pasta cook in the liquid until softened but not quite cooked through. Add in the milk/cream, and continue to cook until al dente. Stir in some butter and parmesan to finish, and you’re done! So easy!
-
 ## Tips
 
-- It is okay if the pasta is a bit saucy when it is fully cooked — it will thicken up as the pasta cools.
-- If you find that when all the liquid has boiled away the pasta isn't fully cooked yet, add some more stock.
-- You can also add herbs and seasonings if you like!
+- It is better to aim for more water rather than less -- you don't want to burn your slow cooker!
+- Be careful blending the cooked apples into applesauce, as you may want to let them cool a bit first.
+- If, after blending, you want your applesauce a bit thicker, you can pour it back into the slow cooker and let it cook down.
 
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Creamy Tomato Penne</h2><p style = "font-weight: 300;">An easy, low-key weeknight creamy tomato pasta!</p></div><img src="../../applesauce/applesauce-stacked.jpg"  width="200em" height="200em"/></div>
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Slow-Cooker Applesauce</h2><p style = "font-weight: 300;">A super-convenient, delicious recipe!</p></div><img src="../../applesauce/applesauce-stacked.jpg"  width="200em" height="200em"/></div>
 
 | _Prep Time_: 0 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
@@ -64,33 +54,25 @@ Let the pasta cook in the liquid until softened but not quite cooked through. Ad
 <div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
  
-- 2 tbsp butter, divided
-- 2 cloves garlic, minced
-- 1 tbsp tomato paste (optional)
-- 1/2 cup white wine
-- 14 oz crushed tomatoes, tomato sauce, or tomato puree
-- 2 1/2 cups vegetable broth or chicken stock
-- 1 lb penne pasta
-- 1 to 1 1/2 cups evaporated milk or cream
-- Parmesan cheese (optional)
+- 8-10 medium apples, around 3 lbs
+- 1/2 cup water
+- 1 cinnamon stick
 
 |   |    |
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Instructions</h2></div>|   |
 
-1. In a large pot over medium heat, melt 1 tbsp butter. Add garlic and saute until fragrant.
-2. Add tomato paste and stir until slightly darkened in color, 1 minute
-3. Add in white wine to deglaze the pan. Pour in tomatoes and broth. Turn up the heat to high and bring to a boil.
-4. When the broth is at a boil, add in the penne pasta. Cook until beginning to soften and the liquid has begun to reduce, 6-7 minutes.
-5. Add in the evaporated milk and cook until the pasta is al dente.
-6. To finish, add in the second tbsp of butter and Parmesan cheese to taste.
-7. Enjoy!
+1. Wash and chop the apples into even-sized medium chunks.
+2. Put the apples in a slow cooker with the water and cinnamon stick, and cook covered on LOW for 8 hours or until the apple chunks are soft and falling apart.
+3. Pour the apple mixture into a blender (or use an immersion blender) and blend until smooth. 
+4. If desired, return the applesauce to the pot and continue to cook until thicker.
+5. Serve and enjoy!
 
 |   |    |
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-This recipe is vegetarian. To make it vegan, you can use a vegan pasta and vegan cream – the recipe will work the same.
+This recipe is vegan.
 
 </div>
 </div>
