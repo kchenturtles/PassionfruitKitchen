@@ -1,29 +1,28 @@
 ---
-title: "Creamy Tomato Penne"
-date: 2022-07-07T20:24:47-04:00
-categories: ["one-pot", "dinner", "lunch", "quick & easy", "pastas"]
+title: "Avocado Egg Toast"
+date: 2023-12-24T20:24:47-04:00
+categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe!"
+summary: "Happy Valentines Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami egg-toast, which is one of the cutest desserts I’ve ever had. I love egg-toast because they are so simple, not to sweet, and so chewy. Traditionally hanami egg-toast are pink, white, and green, but I made it with just pink and white for Valentines Day!"
 dropCap: true
 displayInMenu: true
-one-pot: true
 summer: true
 featured: true
 displayInList: true
 draft: false
-thumbnail: tomato-pasta/pasta-thumbnail.jpeg
+thumbnail: egg-toast/egg-toast-inside.jpg
 resources:
 ---
 
-![creamy tomato penne thumbnail](../../tomato-pasta/pasta-thumbnail.jpeg)
+![egg-toast thumbnail](../../egg-toast/egg-toast-stacked.jpg)
 
 I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe! It’s a great weeknight dinner, and I hope you try it too!
 
 On another note, I finally got Lightroom! Now I can edit photos so the lighting/coloring isn’t always so weird :). So I hope you enjoy the properly-edited photos in this post.
 
-![tomato penne plated](../../tomato-pasta/tomato-penne-plated.jpeg)
+![egg-toast plated](../../egg-toast/egg-toast-uncut.jpg)
 
 ## Ingredients
 
@@ -43,7 +42,7 @@ This recipe is pretty low-key, and many of the ingredients are easy to substitut
 
 You’ll start by sauteing the garlic and tomato paste, then deglaze the pan with the white wine. Add the broth and tomatoes, and bring them to a boil. Then, add in your pasta.
 
-![making tomato penne](../../tomato-pasta/making-tomato-penne.jpeg)
+![egg-toast plated](../../egg-toast/egg-toast-inside.jpg)
 
 Let the pasta cook in the liquid until softened but not quite cooked through. Add in the milk/cream, and continue to cook until al dente. Stir in some butter and parmesan to finish, and you’re done! So easy!
 
@@ -56,7 +55,7 @@ Let the pasta cook in the liquid until softened but not quite cooked through. Ad
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Creamy Tomato Penne</h2><p style = "font-weight: 300;">An easy, low-key weeknight creamy tomato pasta!</p></div><img src="../../tomato-pasta/pasta-thumbnail.jpeg"  width="200em" height="200em"/></div>
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Creamy Tomato Penne</h2><p style = "font-weight: 300;">An easy, low-key weeknight creamy tomato pasta!</p></div><img src="../../egg-toast/egg-toast-stacked.jpg"  width="200em" height="200em"/></div>
 
 | _Prep Time_: 0 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
