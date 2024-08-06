@@ -85,7 +85,7 @@ The sauce is super simple, just a sweet mayo (although you can add a little bit 
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-This recipe is vegetarian. To make it vegan, you can use a vegan pasta and vegan cream – the recipe will work the same.
+This recipe is vegetarian.
 
 </div>
 </div>
