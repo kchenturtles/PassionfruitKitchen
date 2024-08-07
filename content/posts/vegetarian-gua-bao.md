@@ -1,6 +1,6 @@
 ---
 title: "Vegetarian Gua Bao"
-date: 2024-07-22T20:24:47-04:00
+date: 2024-07-02T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian", "dairy-free"]
