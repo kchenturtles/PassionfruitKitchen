@@ -123,7 +123,10 @@ DefaultContentLanguageInSubdir = true
     url = "https://youtube.com"
   [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com"
+    url = "https://instagram.com/passionfruit_kitchen"
+  [[params.homepage.social.icons]]
+    website = "github"
+    url = "https://github.com/kchenturtles/PassionfruitKitchen"
 
 [[menu.main]]
   name = "About"
