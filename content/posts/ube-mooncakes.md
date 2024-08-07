@@ -10,6 +10,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
+summer: true
 thumbnail: mooncakes/mooncakes-thumbnail.jpeg
 resources:
 ---

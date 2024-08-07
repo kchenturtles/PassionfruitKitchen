@@ -8,7 +8,7 @@ summary: "Butter mochi is becoming popular these days. It originates from Hawaii
 toc: true
 dropCap: true
 displayInMenu: true
-independence: true
+breakfast: true
 displayInList: true
 draft: false
 thumbnail: butter-mochi/butter-mochi-glass.jpeg

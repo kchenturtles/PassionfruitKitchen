@@ -5,7 +5,6 @@ categories: ["appetizers", "dinner", "lunch", "salads", "quick & easy"]
 featured_categories: ["quick & easy"]
 tags: ["gluten-free", "vegetarian", "pescetarian"]
 toc: true
-independence: true
 spring: true
 summary: "I conquered my fear of salads with this peach and burrata caprese. I made it for my parents’ anniversary dinner, and they loved it. Since it’s peach season, I threw in peaches with the classic tomato and basil caprese salad. I also replaced the traditional mozzarella with burrata, because I think it makes the salad more cohesive. It’s a super simple salad, dressed with just a drizzle of good balsamic vinegar."
 dropCap: true

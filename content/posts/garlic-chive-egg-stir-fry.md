@@ -9,7 +9,6 @@ summary: "Unlike chives, which you’d normally think of as an aromatic, garlic 
 dropCap: true
 displayInMenu: true
 displayInList: true
-one-pot: true
 draft: false
 thumbnail: chive-eggs/chive-eggs-thumbnail.jpeg
 resources:

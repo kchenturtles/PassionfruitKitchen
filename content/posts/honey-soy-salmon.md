@@ -9,6 +9,7 @@ tags: ["gluten-free", "pescetarian", "dairy-free"]
 toc: true
 dropCap: true
 displayInMenu: true
+casserole: true
 displayInList: true
 draft: false
 thumbnail: honey_soy_salmon.jpg

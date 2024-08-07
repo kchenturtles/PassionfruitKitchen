@@ -10,6 +10,7 @@ dropCap: true
 displayInMenu: true
 summer: true
 displayInList: true
+independence: true
 draft: false
 thumbnail: rice-paper-roll/rice-paper-roll-1.jpg
 resources:

@@ -10,7 +10,6 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 featured: true
-independence: true
 draft: false
 thumbnail: cheeseboard/cheeseboard.jpeg
 resources:

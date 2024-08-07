@@ -8,9 +8,9 @@ toc: true
 summary: "Happy Valentines Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami dango, which is one of the cutest desserts I’ve ever had. I love dango because they are so simple, not to sweet, and so chewy. Traditionally hanami dango are pink, white, and green, but I made it with just pink and white for Valentines Day!"
 dropCap: true
 displayInMenu: true
-summer: true
 featured: true
 displayInList: true
+breakfast: true
 draft: false
 thumbnail: dango/dango-stacked.jpg
 resources:

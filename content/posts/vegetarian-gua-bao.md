@@ -8,7 +8,7 @@ toc: true
 summary: "Gua bao is a dish I grew up with! Basically, it's often eaten as a split bun stuffed with pork belly and cucumber and sometimes other toppings like cilantro. Although as a child, my strongest memory is taking those split buns and making them into odd fusion PB&J sandwiches! After I went pescetarian, I missed having gua bao, so I came up with a vegetarian substitute that swaps mushrooms for pork belly. It tastes just as good!"
 dropCap: true
 displayInMenu: true
-casserole: true
+independence: true
 displayInList: true
 draft: false
 thumbnail: gua-bao/gua-bao.jpg

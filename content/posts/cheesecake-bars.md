@@ -9,9 +9,9 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
-breakfast: true
 featured: true
 draft: false
+breakfast: true
 thumbnail: cheesecake-bars/cheesecake-aerial.jpeg
 resources:
 ---

@@ -11,7 +11,6 @@ displayInMenu: true
 displayInList: true
 draft: false
 featured: true
-casserole: true
 thumbnail: tomato_fritatta_aerial.jpg
 resources:
 - name: featuredImage

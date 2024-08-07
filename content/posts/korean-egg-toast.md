@@ -9,6 +9,7 @@ summary: "This winter, I got introduced to Korean egg toast, and I'm pretty sure
 dropCap: true
 displayInMenu: true
 displayInList: true
+casserole: true
 draft: false
 thumbnail: egg-toast/egg-toast-inside.jpg
 resources:
