@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soups &amp; Stews on Passionfruit Kitchen</title>
+    <link>http://localhost:1313/PassionfruitKitchen/en/featured_categories/soups--stews/</link>
+    <description>Recent content in Soups &amp; Stews on Passionfruit Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2023 16:12:43 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/featured_categories/soups--stews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four-Cheese Cheesy Shells</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/cheesy-shells/</link>
+      <pubDate>Mon, 02 Oct 2023 16:12:43 -0500</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/cheesy-shells/</guid>
+      <description>This is a pretty awesome mac and cheese recipe. It&amp;rsquo;s got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior shape (I will die on this hill). It&amp;rsquo;s extra saucy, because the saucier the better. It&amp;rsquo;s salty, cheesy, and has a bit of a kick (adjustable levels!) Peak comfort food right here.</description>
+    </item>
+    <item>
+      <title>Red Curry Noodle Soup</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/red-curry-noodle-soup/</link>
+      <pubDate>Thu, 22 Dec 2022 22:54:49 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/red-curry-noodle-soup/</guid>
+      <description>Creamy, spicy, savory, coconutty…this soup is possibly one of the best things I’ve ever made. My family definitely agrees – whenever I make this, it’s gone in a day! It’s a great comfort food for winter and also great to make in the summer, since I always crave spicy food in the summer. I love this soup so much!</description>
+    </item>
+    <item>
+      <title>Brown Rice &#39;Jambalaya&#39; (Instant Pot Recipe!)</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/jambalaya/</link>
+      <pubDate>Fri, 30 Sep 2022 20:24:06 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/jambalaya/</guid>
+      <description>I love jambalaya. It’s traditionally not pescetarian, so I swapped chicken for mushrooms and used vegetarian sausage to make my version. I also used brown rice instead of white rice, since that’s my family’s favorite type of rice. It also adds body to the jambalaya, so I prefer using it, even though it isn’t traditional. Since I don’t usually have the patience to cook the rice on a stovetop, I used my instant pot instead to make it.</description>
+    </item>
+    <item>
+      <title>Broccoli Cheddar Soup</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/broccoli-cheddar-soup/</link>
+      <pubDate>Wed, 12 Jan 2022 22:53:59 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/broccoli-cheddar-soup/</guid>
+      <description>Who else loves broccoli cheddar soup? I adored it as a kid, but really only from Panera Bread. Unfortunately, I’ve had quite a few bad broccoli cheddar soups in my life (school cafeteria, anyone?) — floury, bland, watery, and sometimes the broccoli inside would still be crunchy (yikes). But Panera’s was really good: creamy, savory, and deliciously cheesy.</description>
+    </item>
+  </channel>
+</rss>

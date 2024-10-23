@@ -2,18 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Passionfruit Kitchen</title>
-    <link>https://kchenturtles.github.io/en/categories/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/categories/</link>
     <description>Recent content in Categories on Passionfruit Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Apr 2023 20:19:22 -0400</lastBuildDate><atom:link href="https://kchenturtles.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2024 20:24:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>recipes</title>
-      <link>https://kchenturtles.github.io/en/categories/recipes/</link>
-      <pubDate>Sun, 23 Apr 2023 20:19:22 -0400</pubDate>
-      
-      <guid>https://kchenturtles.github.io/en/categories/recipes/</guid>
+      <title>Dinner</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/dinner/</link>
+      <pubDate>Sun, 04 Aug 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/dinner/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Lunch</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/lunch/</link>
+      <pubDate>Sun, 04 Aug 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/lunch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snacks</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</link>
+      <pubDate>Sun, 04 Aug 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desserts</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/desserts/</link>
+      <pubDate>Wed, 07 Feb 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/desserts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pastas</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/pastas/</link>
+      <pubDate>Mon, 02 Oct 2023 16:12:43 -0500</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/pastas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Appetizers</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/appetizers/</link>
+      <pubDate>Thu, 29 Jun 2023 21:11:39 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/appetizers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quick &amp; Easy</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</link>
+      <pubDate>Thu, 29 Jun 2023 21:11:39 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salads</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/salads/</link>
+      <pubDate>Thu, 29 Jun 2023 21:11:39 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/salads/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sides</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/sides/</link>
+      <pubDate>Mon, 22 May 2023 22:55:04 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/sides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One-Pot</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/one-pot/</link>
+      <pubDate>Sun, 23 Apr 2023 17:46:35 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/one-pot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seafood</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/seafood/</link>
+      <pubDate>Mon, 17 Apr 2023 20:25:04 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/seafood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Breakfasts</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/breakfasts/</link>
+      <pubDate>Thu, 05 Jan 2023 20:07:42 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/breakfasts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soups &amp; Stews</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/soups--stews/</link>
+      <pubDate>Thu, 22 Dec 2022 22:54:49 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/soups--stews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Casseroles</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/casseroles/</link>
+      <pubDate>Wed, 29 Jun 2022 20:24:55 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/casseroles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pies &amp; Tarts</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/pies--tarts/</link>
+      <pubDate>Wed, 29 Dec 2021 20:24:22 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/pies--tarts/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

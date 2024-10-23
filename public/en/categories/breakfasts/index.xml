@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breakfasts on Passionfruit Kitchen</title>
+    <link>http://localhost:1313/PassionfruitKitchen/en/categories/breakfasts/</link>
+    <description>Recent content in Breakfasts on Passionfruit Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 20:07:42 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/breakfasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banana Coffee Cake</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/banana-coffee-cake/</link>
+      <pubDate>Thu, 05 Jan 2023 20:07:42 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/banana-coffee-cake/</guid>
+      <description>Banana bread is a classic bake, and it definitely got more popular during lockdown! My dad makes an awesome banana bread that I&amp;rsquo;ll always love, but I was looking for a moister banana bread. I combined this banana bread recipe with a recipe for coffee cake (because who doesn&amp;rsquo;t love streusel?) and the combination was stellar!</description>
+    </item>
+    <item>
+      <title>Oatmeal Muffins (5 ways!)</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</link>
+      <pubDate>Sat, 09 Apr 2022 20:24:00 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</guid>
+      <description>A lot of muffins I find in stores are very sweet and very dry, so I prefer to make my own. Homemade muffins are the best, especially warm out of the oven. They only need a bowl and a whisk, and they’re so easy to customize! My recipe has no refined sugar and has oats for added fiber and texture.</description>
+    </item>
+    <item>
+      <title>5 Spice Pumpkin Pie</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/5-spice-pumpkin-pie/</link>
+      <pubDate>Thu, 25 Nov 2021 20:24:40 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/5-spice-pumpkin-pie/</guid>
+      <description>Pumpkin pie was one of the first things I ever learned how to bake! I originally used the Libby’s pumpkin pie recipe, but after a while, I got sick of baking the same recipe again and again. So I started to tinker with the recipe (to the delight of my family, of course) and I came up with the idea of using Chinese five spice instead of pumpkin pie spice. It gives the pie so much more depth of flavor.</description>
+    </item>
+  </channel>
+</rss>

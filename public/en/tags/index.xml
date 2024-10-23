@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blist Multilingual Theme</title>
-    <link>https://kchenturtles.github.io/en/tags/</link>
-    <description>Recent content in Tags on Blist Multilingual Theme</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kchenturtles.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on Passionfruit Kitchen</title>
+    <link>http://localhost:1313/PassionfruitKitchen/en/tags/</link>
+    <description>Recent content in Tags on Passionfruit Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2024 20:24:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pescetarian</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</link>
+      <pubDate>Sun, 04 Aug 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetarian</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</link>
+      <pubDate>Sun, 04 Aug 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dairy-Free</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</link>
+      <pubDate>Tue, 02 Jul 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gluten-Free</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</link>
+      <pubDate>Mon, 20 May 2024 20:24:47 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
