@@ -12,12 +12,11 @@
         "build-examplesite": "NODE_ENV=production hugo -s exampleSite --themesDir=../.. --gc",
         "build": "NODE_ENV=production hugo --gc",
         "build:css": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch"
-
     },
     "devDependencies": {
         "@tailwindcss/typography": "^0.4.0",
-        "autoprefixer": "^10.2.5",
-        "postcss": "^8.2.10",
+        "autoprefixer": "^10.4.20",
+        "postcss": "^8.4.47",
         "postcss-cli": "^8.3.1",
         "postcss-import": "^14.0.1",
         "tailwindcss": "^2.2.19"

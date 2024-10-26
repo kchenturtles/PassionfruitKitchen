@@ -4,11 +4,11 @@
   <head>
     <link href="/dist/styles.css" rel="stylesheet"> 
   </head>
-  <body>
+  <body class="dark:bg-gray-900">
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "min-height: 20rem; background-color: lavenderblush;" class="min-h-80 dark:invert"></div>
-      <div class = "bg-white dark:invert container p-2 mx-auto -mt-64 mb-12 border-solid border sm:w-8/12 md:w-11/12 lg:w-10/12 xl:w-full" style = "border-color: lavenderblush">
+    <div style = "min-height: 20rem; background-color: lavenderblush;" class="min-h-80 dark:bg-dark"></div>
+      <div class = "bg-white dark:bg-dark container p-2 mx-auto -mt-64 mb-12 border-solid border sm:w-8/12 md:w-11/12 lg:w-10/12 xl:w-full" style = "border-color: lavenderblush">
     <div class="container p-6 mx-auto grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4 lg:gap-4 xl:gap-8 justify-center">
       {{ range first 4 (.Site.Pages.ByParam "featured")  }}
       <div class="shadow-lg w-96 md:w-auto lg:w-96 xl:w-auto justify-center mx-auto">
@@ -19,7 +19,7 @@
     </div>
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div class= "mt-0 mb-0" >
+    <div class= "mt-0 mb-0 mx-12" >
     <div class = "container mx-auto grid md:grid-cols-1 lg:grid-cols-2 justify-center">
       <div>
         <div class = "my-2 text-2xl font-extrabold font-mono uppercase text-center md:text-left lg:text-center xl:text-left" style="color: purple; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">The Latest</div>
@@ -28,14 +28,14 @@
           {{- partial "blog-post.html" . -}}
           </div>
         {{ end }}
-        <div class = "container mx-auto" style = "margin-top:3rem; max-width: fit-content; margin-bottom: 3rem;">
-          <a href = "/posts/" class = "md:hide lg:display hoversection" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; padding-left: 10rem; padding-right: 10rem;">All Recent Posts</a>
+        <div class = "container mx-12" style = "margin-top:3rem; max-width: fit-content; margin-bottom: 3rem;">
+          <!-- <a href = "/posts/" class = "md:hide lg:display hoversection" style = "text-align: center; padding-top:1rem; padding-bottom:1rem; font-size:x-large; color:white; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; padding-left: 10rem; padding-right: 10rem;">All Posts</a> -->
         </div>
       </div>
       <div class = "items-center ml-auto mr-auto md:mr-0 w-3/4">
-        <div class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:bg-gray-900 text-center pb-4 mb-1"  style = "background-color: papayawhip;">Collections</div>
+        <div style = "background-color: papayawhip;" class="container mx-auto my-2 text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:bg-dark text-center pb-4 mb-1 dark:text-black">Collections</div>
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <div  class="dark:invert border text-lg font-semibold p-4 border-white mt-1 hover:opacity-50" style = "background-color: papayawhip"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;">{{ $name }} {{ .Count }}</a></div>
+            <div style = "background-color: papayawhip;" class="border text-lg font-semibold p-4 border-white mt-1 hover:opacity-50 dark:text-black"><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;">{{ $name }} {{ .Count }}</a></div>
           {{ end }}
       </div>
     </div>
@@ -57,7 +57,7 @@
     </div>
 
       {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-      <div style = "margin-top:8rem; margin-bottom:5rem;">
+      <div style = "margin-top:8rem; margin-bottom:5rem;" class="mx-12">
       <div class="container mx-auto my-2 text-2xl uppercase font-bold pb-0 pt-4 mb-6 mt-0 font-sans text-center" style = "color:purple">What To Make This Weekend</div>
       <div class="container mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
         {{ range first 4 (.Site.Pages.ByParam "independence") }}
@@ -104,7 +104,7 @@
    
       
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div class="mt-16">
+    <div class="mt-16 mx-12">
     <div class="container mx-auto text-2xl uppercase font-bold pb-0 pb-4 pt-4 mt-0 font-sans text-center" style = "color:purple">Classic Dinners</div>
     <div class="container mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "casserole") }}
@@ -115,7 +115,7 @@
 
       {{- partial "intro.html" . -}}
 
-      <div style = "margin-top:5rem; margin-bottom: 5rem;">
+      <div style = "margin-top:5rem; margin-bottom: 5rem;" class="mx-12">
         <div class="container mx-auto text-2xl uppercase font-bold pb-0 pt-8 pb-4 mt-0 font-sans text-center "style = "color:purple;">Easy One-Pot Meals</div>
         <div class="container mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
           {{ range first 4 (.Site.Pages.ByParam "one-pot") }}
@@ -130,7 +130,7 @@
     </div>
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div class="mt-24 mb-24">
+    <div class="mt-24 mb-24 mx-12">
       <div class = "container mx-auto text-2xl uppercase font-bold pb-0 pb-4 mt-0 font-sans text-center " style = "color:purple">Dessert Ideas</div>
     <div class="container mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "breakfast") }}

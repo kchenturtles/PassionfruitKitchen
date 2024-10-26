@@ -26,9 +26,9 @@
         </div>
     </div>
 
-  <article class="container mx-auto my-8 dark:prose-dark text-lg lg:p-3-lg p-3 flex gap-2 xl:gap-8 justify-center" >
+  <article class="container mx-auto my-8 dark:prose-light dark:text-white text-lg lg:p-3-lg p-3 flex gap-2 xl:gap-8 justify-center" >
 
-    <article class = "prose !max-w-none grow" style="justify-items: center; flex-grow: 1; min-width: 70%;">
+    <div class = "prose !max-w-none grow dark:text-white ml-8 text-start" style="justify-items: start; flex-grow: 1; min-width: 67%;">
     <h1 class="container mx-auto text-3xl capitalize font-bold pb-0 font-sans" style = "color:peru">{{ .Title }}</h1>
         <div class = "flex gap-2 mb-2 items-center">
         <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50" style="background-color: lavender; text-decoration: none; font-size:medium; font-weight: 600;">Jump To Recipe</a>
@@ -88,8 +88,10 @@
     {{- partial "toc.html" . -}}
     {{ end }}
 
+    <div class="dark:text-gray-500">
      {{ .Content }}
-     <div class = "flex justify-center" style = "background-color: lavenderblush; align-content:center; padding: 1rem; gap: 3rem; color: black;">
+    </div>
+     <div class = "flex justify-center w-full" style = "background-color: lavenderblush; align-content:center; padding: 1rem; gap: 3rem; color: black;">
       <div class="h-24 w-24" style="padding-bottom: 10rem;">
         <a href = "instagram.com/passionfruit_kitchen" style="padding:0; margin:0; border:0;" class="hover:opacity-50"> <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style="align-self: center;"/></a>
      </div>
@@ -114,29 +116,29 @@
      {{ end }}
      <hr></hr>
 
-  <div class = "mb-20 mt-20" >
+  <div class = "mb-20 mt-20 w-full" >
     <div style = "display: flex; justify-content: space-between;">
         <div class="previous-post">
-            {{ if .PrevPage }}
+            {{ if .Prev }}
             <div style = "display: block;">
                 <div class="font-sans font-bold text-lg lowercase" style ="color:purple">prev</div>
-                <a class="link-reverse text-left text-lg font-light hover:text-yellow-600" href="{{ .PrevPage.Permalink }}?ref=footer">« {{ .PrevPage.Title | truncate 50 "..."}}</a>
+                <a class="link-reverse text-left text-lg font-light hover:text-yellow-600" href="{{ .Prev.Permalink }}?ref=footer">« {{ .Prev.Title | truncate 50 "..."}}</a>
             </div>
             {{ end }}
         </div>
     
         <div class="next-post">
-            {{ if .NextPage }}
+            {{ if .Next }}
             <div style = "display: block;">
                 <div class="font-sans font-bold text-lg lowercase text-right" style ="color:purple">next</div>
-                <a class="link-reverse text-right text-lg font-light hover:text-yellow-600" href="{{ .NextPage.Permalink }}?ref=footer">{{ .NextPage.Title | truncate 50 "..." }} »</a>
+                <a class="link-reverse text-right text-lg font-light hover:text-yellow-600" href="{{ .Next.Permalink }}?ref=footer">{{ .Next.Title | truncate 50 "..." }} »</a>
             </div>
             {{ end }}
         </div>
       </div>    
     
   </div>
-    </article>
+    </div>
      <div class = "lg:container w-0 lg:w-full overflow-hidden lg:p-2 lg:prose-lg">
         <div class="h-0 overflow-hidden lg:h-auto">
         {{- partial "intro-vertical.html" . -}}
