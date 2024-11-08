@@ -18,6 +18,7 @@ resources:
 
 Wow, I'm excited about this one! It's so simple yet so good - I think I've made it like six times this month already. I call it a sunshine smoothie bowl because of the color, but to be more specific it's an amazing tropical smoothie bowl - mango, pineapple, banana (and anything else you might want to add!) I've got a neat trick as well for making sure it's thick enough to scoop. The ingredients for this smoothie bowl are also super simple -- just some frozen fruit and yogurt -- and blended together it tastes just like mango sorbet!
 
+![smoothie bowl scoop](../../smoothie-bowl/smoothie-bowl-scoop1.jpg)
 ## Ingredients
 
 - Frozen mango cubes
@@ -26,6 +27,8 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 - Greek yogurt or dairy-free coconut yogurt
 - Honey
 - Granola for topping
+
+![smoothie bowl closeup](../../smoothie-bowl/smoothie-bowl-closeup.jpg)
 
 ## Tips
 
@@ -40,7 +43,7 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 
 | _Prep Time_: 1 min  | _Make Time_: 5 min  |
 | :--- | :--- |
-| **_Total Time_: 11 min** | **_Serves_: 4**  |
+| **_Total Time_: 6 min** | **_Serves_: 1**  |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
 - 1 cup frozen cubed mango
 - 1/2 cup frozen pineapple
@@ -53,7 +56,10 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Instructions</h2></div>|   |
 
-1. Instructions
+1. Add mango, pineapple, banana, and yogurt into a food processor or strong blender.
+2. Blend until smooth. If you have a blender that's struggling to keep up, you can add a bit of water to make it easier.
+3. Scoop into a bowl, top with granola, yogurt, cut fruit, and honey (or whatever toppings you like!)
+4. Enjoy!
 
 |   |    |
 | :--- | :--- |

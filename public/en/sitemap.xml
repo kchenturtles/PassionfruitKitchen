@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/</loc>
-    <lastmod>2024-08-04T20:24:47-04:00</lastmod>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/featured_categories/breakfasts/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/dinner/</loc>
-    <lastmod>2024-08-04T20:24:47-04:00</lastmod>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/breakfasts/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/featured_categories/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/featured_categories/quick--easy/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</loc>
+    <lastmod>2024-09-08T11:11:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/dinner/</loc>
     <lastmod>2024-08-04T20:24:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/categories/lunch/</loc>
@@ -20,31 +50,13 @@
     <loc>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</loc>
     <lastmod>2024-08-04T20:24:47-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/featured_categories/quick--easy/</loc>
-    <lastmod>2024-08-04T20:24:47-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/jianbing-crepe/</loc>
     <lastmod>2024-08-04T20:24:47-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</loc>
-    <lastmod>2024-08-04T20:24:47-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/</loc>
-    <lastmod>2024-08-04T20:24:47-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</loc>
-    <lastmod>2024-08-04T20:24:47-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</loc>
-    <lastmod>2024-07-02T20:24:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/vegetarian-gua-bao/</loc>
     <lastmod>2024-07-02T20:24:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/rice-paper-egg-wrap/</loc>
-    <lastmod>2024-05-20T20:24:47-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</loc>
     <lastmod>2024-05-20T20:24:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/rice-paper-roll/</loc>
@@ -81,9 +93,6 @@
     <lastmod>2023-06-29T21:11:39-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</loc>
-    <lastmod>2023-06-29T21:11:39-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</loc>
     <lastmod>2023-06-29T21:11:39-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/categories/salads/</loc>
@@ -125,9 +134,6 @@
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/banana-coffee-cake/</loc>
     <lastmod>2023-01-05T20:07:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/breakfasts/</loc>
-    <lastmod>2023-01-05T20:07:42-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/red-curry-noodle-soup/</loc>
     <lastmod>2022-12-22T22:54:49-04:00</lastmod>
   </url><url>
@@ -160,9 +166,6 @@
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/honey-soy-salmon/</loc>
     <lastmod>2022-04-23T20:19:22-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/featured_categories/breakfasts/</loc>
-    <lastmod>2022-04-09T20:24:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</loc>
     <lastmod>2022-04-09T20:24:00-04:00</lastmod>
