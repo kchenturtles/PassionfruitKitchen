@@ -35,16 +35,18 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 - Smoothie bowls are simple -- you just dump everything in a blender or food processor and blend! I use a food processor because the motor on my blender is rather burnt out. Food processors are great for making thick smoothies, although a powerful blender works just as well.
 - Feel free to customize your ingredients and toppings however you like! I've swapped out pineapple for frozen peaches before and had some excellent results. If you feel like adding some veggies, you could also throw in a handful of spinach.
 - I used a kiwi, some yogurt, and granola to top my smoothie bowl for the photos, but you can top it with whatever you like!
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Sunshine Smoothie Bowl</h2><p style = "font-weight: 300;">A healthy, quick recipe that tastes just like sorbet!</p></div><img src="../../smoothie-bowl/smoothie-bowl-aerial.jpg"  width="200em" height="200em"></div>
 
-| <div style = "margin-bottom:10em;"><h2>Recipe Title</h2><p style = "font-weight: 300;">Recipe Description</p></div> | <img src="../../honey_soy_salmon.jpg"  width="200em" height="200em"> |
-| :--- | :----: |
-
-| _Prep Time_: 1 min  | _Make Time_: 5 min  |
+| _Prep Time_: 20 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
-| **_Total Time_: 6 min** | **_Serves_: 1**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+| **_Total Time_: 40 min** | **_Serves_: 4-6**  |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 - 1 cup frozen cubed mango
 - 1/2 cup frozen pineapple
 - 1 banana (can be frozen or unfrozen)

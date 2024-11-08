@@ -29,16 +29,18 @@ Description here
 - List
 - Tips
 - Here
+<div style = "background-color: lavenderblush;"  id = "recipe"> 
+<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style = "border-style: solid; border-width: 3px; border-color: purple; padding: 2em; padding-top:0em; margin-top:2rem;"  id = "recipe"> 
+<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Ratatouille Shakshuka Skillet</h2><p style = "font-weight: 300;">Ratatouille/shakshuka, a healthy, tasty one-pan meal!</p></div><img src="../../ratatouille-eggs/ratatouille-thumbnail.jpeg"  width="200em" height="200em"></div>
 
-| <div style = "margin-bottom:10em;"><h2>Recipe Title</h2><p style = "font-weight: 300;">Recipe Description</p></div> | <img src="../../honey_soy_salmon.jpg"  width="200em" height="200em"> |
-| :--- | :----: |
-
-| _Prep Time_: 1 min  | _Cook Time_: 10 min  |
+| _Prep Time_: 20 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
-| **_Total Time_: 11 min** | **_Serves_: 4**  |
-| <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>|   |
+| **_Total Time_: 40 min** | **_Serves_: 4-6**  |
+
+</div>
+<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+ <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 - List
 - Ingredients
 - Here
