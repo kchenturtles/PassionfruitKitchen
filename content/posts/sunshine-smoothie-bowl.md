@@ -1,6 +1,6 @@
 ---
 title: "Sunshine Smoothie Bowl"
-date: 2024-09-08T11:11:14-05:00
+date: 2024-09-18T11:11:14-05:00
 categories: ["breakfasts", "snacks", "quick & easy"]
 featured_categories: ["breakfasts", "quick & easy"]
 tags: ["gluten-free", "vegetarian", "dairy-free"]
