@@ -47,7 +47,7 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 </div>
 <div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
- 
+
 - 1 cup frozen cubed mango
 - 1/2 cup frozen pineapple
 - 1 banana (can be frozen or unfrozen)
@@ -70,4 +70,5 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 
 This recipe can be made vegan if you use dairy-free yogurt, and gluten-free if you top it with gluten-free granola.
 
+</div>
 </div>
