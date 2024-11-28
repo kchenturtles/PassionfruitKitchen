@@ -5,9 +5,9 @@
     {{ .date.Format "02" }}. {{ substr (i18n (.date.Format "January")) 0 3 }} {{ .date.Format "2006"}}
   {{ end }}
 {{ else }}
-  {{ if eq "long" .format }}
-    {{ .date.Format "January 2, 2006" }}
+  {{ if eq "short" .format }}
+    {{ .date.Format "Jan 2, 2006" }}
   {{ else }}
-    {{ .date.Format "January 2, 2006" }}
+    {{ .date.Format "Jan 2, 2006" }}
   {{ end }}
 {{ end }}

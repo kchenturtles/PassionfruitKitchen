@@ -41,7 +41,7 @@ You will need:
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Peach & Burrata Caprese Salad</h2><p style = "font-weight: 300;">A new take on caprese! Perfect for summer.</p></div> <img src="../../categories/salads.jpeg"  width="200em" height="200em"> </div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Peach & Burrata Caprese Salad</h2><p style = "font-weight: 300;">A new take on caprese! Perfect for summer.</p></div> <img src="../../categories/salads.jpeg"  class="w-full h-36 md:h-36 lg:h-40 xl:h-52 2xl:h-60 mx-auto"> </div>
 
 | _Prep Time_: 10 min  | _Assembly Time_: 5 min  |
 | :--- | :--- |

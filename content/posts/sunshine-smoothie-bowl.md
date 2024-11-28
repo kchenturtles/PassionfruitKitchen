@@ -38,7 +38,7 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:flex; align-items:center; justify-content:space-between; padding-right:2em"><div style = "margin-bottom:10em;"><h2>Sunshine Smoothie Bowl</h2><p style = "font-weight: 300;">A healthy, quick recipe that tastes just like sorbet!</p></div><img src="../../smoothie-bowl/smoothie-bowl-aerial.jpg"  width="200em" height="200em"></div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Sunshine Smoothie Bowl</h2><p style = "font-weight: 300;">A healthy, quick recipe that tastes just like sorbet!</p></div><img src="../../smoothie-bowl/smoothie-bowl-aerial.jpg"  class="w-full h-36 md:h-36 lg:h-40 xl:h-52 2xl:h-60 mx-auto"></div>
 
 | _Prep Time_: 20 min  | _Cook Time_: 20 min  |
 | :--- | :--- |

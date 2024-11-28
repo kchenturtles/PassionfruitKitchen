@@ -16,24 +16,23 @@
   <body>
 
     <div style = "background-color: papayawhip" class="pt-1 pb-1 capitalize no-underline font-sans"> 
-        <div class = "prose-lg container mx-auto no-underline text-left" style = "text-decoration: none; max-width: fit-content;">
-        <a href = "https://passionfruitkitchen.com/" class = "no-underline font-semibold hover:text-yellow-600 text-sm" style = "text-decoration: none;">Passionfruit Kitchen </a>
-        <a href = "https://passionfruitkitchen.com/categories/" class = "no-underline font-semibold hover:text-yellow-600 text-sm" style = "text-decoration: none;"> · Categories</a>
+        <div class = "mx-auto px-4 no-underline text-left" style = "text-decoration: none; max-width: fit-content;">
+        <a href = "https://passionfruitkitchen.com/" class = "no-underline font-semibold hover:text-yellow-600 text-xs lg:text-sm" style = "text-decoration: none;">Passionfruit Kitchen </a>
+        <a href = "https://passionfruitkitchen.com/categories/" class = "no-underline font-semibold hover:text-yellow-600 text-xs lg:text-sm" style = "text-decoration: none;"> · Categories</a>
         {{ range first 1 .Params.categories }}
-            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" class = "no-underline font-semibold text-sm hover:text-yellow-600" style = "text-decoration: none;"> · {{ . }}</a>
+            <a href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}" class = "no-underline font-semibold text-xs lg:text-sm hover:text-yellow-600" style = "text-decoration: none;"> · {{ . }}</a>
         {{ end }}
-        <a class = "no-underline font-semibold text-sm hover:text-yellow-600" style = "text-decoration: none;" > · {{ .Title }}</a>
+        <a class = "no-underline font-semibold text-xs lg:text-sm hover:text-yellow-600" style = "text-decoration: none;" > · {{ .Title }}</a>
         </div>
     </div>
 
-  <article class="container mx-auto my-8 dark:prose-light dark:text-white text-lg lg:p-3-lg p-3 flex gap-2 xl:gap-8 justify-center" >
-
-    <div class = "prose !max-w-none grow dark:text-white ml-8 text-start" style="justify-items: start; flex-grow: 1; min-width: 67%;">
-    <h1 class="container mx-auto text-3xl capitalize font-bold pb-0 font-sans" style = "color:peru">{{ .Title }}</h1>
+  <div class="container my-8 dark:prose-light dark:text-white grid grid-cols-2 lg:grid-cols-3 lg:gap-8 sm:w-5/6 max-w-[1200px] px-4 sm:mx-auto" >
+    <div class = "prose dark:text-white col-span-2 !w-full !max-w-full" style="max-width: 100%;">
+    <div class="container mx-auto text-2xl xl:text-3xl capitalize font-bold pb-0 font-sans mb-4" style = "color:peru">{{ .Title }}</div>
         <div class = "flex gap-2 mb-2 items-center">
-        <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50" style="background-color: lavender; text-decoration: none; font-size:medium; font-weight: 600;">Jump To Recipe</a>
+        <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50 text-xs sm:text-base" style="background-color: lavender; text-decoration: none; font-weight: 600;">Jump To Recipe</a>
 
-        <a href="#recommended" class="rounded-md px-4 py-2 hover:opacity-50" style="background-color: peachpuff; text-decoration: none; font-size:medium; font-weight: 600;">Similar Recipes</a>
+        <a href="#recommended" class="rounded-md px-4 py-2 hover:opacity-50 text-xs sm:text-base" style="background-color: peachpuff; text-decoration: none; font-weight: 600;">Similar Recipes</a>
 
     </div>
 
@@ -88,7 +87,7 @@
     {{- partial "toc.html" . -}}
     {{ end }}
 
-    <div class="dark:text-gray-500 text-left">
+    <div class="dark:text-gray-500 text-left text-sm sm:text-base container">
      {{ .Content }}
     </div>
      <div class = "flex justify-center w-full" style = "background-color: lavenderblush; align-content:center; padding: 1rem; gap: 3rem; color: black;">
@@ -105,8 +104,8 @@
      <div class="px-24"><hr></hr></div>
 
      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-     <div id="recommended" class="container mx-auto text-xl mb-4 mt-12 lowercase font-bold pb-0 font-sans text-center" style = "color:peru">You Might Also Like:</div>
-     <div class="container p-2 overflow-hidden mx-auto grid grid-cols-4 gap-4 xl:gap-10">
+     <div id="recommended" class="container mx-auto text-xl mb-4 mt-12 lowercase font-bold pb-0 font-sans text-center w-full" style = "color:peru">You Might Also Like:</div>
+     <div class="container p-2 overflow-hidden mx-auto grid grid-cols-4 gap-4">
          {{ $related := .Site.RegularPages.Related . | first 4 }}
          {{ with $related }}
          {{ range . }}
@@ -121,17 +120,17 @@
         <div class="previous-post">
             {{ if .Prev }}
             <div style = "display: block;">
-                <div class="font-sans font-bold text-lg lowercase" style ="color:purple">prev</div>
-                <a class="link-reverse text-left text-lg font-light hover:text-yellow-600" href="{{ .Prev.Permalink }}?ref=footer">« {{ .Prev.Title | truncate 50 "..."}}</a>
+                <div class="font-sans font-bold text-xs lg:text-lg lowercase" style ="color:purple">prev</div>
+                <a class="link-reverse text-left text-xs lg:text-lg font-light hover:text-yellow-600" href="{{ .Prev.Permalink }}?ref=footer">« {{ .Prev.Title | truncate 50 "..."}}</a>
             </div>
             {{ end }}
         </div>
     
-        <div class="next-post">
+        <div class="next-post text-right">
             {{ if .Next }}
             <div style = "display: block;">
-                <div class="font-sans font-bold text-lg lowercase text-right" style ="color:purple">next</div>
-                <a class="link-reverse text-right text-lg font-light hover:text-yellow-600" href="{{ .Next.Permalink }}?ref=footer">{{ .Next.Title | truncate 50 "..." }} »</a>
+                <div class="font-sans font-bold text-xs lg:text-lg lowercase text-right" style ="color:purple">next</div>
+                <a class="link-reverse text-right text-xs lg:text-lg font-light hover:text-yellow-600" href="{{ .Next.Permalink }}?ref=footer">{{ .Next.Title | truncate 25 "..." }} »</a>
             </div>
             {{ end }}
         </div>
@@ -139,11 +138,11 @@
     
   </div>
     </div>
-     <div class = "lg:container w-0 lg:w-full overflow-hidden lg:p-2 lg:prose-lg">
+     <div class = "invisible lg:visible overflow-hidden lg:p-2 !col-span-1 w-full">
         <div class="h-0 overflow-hidden lg:h-auto">
         {{- partial "intro-vertical.html" . -}}
         </div>
-        <div class="container p-0 lg:p-2 mx-auto h-0 w-0 overflow-hidden grid lg:h-auto lg:w-auto xl:grid-cols-2 gap-4 xl:gap-2">
+        <div class="container p-0 lg:p-2 mx-auto h-0 w-0 overflow-hidden grid lg:h-auto lg:w-auto lg:grid-cols-2 gap-4 xl:gap-2">
             {{ $latestPosts := first 8 (sort .Site.RegularPages "Date" "desc") }}
             {{ with $latestPosts }}
             {{ range . }}
@@ -153,7 +152,7 @@
         </div>
         {{ end }}
       </div>
-  </article>
+  </div>
 
 </body>
 </html>

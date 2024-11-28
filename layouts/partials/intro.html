@@ -1,12 +1,12 @@
-<div style = "background-color:lavender;">
-    <div class="container mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-2 gap-4 items-center justify-center dark:bg-gray-700" style = "padding-bottom: 3rem; margin-top:10rem; align-items: stretch; flex-wrap: wrap;">
-      <div style = "border-color: lavender" class="-mt-20 rounded-full border-8 border-solid justify-center mx-auto w-72 h-72 object-cover overflow-hidden bg-white">
+<div style = "background-color:lavender;" class="mt-36">
+    <div class="container sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4 grid grid-cols-1 sm:grid-cols-2 gap-4 items-center justify-center dark:bg-gray-700 mt-24" style = "align-items: stretch; flex-wrap: wrap;">
+      <div style = "border-color: lavender" class="-mt-20 rounded-full border-8 border-solid justify-center mx-auto w-40 h-40 sm:w-56 sm:h-56 lg:w-72 lg:h-72 object-cover overflow-hidden bg-white">
         <img class="object-cover overflow-hidden mt-2 h-full dark:invert" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}"/>
       </div>
       <div>
-        <h1 class="text-4xl font-bold mb-4 font" style = "color: purple; font-family: cursive; text-align: center;">{{ .Site.Params.introTitle | safeHTML}}</h1>
-        <p class="font-light text-lg text-center md:text-left">{{ .Site.Params.introSubtitle | safeHTML}}</p>
-        <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
+        <h1 class="text-2xl md:text-3xl xl:text-4xl font-bold my-2 sm:my-8" style = "color: purple; font-family: cursive; text-align: center;">{{ .Site.Params.introTitle | safeHTML}}</h1>
+        <p class="font-light text-sm xl:text-base text-left mx-4">{{ .Site.Params.introSubtitle | safeHTML}}</p>
+        <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2 py-8">
           {{range .Site.Params.homepage.social.icons}}
     
           {{ if eq .website "twitter" }}

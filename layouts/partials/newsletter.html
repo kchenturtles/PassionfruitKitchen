@@ -39,19 +39,19 @@
 </head>
 <body>
 <main>
-    <div style = "background-color: lavenderblush;" class = "pt-8 pb-8 font-sans">
-        <div class = "container mx-auto" style = "max-width: 50%;">
+    <div style = "background-color: lavenderblush;" class = "pt-4 md:pt-8 pb-8 font-sans">
+        <div class = "container mx-auto px-4 w-5/6 max-w-[1200px] xl:w-3/4 2xl:w-1/2">
             <div class="newsletter" id = "newsletter" style = "display: flex; flex-wrap: wrap; gap:1rem;  align-items: stretch;">
-                <p class="container mx-auto my-2 text-3xl font-bold pb-0 pt-4 mb-0 mt-0 font-sans" style = "color:purple"><i>Sign up for the latest recipes!</i></p>
-                <div>Get alerted when new recipes are posted, straight to your inbox. </div>
-                <div class="inputs" style = "display: flex; flex-wrap: wrap; gap:1rem;">
+                <p class="container mx-auto my-2 text-xl md:text-2xl lg:text-3xl font-bold pb-0 pt-4 mb-0 mt-0 font-sans" style = "color:purple"><i>Sign up for the latest recipes!</i></p>
+                <div class="text-xs sm:text-sm md:text-base">Get alerted when new recipes are posted, straight to your inbox. </div>
+                <div class="inputs mx-auto grid gap-2 grid-cols-1 sm:grid-cols-3 w-full">
                     <div class="input">
-                        <input type="name" id="name" placeholder="Name"  class = "font-xl p-2"/>
+                        <input type="name" id="name" placeholder="Name"  class = "text-xs sm:text-sm md:text-base p-2 rounded-lg w-full"/>
                     </div>
                     <div class="input">
-                        <input type="email" id="email" placeholder="Email" class = "font-xl p-2" />
+                        <input type="email" id="email" placeholder="Email" class = "text-xs sm:text-sm md:text-base p-2 rounded-lg w-full" />
                     </div>
-                    <button type="submit" onclick = "sendRequest()" style = "background-color: purple;" class = "text-white hover:opacity-50 p-2 pr-8 pl-8 font-xl">Subscribe!</button>
+                    <button type="submit" onclick = "sendRequest()" style = "background-color: purple;" class = "text-white hover:opacity-50 p-2 pr-8 pl-8 text-xs sm:text-sm md:text-base rounded-lg">Subscribe!</button>
                   </div>
                 </div>
               <p class="result" id = "result" style = "color: white;"></p>

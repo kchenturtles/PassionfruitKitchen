@@ -5,10 +5,10 @@
     <link href="/dist/styles.css" rel="stylesheet">
 </head>
 <body>
-  <h1 class="container mx-auto text-3xl uppercase font-bold pb-0 pb-4 pt-4 font-sans" style = "color:peru">{{ .Title }}</h1>
+  <h1 class="container px-2 sm:px-12 md:px-16 lg:px-24 mx-auto text-xl md:text-2xl lg:text-3xl uppercase font-bold pb-0 pt-8 font-sans" style = "color:peru">{{ .Title }}</h1>
 
   {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
-  <div class="container p-6 mx-auto">
+  <div class="container px-2 sm:px-12 md:px-16 lg:px-24 mx-auto">
     {{ range $paginator.Pages }}
       {{- partial "blog-post.html" . -}}
     {{ end }}

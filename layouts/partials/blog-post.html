@@ -4,25 +4,27 @@
   <link href="/dist/styles.css" rel="stylesheet"> 
 </head>
 <body>
-
-<div class = "pt-8 pb-8 inline-block md:flex lg:inline-block xl:flex gap-8 md:max-w-20 self-center mx-auto">
+<hr></hr>
+<div class = "pt-8 pb-8 flex gap-2 sm:gap-8 md:max-w-20 self-center mx-auto">
       <div class = "self-center mx-auto w-min">
         {{ if .Params.thumbnail }}
-        <div class = "w-64 h-64">
+        <div class = "w-24 h-24 sm:h-48 sm:w-48 md:w-64 md:h-64">
           <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="shadow-sm object-cover w-full h-full rounded-sm" />
           {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
           {{ end }}
         </div>
       </div>
         {{ end }}
-        <div class = "flex flex-col justify-between text-center md:text-left lg:text-center xl:text-left">
-            <div class="text-gray-400 dark:text-white text-md font-sans italic justify-start" >
+        <div class = "flex flex-col justify-between text-left">
+          <div>
+          <div class="text-gray-400 dark:text-white text-xs sm:text-sm md:text-base font-sans italic justify-start" >
                 {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
               </div>
-            <div class="text-2xl font-bold font-sans pb-1 justify-start" style = "color:purple"><div class="dark:text-green-500">{{ .Params.title }}</div></div>
+            <div class="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl font-bold font-sans pb-1 justify-start" style = "color:purple"><div class="dark:text-green-500">{{ .Params.title }}</div></div>
+            </div>  
                 <div>{{ .Params.description }}</div>
-            <div class = "font-sans text-md text-gray-800 dark:text-gray-200 justify-center overflow-hidden lg:h-0 xl:h-auto pb-1" >{{ .Params.summary }} </div>
-            <a href="{{ .Permalink }}" class="text-md uppercase hover:underline font-bold font-sans justify-end md:text-left lg:text-center xl:text-left text-center" style = "color:peru" >continue reading</a>
+            <div class = "font-sans text-xs sm:text-sm md:text-base text-gray-800 dark:text-gray-200 text-left overflow-hidden pb-1" >{{ .Params.summary }} </div>
+            <a href="{{ .Permalink }}" class="text-xs sm:text-sm md:text-base uppercase hover:underline font-bold font-sans justify-end text-left" style = "color:peru" >continue reading</a>
       </div>
     {{ if not (or (or .Site.Params.hideOtherLanguages .Params.hideOtherLanguages) false) }}
       {{ if .IsTranslated -}}
@@ -36,6 +38,5 @@
       {{- end }}
     {{ end }}
     </div>
-    <hr></hr>
     </body>
     </html>

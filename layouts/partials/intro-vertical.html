@@ -1,12 +1,12 @@
 <div class="dark:text-black" style = "background-color:lavender;">
     <div class="container mx-auto px-6 py-6 items-center justify-center" style = "margin-top:10rem; align-items: stretch; flex-wrap: wrap;">
-      <div style = "border-color: lavender" class="-mt-20 xl:-mt-32 pb-8 rounded-full border-8 border-solid justify-center mx-auto w-40 h-40 xl:w-56 xl:h-56 object-cover overflow-hidden bg-white">
-        <img class="object-cover overflow-hidden h-full" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}"/>
+      <div style = "border-color: lavender" class="-mt-20 xl:-mt-24 rounded-full border-8 border-solid justify-center mx-auto object-cover overflow-hidden bg-white h-40 w-40 xl:w-56 xl:h-56">
+        <img class="object-cover overflow-hidden w-full h-full aspect-square" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}"/>
       </div>
       <div>
         <div class="container mx-auto text-3xl lowercase font-bold pb-0 pb-4 font-sans text-center" style = "color:purple">Welcome!</div>
         <div class="font-light text-sm text-center">{{ .Site.Params.introSubtitle | safeHTML}}</div>
-        <ul class="flex justify-center flex-wrap justify-items-center p-0 -ml-6">
+        <ul class="flex justify-center flex-wrap justify-items-center p-0 list-none mt-4">
           {{range .Site.Params.homepage.social.icons}}
     
           {{ if eq .website "twitter" }}
