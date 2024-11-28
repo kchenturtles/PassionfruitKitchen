@@ -40,7 +40,7 @@ Butter mochi is becoming popular these days. It originates from Hawaii, and fuse
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Brown Butter Mochi</h2><p style = "font-weight: 300;">A fun twist on the chewy classic!</p></div> <img src="../../butter-mochi/butter-mochi-aerial.jpeg" class="w-full h-36 md:h-36 lg:h-40 xl:h-52 2xl:h-60 mx-auto"> </div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Brown Butter Mochi</h2><p style = "font-weight: 300;">A fun twist on the chewy classic!</p></div> <img src="../../butter-mochi/butter-mochi-aerial.jpeg" class="w-full h-auto mx-auto"> </div>
 
 | _Prep Time_: 20 min  | _Cook Time_: 60 min  |
 | :--- | :--- |

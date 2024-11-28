@@ -76,7 +76,7 @@ Finally, turn off the heat and add in the cheddar. Stir to help it melt into the
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Broccoli Cheddar Soup</h2><p style = "font-weight: 300;">Better-Than-Panera’s Broccoli Cheddar Soup!</p></div> <img src="../../broccoli_soup_thumbnail.jpeg"  class="w-full h-36 md:h-36 lg:h-40 xl:h-52 2xl:h-60 mx-auto"></div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Broccoli Cheddar Soup</h2><p style = "font-weight: 300;">Better-Than-Panera’s Broccoli Cheddar Soup!</p></div> <img src="../../broccoli_soup_thumbnail.jpeg"  class="w-full h-auto mx-auto"></div>
 
 | _Prep Time_: 10 min  | _Cook Time_: 20 min  |
 | :--- | :--- |

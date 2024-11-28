@@ -42,7 +42,7 @@ Cheesecake has a reputation for being hard to make. It's a pretty deserved reput
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12 w-full"><div class = "mb-8"><h2>Cheesecake Bars</h2><p style = "font-weight: 300;">An easier cheesecake recipe!</p></div><img src="../../cheesecake-bars/cheesecake-stacked.jpeg" class="w-full h-36 md:h-36 lg:h-40 xl:h-52 2xl:h-60 mx-auto"> </div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12 w-full"><div class = "mb-8"><h2>Cheesecake Bars</h2><p style = "font-weight: 300;">An easier cheesecake recipe!</p></div><img src="../../cheesecake-bars/cheesecake-stacked.jpeg" class="w-full h-auto mx-auto"> </div>
 
 | _Prep Time_: 30 min  | _Cook Time_: 45 min  |
 | :--- | :--- |

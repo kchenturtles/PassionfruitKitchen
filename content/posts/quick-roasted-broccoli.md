@@ -47,7 +47,7 @@ The ingredients for this recipe are simple: you just need broccoli, a dash of ol
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Quick Roasted Broccoli</h2><p style = "font-weight: 300;">Versatile in a salad or bowl, and tasty on its own as a side!</p></div> <img src="../../roasted_broccoli.jpeg"  class="w-full h-36 md:h-36 lg:h-40 xl:h-52 2xl:h-60 mx-auto" style = "justify-content: center;"></div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Quick Roasted Broccoli</h2><p style = "font-weight: 300;">Versatile in a salad or bowl, and tasty on its own as a side!</p></div> <img src="../../roasted_broccoli.jpeg"  class="w-full h-auto mx-auto" style = "justify-content: center;"></div>
 
 | _Prep Time_: 15 min  | _Cook Time_: 20 min  |
 | :--- | :--- |
