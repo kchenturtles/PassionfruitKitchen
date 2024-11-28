@@ -83,7 +83,7 @@ If you want to make this fried rice vegan, you can omit the egg and use vegetari
 | **_Total Time_: 20 min** | **_Serves_: 8**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1 small slice ginger (mine was about 1/2 cm thick), minced

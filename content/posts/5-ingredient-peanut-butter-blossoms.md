@@ -48,7 +48,7 @@ You only need 5 ingredients (which you probably already have in your cupboard, s
 | **_Total Time_: 30 min** | **_Makes_: 12**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 2 cups dark brown sugar

@@ -54,7 +54,7 @@ Pumpkin pie is actually pretty simple to make. It's a custard pie, so it's stabi
 | **_Total Time_: 60 min** | **_Serves_: 12**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1 pie crust

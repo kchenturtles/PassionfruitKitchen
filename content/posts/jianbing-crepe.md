@@ -59,7 +59,7 @@ The jian bing element just comes from cracking an egg onto one side of the crepe
 | **_Total Time_: 50 min** | **_Serves_: 12**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
  
 **For the Crepes:**

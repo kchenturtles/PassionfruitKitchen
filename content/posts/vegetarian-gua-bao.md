@@ -48,7 +48,7 @@ Making the mushrooms is quite simple! All you have to do is sweat them out in a 
 | **_Total Time_: 20 min** | **_Serves_: 6**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
  
 - 1 lb shiitake, king oyster, or white button mushrooms, sliced

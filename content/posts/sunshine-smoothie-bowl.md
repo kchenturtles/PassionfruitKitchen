@@ -45,7 +45,7 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 | **_Total Time_: 40 min** | **_Serves_: 4-6**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1 cup frozen cubed mango
