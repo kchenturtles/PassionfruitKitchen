@@ -31,6 +31,8 @@ Happy Thanksgiving to all who celebrate! Funny story, I actually made this while
 - Milk
 - Eggs
 
+![strata](../../strata/strata-side.jpg)
+
 ## Tips
 
 - If you don't have day-old bread, you can do this: Heat the oven to 350 degrees Fahrenheit. Put the bread in the oven for 10-25 minutes or until it is dry on the outside. Try not to toast it, but if it does toast a little that's not the end of the world.
@@ -40,7 +42,7 @@ Happy Thanksgiving to all who celebrate! Funny story, I actually made this while
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Breakfast Strata</h2><p style = "font-weight: 300;">A delicious breakfast great for using up leftovers!</p></div><img src="../../ratatouille-eggs/ratatouille-thumbnail.jpeg"  class="w-full h-auto mx-auto"></div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Breakfast Strata</h2><p style = "font-weight: 300;">A delicious breakfast great for using up leftovers!</p></div><img src="../../strata/strata-thumbnail.jpg"  class="w-full h-auto mx-auto"></div>
 
 | _Prep Time_: 30 min  | _Cook Time_: 45 min  |
 | :--- | :--- |
