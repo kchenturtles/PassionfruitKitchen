@@ -6,12 +6,26 @@
     <description>Recent content in Tags on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Nov 2024 00:35:51 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 13:39:35 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/PassionfruitKitchen/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dairy-Free</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</link>
+      <pubDate>Wed, 01 Jan 2025 13:39:35 -0500</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gluten-Free</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</link>
+      <pubDate>Wed, 01 Jan 2025 13:39:35 -0500</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pescetarian</title>
       <link>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</link>
-      <pubDate>Thu, 28 Nov 2024 00:35:51 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2025 13:39:35 -0500</pubDate>
       <guid>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</guid>
       <description></description>
     </item>
@@ -20,20 +34,6 @@
       <link>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</link>
       <pubDate>Thu, 28 Nov 2024 00:35:51 -0500</pubDate>
       <guid>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dairy-Free</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</link>
-      <pubDate>Wed, 18 Sep 2024 11:11:14 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gluten-Free</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</link>
-      <pubDate>Wed, 18 Sep 2024 11:11:14 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</guid>
       <description></description>
     </item>
   </channel>

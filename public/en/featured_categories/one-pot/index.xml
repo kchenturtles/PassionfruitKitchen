@@ -6,8 +6,15 @@
     <description>Recent content in One-Pot on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Aug 2024 20:24:47 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 13:39:35 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/PassionfruitKitchen/en/featured_categories/one-pot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baked Brie</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/baked-brie/</link>
+      <pubDate>Wed, 01 Jan 2025 13:39:35 -0500</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/baked-brie/</guid>
+      <description>summary</description>
+    </item>
     <item>
       <title>Savory Crepe, Jian Bing Style</title>
       <link>http://localhost:1313/PassionfruitKitchen/en/posts/jianbing-crepe/</link>
