@@ -10,11 +10,11 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-thumbnail: croissant-dogs/croissant-dogs-thumbnail.jpg
+thumbnail: croissant-dogs/croissant-dogs-thumbnails.jpg
 resources:
 ---
 
-![croissant dogs thumbnail](../../croissant-dogs/croissant-dogs-thumbnail.jpg)
+![croissant dogs thumbnail](../../croissant-dogs/croissant-dogs-thumbnails.jpg)
 
 Wow, it's been busy recently! I've been sticking to the simple recipes to get by: just a couple of ingredients, not too many dishes dirtied, less prep work. Luckily for me, these vegetarian pigs in a blanket check all of those boxes, and they taste great!
 
@@ -34,7 +34,7 @@ You'll need quite literally just two ingredients, and both you can just get from
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Vegetarian Pigs in a Blanket</h2><p style = "font-weight: 300;">A two-ingredient snack with barely any prep!</p></div><img src="../../croissant-dogs/croissant-dogs-thumbnail.jpg"  class="w-full h-auto mx-auto"></div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Vegetarian Pigs in a Blanket</h2><p style = "font-weight: 300;">A two-ingredient snack with barely any prep!</p></div><img src="../../croissant-dogs/croissant-dogs-thumbnails.jpg"  class="w-full h-auto mx-auto"></div>
 
 | _Prep Time_: 5 min  | _Cook Time_: 12 min  |
 | :--- | :--- |
