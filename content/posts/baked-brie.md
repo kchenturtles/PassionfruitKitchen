@@ -26,6 +26,8 @@ The ingredients for this are so simple, just three things:
 - Jam, any flavor
 - Brie cheese
 
+![baked brie](../../baked-brie/baked_brie_progress.jpg)
+
 ## Folding Pastries
 There are many different ways to fold these pastries, but here are a few that I like, ordered approximately from least to most complicated:
 - **Foldover:** This is pretty easy! Just place the filling in a diagonal line along the square, and fold over the corners of the dough that don't have filling into the center of the dough, so that the filling is almost "wrapped" in the filling. 
@@ -33,7 +35,6 @@ There are many different ways to fold these pastries, but here are a few that I 
 - **Diamond:** Cut an "L" shaped slit along the top left and bottom right corner of a dough square, leaving a strip in the corner. The Ls can get close to connecting, but not all the way since that would cut off the entire border of the square. Fold each L over to the edge of the other side, aligned with the cut line for the opposing L. It should form a diamond shape with little folds on the ends. Place the filling in the middle.
 - **Pinwheel:** Cut a slit along each diagonal of a dough square, starting from the corner and stopping a couple of centimeters from the center. (Don't cut all the way to the center, or you'll end up with four different triangles instead of one pastry!) Fold the dough on the left of each cut into the center, just the part near the cut line, so that each of the four sections of the dough looks like a folded over triangle. It doesn't matter which side is left or right from the reference view; just make sure that you select the same side each time so that each triangle is folded in a consistent, rotationally symmetric pattern. Place the filling on top.
 - **Braid:** This one is a little tricky. Take the square and cut a few parallel diagonal slashes in the left side and then the right side of the square, each set of slashes pointing towards the bottom (the slashes on the left and right shouldn't be parallel). Place the filling in the middle third of the dough, the part that isn't sliced. Fold the strips of dough formed by the slashes towards the middle, over the filling, starting from the top of the square and working your way down. Fold over or cut off any leftover dough after folding in all the strips.
-
 
 ## Tips
 
