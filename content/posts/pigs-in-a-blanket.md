@@ -14,7 +14,7 @@ thumbnail: croissant-dogs/croissant-dogs-thumbnail.jpg
 resources:
 ---
 
-![croissant dogs thumbnail](../../croissant-dogs-thumbnail.jpg)
+![croissant dogs thumbnail](../../croissant-dogs/croissant-dogs-thumbnail.jpg)
 
 Wow, it's been busy recently! I've been sticking to the simple recipes to get by: just a couple of ingredients, not too many dishes dirtied, less prep work. Luckily for me, these vegetarian pigs in a blanket check all of those boxes, and they taste great!
 
@@ -25,7 +25,7 @@ You'll need quite literally just two ingredients, and both you can just get from
 - Vegetarian hot dogs (I like Lightlife, but you can use any brand you prefer)
 - Canned croissant rolls
 
-![croissant dogs bite shot](../../croissant-dogs-cut.jpg)
+![croissant dogs bite shot](../../croissant-dogs/croissant-dogs-cut.jpg)
 
 ## Tips
 
