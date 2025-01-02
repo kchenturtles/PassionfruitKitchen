@@ -6,27 +6,27 @@
     <description>Recent content in Categories on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 13:39:35 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 13:39:35 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dinner</title>
       <link>http://localhost:1313/PassionfruitKitchen/en/categories/dinner/</link>
-      <pubDate>Wed, 01 Jan 2025 13:39:35 -0500</pubDate>
+      <pubDate>Tue, 31 Dec 2024 13:39:35 -0500</pubDate>
       <guid>http://localhost:1313/PassionfruitKitchen/en/categories/dinner/</guid>
       <description></description>
     </item>
     <item>
-      <title>One-Pot</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/categories/one-pot/</link>
-      <pubDate>Wed, 01 Jan 2025 13:39:35 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/one-pot/</guid>
+      <title>Quick &amp; Easy</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</link>
+      <pubDate>Tue, 31 Dec 2024 13:39:35 -0500</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Seafood</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/categories/seafood/</link>
-      <pubDate>Wed, 01 Jan 2025 13:39:35 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/seafood/</guid>
+      <title>Snacks</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</link>
+      <pubDate>Tue, 31 Dec 2024 13:39:35 -0500</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</guid>
       <description></description>
     </item>
     <item>
@@ -41,20 +41,6 @@
       <link>http://localhost:1313/PassionfruitKitchen/en/categories/lunch/</link>
       <pubDate>Thu, 28 Nov 2024 00:35:51 -0500</pubDate>
       <guid>http://localhost:1313/PassionfruitKitchen/en/categories/lunch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quick &amp; Easy</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</link>
-      <pubDate>Thu, 31 Oct 2024 00:24:55 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/quick--easy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Snacks</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</link>
-      <pubDate>Thu, 31 Oct 2024 00:24:55 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</guid>
       <description></description>
     </item>
     <item>
@@ -90,6 +76,20 @@
       <link>http://localhost:1313/PassionfruitKitchen/en/categories/sides/</link>
       <pubDate>Mon, 22 May 2023 22:55:04 -0400</pubDate>
       <guid>http://localhost:1313/PassionfruitKitchen/en/categories/sides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One-Pot</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/one-pot/</link>
+      <pubDate>Sun, 23 Apr 2023 17:46:35 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/one-pot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seafood</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/categories/seafood/</link>
+      <pubDate>Mon, 17 Apr 2023 20:25:04 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/categories/seafood/</guid>
       <description></description>
     </item>
     <item>

@@ -1,5 +1,5 @@
 ---
-title: "Baked Brie"
+title: "Baked Brie Pastries"
 date: 2024-12-31T13:39:35-05:00
 categories: ["dinner", "snacks", "quick & easy"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
