@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pastas on Passionfruit Kitchen</title>
-    <link>https://kchenturtles.github.io/PassionfruitKitchen/en/categories/pastas/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/categories/pastas/</link>
     <description>Recent content in Pastas on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Oct 2023 16:12:43 -0500</lastBuildDate>
-    <atom:link href="https://kchenturtles.github.io/PassionfruitKitchen/en/categories/pastas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/pastas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Four-Cheese Cheesy Shells</title>
-      <link>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/cheesy-shells/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/cheesy-shells/</link>
       <pubDate>Mon, 02 Oct 2023 16:12:43 -0500</pubDate>
-      <guid>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/cheesy-shells/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/cheesy-shells/</guid>
       <description>This is a pretty awesome mac and cheese recipe. It&amp;rsquo;s got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior shape (I will die on this hill). It&amp;rsquo;s extra saucy, because the saucier the better. It&amp;rsquo;s salty, cheesy, and has a bit of a kick (adjustable levels!) Peak comfort food right here.</description>
     </item>
     <item>
       <title>Creamy Tomato Penne</title>
-      <link>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/creamy-tomato-penne/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/creamy-tomato-penne/</link>
       <pubDate>Thu, 07 Jul 2022 20:24:47 -0400</pubDate>
-      <guid>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/creamy-tomato-penne/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/creamy-tomato-penne/</guid>
       <description>I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe!</description>
     </item>
   </channel>

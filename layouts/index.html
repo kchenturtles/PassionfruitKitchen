@@ -3,6 +3,7 @@
   <html>
   <head>
     <link href="/dist/styles.css" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://use.typekit.net/yoj4fju.css">
   </head>
   <body class="dark:bg-gray-900">
 
@@ -22,54 +23,29 @@
     <div class= "sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4" >
     <div class = "container mx-auto grid grid-cols-1 lg:grid-cols-3 lg:gap-8 justify-center">
       <div class="lg:col-span-2">
-        <div class = "my-2 text-lg md:text-xl xl:text-2xl font-extrabold font-mono uppercase text-center md:text-left lg:text-center xl:text-left" style="color: purple; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">The Latest</div>
+        <div class = "my-2 text-lg md:text-xl xl:text-5xl font-extrabold font-mono text-center md:text-left lg:text-center xl:text-left" style="font-family:'fleur', sans-serif; font-weight:200;">The Latest</div>
         {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle)  }}
         <div class = "mx-auto">
           {{- partial "blog-post.html" . -}}
-          </div>
+       </div>
         {{ end }}
         <div class = "container mx-auto lg:mt-4 sm:invisible lg:visible" style = "margin-top:0.5rem; max-width: fit-content;">
-          <a href = "/posts/" class="text-lg xl:text-xl uppercase rounded-sm py-2 px-48 hover:opacity-50" style = "background-color:purple; text-align: center; color:white; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">All Posts</a>
+          <a href = "/posts/" class="text-lg xl:text-xl uppercase rounded-sm py-2 px-48 hover:opacity-50" style = "background-color:lavender; text-align: center; color:black; font-family:'latienne-pro', sans-serif; font-weight:200;">All Posts</a>
         </div>
       </div>
-      <div class = "items-center w-full">
-        <div style = "background-color: papayawhip;" class="container mx-auto my-2 text-base lg:text-lg 2xl:text-xl font-bold pb-0 pt-4 mb-0 mt-0 dark:bg-dark text-center pb-4 mb-1 dark:text-black">Collections</div>
+      <div class = "items-center w-full" style="font-family: 'marigny', sans-serif; font-weight:200;">
+        <div style = "background-color: lavender;" class="shadow-sm container mx-auto my-2 text-base lg:text-lg 2xl:text-xl pb-0 pt-4 mb-0 mt-0 dark:bg-dark text-center pb-4 mb-1 dark:text-black border-0">Collections</div>
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;"><div style = "background-color: papayawhip;" class="border text-sm md:text-base lg:text-lg font-semibold p-4 border-white mt-1 hover:opacity-50 dark:text-black">{{ $name }} {{ .Count }}</div></a>
+            <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;"><div style = "background-color: lavender;" class="shadow-sm hover:shadow-lg text-sm md:text-base lg:text-lg p-4 border-0 mt-1 hover:opacity-50 dark:text-black">{{ $name }} {{ .Count }}</div></a>
           {{ end }}
       </div>
     </div>
     </div>
-    
-    {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "background-color: lavender;" class="dark:invert p-4 lg:p-16 mt-8 min-h-72">
-        <div class = "text-lg md:text-xl xl:text-2xl font-extrabold font-mono uppercase text-center mb-4" style = "color: purple; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Search by Diet</div>
-        <div class="container mx-auto grid grid-cols-4 w-7/8 sm:w-1/2 lg:w-2/3 2xl:w-1/2 gap-2 justify-center">
-          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-            <div class="mx-auto rounded-full w-20 h-20 lg:w-32 lg:h-32 xl:w-40 xl:h-40 flex hover:opacity-50" style = "background-color: purple;">
-                <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class = "justify-center items-center mx-auto my-auto text-white">
-                  <img src = "https://kchenturtles.github.io/PassionfruitKitchen/tags/{{ $name }}.png" alt="{{ $name }}" class="rounded-full shadow-sm w-8 h-8 lg:w-12 lg:h-12 xl:w-20 xl:h-20 object-cover mx-auto hover:rounded-sm text-center justify-center filter invert" />
-                  <div class="lg:my-2 text-xs lg:text-base xl:text-xl font-semibold hover:underline">{{ $name }}</div>
-                </a>
-              </div>
-          {{ end }}
-      </div>
-    </div>
 
-      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-      <div class="sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4 my-8">
-      <div class="container mx-auto my-2 text-lg md:text-xl xl:text-2xl uppercase font-bold pb-0 pt-4 mb-6 mt-0 font-sans text-center" style = "color:purple">What To Make This Weekend</div>
-      <div class="container mx-auto grid place-items-center grid-cols-2 sm:grid-cols-4 gap-4 xl:gap-8">
-        {{ range first 4 (.Site.Pages.ByParam "independence") }}
-          {{- partial "blog-card.html" . -}}
-        {{ end }}
-      </div>
-      </div>
-
-      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-      <div class="sm:w-5/6 max-w-[1200px] sm:mx-auto mx-1 my-12">
+     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
+      <div class="sm:w-5/6 max-w-[1200px] sm:mx-auto mx-1 my-24">
         <div class = "border-8 border-double mx-auto w-fit" style="border-color:lavenderblush;">
-        <div class="text-lg md:text-xl xl:text-2xl uppercase font-bold pb-0 pt-8 pb-4 mt-0 font-sans text-center" style = "color:black; background-color:lavenderblush; border-color: purple;">Recipes To Make This Season</div>
+        <div class="container mx-auto text-lg md:text-xl xl:text-4xl font-bold py-8 font-sans text-center" style = "background-color: lavenderblush; font-family:'fleur', sans-serif; font-weight:200">Recipes To Make This Season</div>
        <div class="w-full" style="background-color: lavenderblush;">
         <div class="container px-2 sm:px-8 w-fit grid place-items-center grid-cols-2 sm:grid-cols-4 gap-4 xl:gap-8 pb-8" style="background-color: lavenderblush;">
           {{ range first 4 (.Site.Pages.ByParam "summer") }}
@@ -80,11 +56,21 @@
       </div>
     </div>
 
+      {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
+      <div class="sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4 my-8 mt-12">
+      <div class="container mx-auto my-2 text-lg md:text-xl xl:text-4xl font-bold font-sans text-center" style = "font-family:'fleur', sans-serif; font-weight:200">What To Make This Weekend</div>
+      <div class="container mx-auto grid place-items-center grid-cols-2 sm:grid-cols-4 gap-4 xl:gap-8">
+        {{ range first 4 (.Site.Pages.ByParam "independence") }}
+          {{- partial "blog-card.html" . -}}
+        {{ end }}
+      </div>
+      </div>
+
     
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-    <div style = "background-color: papayawhip; padding-top: 1rem; min-height: 15rem;"></div>
-    <div class =  "dark:text-black font-bold text-xl mb-4 sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4"  style = "background-color: white; margin-top:-12rem; border-color: peachpuff; padding-top: 1rem; border-style: solid; border-width: 2px;">
-      <div class = "container mx-auto text-lg md:text-xl xl:text-2xl uppercase font-bold pb-0 pb-4 mt-0 font-sans text-center " style = "color:purple">Top Collections</div>
+    <div style = "background-color: lavender; padding-top: 1rem; min-height: 15rem;"></div>
+    <div class =  "dark:text-black font-bold text-xl mb-4 sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4"  style = "background-color: white; margin-top:-12rem; border-color: lavenderblush; padding-top: 1rem; border-style: solid; border-width: 2px;">
+      <div class = "container mx-auto text-lg md:text-xl xl:text-3xl font-bold pb-0 pb-4 mt-0 font-sans text-center " style = "font-family:'fleur', sans-serif; font-weight:200">Top Collections</div>
       <div class="container mx-auto p-4 grid grid-cols-4 lg:grid-cols-8 gap-1 lg:gap-2 place-items-center">
         {{ range $name, $taxonomy := .Site.Taxonomies.featured_categories }}
           <div class = "p-2 hoverlink w-min">
@@ -92,7 +78,7 @@
             <div class="hover:opacity-50 w-20 h-20 sm:w-24 sm:h-24 md:w-32 md:h-32 lg:w-24 lg:h-24 xl:w-32 xl:h-32 rounded-full">
             <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="w-full h-full object-cover overflow-hidden rounded-full"/>
           </div>
-          <div class="my-0 text-sm font-light hovername" style = "text-decoration:none; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align: center;">{{ $name }}</div>
+          <div class="my-0 text-base font-light hovername" style = "text-decoration:none; font-family: 'marigny', sans-serif; font-weight:200; text-align: center;">{{ $name }}</div>
                 <!-- <div class="relative">
                   <img src="https://kchenturtles.github.io/PassionfruitKitchen/categories/{{ $name }}.jpeg" alt="{{ $name }}" class="rounded-lg shadow-sm w-0.5em h-0.5em object-fill" style = "width: 20em; height:20em; object-fit: cover;" />            
                 </div>
@@ -104,10 +90,23 @@
     <!-- </div> -->
     </div>
    
+        {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
+    <div style = "background-color: lavenderblush;" class="dark:invert p-4 lg:px-16 mt-8">
+        <div class = "text-lg md:text-xl xl:text-3xl text-center mb-4" style = "font-family:'fleur', sans-serif">Search by Diet</div>
+        <div class="container mx-auto flex gap-4 justify-center">
+          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+            <div class="rounded-full p-1 flex hover:opacity-50 border" style = "background-color: pink;">
+                <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class = "justify-center items-center mx-auto my-auto text-white">
+                  <img src = "https://kchenturtles.github.io/PassionfruitKitchen/tags/{{ $name }}.png" alt="{{ $name }}" class="rounded-full shadow-sm w-8 h-8 md:w-12 md:h-12 object-cover mx-auto hover:rounded-sm text-center justify-center filter invert" />
+                </a>
+              </div>
+          {{ end }}
+      </div>
+    </div>
       
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div class="sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4 my-8">
-    <div class="container mx-auto text-lg md:text-xl xl:text-2xl uppercase font-bold pb-0 pb-4 pt-4 mt-0 font-sans text-center" style = "color:purple">Classic Dinners</div>
+    <div class="container mx-auto my-2 text-lg md:text-xl xl:text-4xl font-bold font-sans text-center" style = "font-family:'fleur', sans-serif; font-weight:200">Classic Dinners</div>
     <div class="container mx-auto grid place-items-center grid-cols-2 sm:grid-cols-4 gap-4 xl:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "casserole") }}
         {{- partial "blog-card.html" . -}}
@@ -118,7 +117,7 @@
       {{- partial "intro.html" . -}}
 
       <div class="sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4 my-8">
-        <div class="container mx-auto text-lg md:text-xl xl:text-2xl uppercase font-bold pb-0 pt-8 pb-4 mt-0 font-sans text-center "style = "color:purple;">Easy One-Pot Meals</div>
+        <div class="container mx-auto my-2 text-lg md:text-xl xl:text-4xl font-bold font-sans text-center" style = "font-family:'fleur', sans-serif; font-weight:200">Easy One-Pot Meals</div>
         <div class="container mx-auto grid place-items-center grid-cols-2 sm:grid-cols-4 gap-4 xl:gap-8">
           {{ range first 4 (.Site.Pages.ByParam "one-pot") }}
             {{- partial "blog-card.html" . -}}
@@ -133,7 +132,7 @@
 
     {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
     <div class="sm:w-5/6 max-w-[1200px] sm:mx-auto mx-4 my-8">
-      <div class = "container mx-auto text-lg md:text-xl xl:text-2xl uppercase font-bold pb-0 pb-4 mt-0 font-sans text-center " style = "color:purple">Dessert Ideas</div>
+      <div class="container mx-auto my-2 text-lg md:text-xl xl:text-4xl font-bold font-sans text-center" style = "font-family:'fleur', sans-serif; font-weight:200">Dessert Ideas</div>
     <div class="container mx-auto grid col-auto auto-cols-min place-items-center grid-cols-2 sm:grid-cols-4 gap-4 lg:gap-8">
       {{ range first 4 (.Site.Pages.ByParam "breakfast") }}
         {{- partial "blog-card.html" . -}}

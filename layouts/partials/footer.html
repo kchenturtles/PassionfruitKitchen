@@ -1,21 +1,21 @@
-<div style="background-color: papayawhip;"><div class = "dark:bg-gray-900 mt-8">
-<footer class="container mx-auto px-0 pt-6 ">
+<div style="background-color: lavender; font-family:'marigny', sans-serif; font-weight:200;"><div class = "dark:bg-gray-900 mt-2">
+<footer class="container mx-auto px-0 pt-4">
   <div class = "grid sm:grid-cols-3 place-items-center">
     <a href = "{{ .Site.Home.Permalink }}">
-      <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" class="md:my-6 hover:opacity-50 max-h-20 max-w-20" />
+      <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" class="hover:opacity-50 max-h-20 max-w-20" />
     </a>
     {{- partial "social.html" . -}}
     <div class = "flex flex-wrap gap-4 md:gap-8">
-    <div class = "md:my-8 font-bold text-sm sm:text-base lg:text-lg xl:text-xl mb-4 text-left justify-center">
-      <div class = "mb-2">Menu</div>
+    <div class = " font-bold text-sm sm:text-base lg:text-lg xl:text-xl text-left justify-center">
+      <div class = "">Menu</div>
       <ul class="underline font-light text-sm">
         {{ range .Site.Menus.main }}
         <li><a href="{{ .URL | relLangURL }}" style = "text-decoration: underline;" class = "hover:text-yellow-600">{{ .Name }}</a></li>
         {{ end }}
       </ul>
     </div>
-    <div class = "md:my-8 font-bold text-sm sm:text-base lg:text-lg xl:text-xl text-left justify-center">
-      <div class = "mb-2">Tags</div>
+    <div class = "font-bold text-sm sm:text-base lg:text-lg xl:text-xl text-left justify-center">
+      <div class = "">Tags</div>
       <ul class = "underline font-light text-sm">
         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
           <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" style = "text-decoration: underline;" class = "hover:text-yellow-600">{{ $name }}</a></li>
@@ -24,7 +24,8 @@
     </div>
   </div>
   </div>
-  <div class = "flex justify-between items-center">
+</footer>
+<div class = "flex justify-between items-center" style="background-color:lavender;">
     <span class="text-xs font-light pl-2">
       Copyright 2021-2024 © Kendree C. All rights reserved.
     </span>
@@ -36,7 +37,6 @@
       </svg>
     </span>
   </div>
-</footer>
 </div>
 </div>
 {{ if .Site.Params.enableSearch }}

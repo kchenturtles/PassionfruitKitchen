@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Appetizers on Passionfruit Kitchen</title>
-    <link>https://kchenturtles.github.io/PassionfruitKitchen/en/categories/appetizers/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/categories/appetizers/</link>
     <description>Recent content in Appetizers on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 29 Jun 2023 21:11:39 -0400</lastBuildDate>
-    <atom:link href="https://kchenturtles.github.io/PassionfruitKitchen/en/categories/appetizers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/appetizers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peach Burrata Caprese Salad</title>
-      <link>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</link>
       <pubDate>Thu, 29 Jun 2023 21:11:39 -0400</pubDate>
-      <guid>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</guid>
       <description>I conquered my fear of salads with this peach and burrata caprese. I made it for my parents’ anniversary dinner, and they loved it. Since it’s peach season, I threw in peaches with the classic tomato and basil caprese salad. I also replaced the traditional mozzarella with burrata, because I think it makes the salad more cohesive. It’s a super simple salad, dressed with just a drizzle of good balsamic vinegar.</description>
     </item>
     <item>
       <title>How To Set Up a Cheeseboard</title>
-      <link>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</link>
       <pubDate>Fri, 12 Aug 2022 20:07:11 -0400</pubDate>
-      <guid>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</guid>
       <description>A big cheeseboard is also the perfect appetizer at a holdiay party! I always used to see all these photos of fancy cheeseboards on Instagram and Pinterest, and I’d wish I could make something similar. There are a few steps to making a cheeseboard, which I cover in this guide.</description>
     </item>
     <item>
       <title>Caramelized Onion, Mushroom, &amp; Goat Cheese Tart</title>
-      <link>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/caramelized-onion-mushroom-goat-cheese-galette/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/caramelized-onion-mushroom-goat-cheese-galette/</link>
       <pubDate>Wed, 29 Dec 2021 20:24:22 -0400</pubDate>
-      <guid>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/caramelized-onion-mushroom-goat-cheese-galette/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/caramelized-onion-mushroom-goat-cheese-galette/</guid>
       <description>I love caramelized onions. And mushrooms. And goat cheese. So I thought, why not put them all on top of a puff pastry base? It’s the perfect mix of sweet, savory caramelized onions and tangy, creamy goat cheese.</description>
     </item>
     <item>
       <title>Easy Shrimp Cocktail (2 ways!)</title>
-      <link>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</link>
       <pubDate>Wed, 16 Jun 2021 21:12:02 -0400</pubDate>
-      <guid>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</guid>
       <description>I know you can buy the elements at the store, but I prefer to make this shrimp cocktail from scratch. It’s only a few ingredients and takes barely any time at all. Plus, it’s better made fresh. For a spin on the classic, I replaced the typical super-sweet ketchup with a homemade tomato sauce that’s tomatoey, spicy, just the right amount of sweet, and absolutely delish. I also made another version with a mango chili dipping sauce, which is an awesome combination with the shrimp!</description>
     </item>
     <item>
       <title>Sesame Honey Cauliflower Wings</title>
-      <link>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</link>
       <pubDate>Sat, 02 Jan 2021 21:04:12 -0400</pubDate>
-      <guid>https://kchenturtles.github.io/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</guid>
       <description>Cauliflower wings are an awesome vegetarian snack! I first made cauliflower wings when I made vegetarian buffalo wings for the Super Bowl, but I don’t love buffalo sauce, so I came up with a sesame-honey version instead. The sauce is sticky, sweet, and garlicky, and the cauliflower wings are deliciously crunchy.</description>
     </item>
   </channel>

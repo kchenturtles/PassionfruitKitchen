@@ -4,8 +4,8 @@
         <img class="object-cover overflow-hidden w-full h-full aspect-square" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}"/>
       </div>
       <div>
-        <div class="container mx-auto text-3xl lowercase font-bold pb-0 pb-4 font-sans text-center" style = "color:purple">Welcome!</div>
-        <div class="font-light text-sm text-center">{{ .Site.Params.introSubtitle | safeHTML}}</div>
+        <div class="container mx-auto text-4xl lowercase font-bold pb-0 pb-4 font-sans text-center" style = "font-family:'fleur', sans-serif">Welcome!</div>
+        <div class="font-light text-sm text-center" style="font-family:'marigny', sans-serif; font-weight:200;">{{ .Site.Params.introSubtitle | safeHTML}}</div>
         <ul class="flex justify-center flex-wrap justify-items-center p-0 list-none mt-4">
           {{range .Site.Params.homepage.social.icons}}
     
