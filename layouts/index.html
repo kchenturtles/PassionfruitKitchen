@@ -36,7 +36,7 @@
       <div class = "items-center lg:w-full mx-8 lg:mx-0" style="font-family: 'marigny', sans-serif; font-weight:200;">
         <div style = "background-color: lavender;" class="shadow-sm container mx-auto my-2 text-lg lg:text-xl pb-0 pt-4 mb-0 mt-0 dark:bg-dark text-center pb-4 mb-1 dark:text-black border-0">Collections</div>
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;"><div style = "background-color: lavender;" class="shadow-sm hover:shadow-lg text-lg lg:text-xl p-4 border-0 mt-1 hover:opacity-50 dark:text-black">{{ $name }} {{ .Count }}</div></a>
+            <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" style = "opacity:1;"><div style = "background-color: lavender;" class="shadow-sm hover:shadow-lg text-lg p-4 border-0 mt-1 hover:opacity-50 dark:text-black">{{ $name }} {{ .Count }}</div></a>
           {{ end }}
       </div>
     </div>

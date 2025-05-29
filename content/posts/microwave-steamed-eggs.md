@@ -70,7 +70,6 @@ So, I was super happy recently when testing making this in a microwave. It comes
 | :--- | :--- |
 | <div><h2 style = "margin-top:1em; margin-bottom:0;" >Notes</h2></div>|   |
 
-Notes
 This recipe is vegetarian if you use vegetarian stock. It is also gluten-free.
 
 </div>
