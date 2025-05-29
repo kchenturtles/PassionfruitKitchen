@@ -4,13 +4,13 @@
   <div class="relative dark:invert w-full">
     <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="shadow-sm object-cover h-44 sm:h-36 md:h-44 lg:h-56 xl:h-72 2xl:h-80" style = "width: 120%;" />
     {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-    <div class="absolute top-1 right-1 sm:top-2 sm:right-2 md:top-4 md:right-4 rounded shadow bg-white dark:invert text-xs md:text-sm px-2 py-0.5" style="font-family: 'marigny', sans-serif; font-weight:200;">
+    <div class="absolute top-1 right-1 sm:top-2 sm:right-2 md:top-4 md:right-4 rounded shadow bg-white dark:invert text-xs lg:text-sm px-2 py-0.5" style="font-family: 'marigny', sans-serif; font-weight:200;">
       {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
     </div>
     {{ end }}
   </div>
   {{ end }}
-  <div class="my-2 text-sm xl:text-base p-2 px-2 text-center hover:text-yellow-600" style="font-family: 'marigny', sans-serif; font-weight:200">{{ .Params.title }}</div>
+  <div class="my-2 text-xs md:text-sm xl:text-base p-2 px-2 text-center hover:text-yellow-600" style="font-family: 'marigny', sans-serif; font-weight:200">{{ .Params.title }}</div>
   <div>{{ .Params.description }}</div>
 </a>
 </div>
