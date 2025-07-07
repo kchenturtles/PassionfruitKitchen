@@ -1,5 +1,5 @@
 ---
-title: "Savory Crepe, Jian Bing Style"
+title: "Jian Bing Crepe"
 date: 2024-08-04T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
