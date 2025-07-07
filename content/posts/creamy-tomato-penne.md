@@ -5,7 +5,7 @@ categories: ["one-pot", "dinner", "lunch", "quick & easy", "pastas"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe!"
+summary: "I love pasta alla vodka, but it does require two pots – one to boil the water, and one to make the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe!"
 dropCap: true
 displayInMenu: true
 one-pot: true
@@ -17,7 +17,7 @@ resources:
 
 ![creamy tomato penne thumbnail](../../tomato-pasta/pasta-thumbnail.jpeg)
 
-I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe! It’s a great weeknight dinner, and I hope you try it too!
+I love pasta alla vodka, but it does require two pots – one to boil the water, and one to make the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe! It’s a great weeknight dinner, and I hope you try it too!
 
 On another note, I finally got Lightroom! Now I can edit photos so the lighting/coloring isn’t always so weird :). So I hope you enjoy the properly-edited photos in this post.
 

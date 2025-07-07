@@ -5,7 +5,7 @@ categories: ["desserts", "snacks"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian", "gluten-free", "dairy-free"]
 toc: true
-summary: "Happy Valentines Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami dango, which is one of the cutest desserts I’ve ever had. I love dango because they are so simple, not to sweet, and so chewy. Traditionally hanami dango are pink, white, and green, but I made it with just pink and white for Valentines Day!"
+summary: "Happy Valentines Day! In honor of the holiday, I figured I should take advantage of the bottle of pink food coloring in my baking cabinet (it's actually the only color of food coloring I have). This recipe is inspired by hanami dango, which is one of the cutest desserts ever, in my opinion. I love dango it is so simple, not too sweet, and so chewy. Traditionally hanami dango are pink, white, and green, but I made it with just pink and white for Valentines Day."
 dropCap: true
 displayInMenu: true
 featured: true
@@ -18,9 +18,9 @@ resources:
 
 ![dango thumbnail](../../dango/dango-stacked.jpg)
 
-Happy Valentine's Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami dango, which is one of the cutest desserts I’ve ever had. I love dango because they are so simple, not to sweet, and so chewy. Traditionally hanami dango are pink, white, and green, but I made it with just pink and white for Valentine's Day!
+Happy Valentines Day! In honor of the holiday, I figured I should take advantage of the bottle of pink food coloring in my baking cabinet (it's actually the only color of food coloring I have). This recipe is inspired by hanami dango, which is one of the cutest desserts ever, in my opinion. I love dango it is so simple, not too sweet, and so chewy. Traditionally hanami dango are pink, white, and green, but I made it with just pink and white for Valentines Day.
 
-So, what is dango? Dango is a traditional Japanese sweet snack (wagashi) made from rice flour. It is typically served on skewers and comes in many different flavors and colors. A very popular type of dango is hanami dango, which consists of three colored dumplings: pink, white, and green. Dango has a chewy texture a bit like mochi but more bouncy! It is often enjoyed during cherry blossom viewing parties in Japan as a snack or dessert.
+So, what is dango? Dango is a traditional Japanese sweet snack (wagashi) made from rice flour. It is typically served on skewers and comes in many different flavors and colors. A very popular type of dango is hanami dango, which consists of three colored dumplings: pink, white, and green. Dango has a chewy texture a bit like mochi but more bouncy. It is often enjoyed during cherry blossom viewing parties in Japan as a snack or dessert.
 
 ## Ingredients
 

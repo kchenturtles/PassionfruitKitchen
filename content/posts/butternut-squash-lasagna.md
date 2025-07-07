@@ -4,7 +4,7 @@ date: 2025-02-28T17:57:50-04:00
 categories: ["dinner", "lunch", "pastas"]
 featured_categories: []
 tags: ["vegetarian", "pescetarian"]
-summary: "This recipe actually came about at my sister's request! She was visiting home and telling me about this dish she makes at college: lasagna with butternut squash. When I at first heard that, I was so skeptical -- after all, it seems like something that would get you in trouble with the Italians. But she likes it a lot, so I figured that I would give it a try. After hearing about how she makes it, though...I figured I could improve on it a bit."
+summary: "This recipe actually came about at my sister's request! She was visiting home and telling me about this dish she makes at college: lasagna with butternut squash. When I at first heard that, I was so skeptical -- after all, it seems like something that would get you in trouble with generations of Italian tradition. But she likes it a lot, so I figured that I would give it a try and see if I could improve on it."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -16,7 +16,7 @@ resources:
 
 ![butternut squash lasagna](../../butternut.jpg)
 
-This recipe actually came about at my sister's request! She was visiting home and telling me about this dish she makes at college: lasagna with butternut squash. When I at first heard that, I was so skeptical -- after all, it seems like something that would get you in trouble with the Italians. But she likes it a lot, so I figured that I would give it a try. After hearing about how she makes it, though...I figured I could improve on it a bit.
+This recipe actually came about at my sister's request! She was visiting home and telling me about this dish she makes at college: lasagna with butternut squash. When I at first heard that, I was so skeptical -- after all, it seems like something that would get you in trouble with generations of Italian tradition. But she likes it a lot, so I figured that I would give it a try and see if I could improve on it.
 
 My sister doesn't have a blender or food processor at college, so she makes her lasagna with chunks of mashed cooked butternut squash, and just layers that with cheese and lasagna noodles. No judgment to that lasagna (I'm not Italian, and college cooking is always a struggle), but I'm pretty sure a lasagna is supposed to have an actual sauce, and a bechamel layer (although people also commonly use ricotta). In my version, I made a proper sauce out of butternut squash and I made a bechamel to layer it with as well. It's still probably not a lasagna in Italy, but maybe it's closer. And it turned out really good! It actually tastes a lot like a butternut squash mac and cheese, which makes sense considering it has basically the same ingredients -- just in a different format.
 
@@ -36,7 +36,7 @@ My sister doesn't have a blender or food processor at college, so she makes her 
 <div style = "background-color: lavenderblush;"  id = "recipe"> 
 <div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
 
-<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Butternut Squash Lasagna</h2><p style = "font-weight: 300;">A great weeknight dinner, and a fun (if slightly blasphemous) twist on lasagna.</p></div><img src="../../ratatouille-eggs/ratatouille-thumbnail.jpeg"  class="w-full h-auto mx-auto"></div>
+<div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Butternut Squash Lasagna</h2><p style = "font-weight: 300;">A great weeknight dinner, and a fun (if slightly blasphemous) twist on lasagna.</p></div><img src="../../butternut.jpg"  class="w-full h-auto mx-auto"></div>
 
 | _Prep Time_: 30 min  | _Cook Time_: 50 min  |
 | :--- | :--- |

@@ -3,22 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/butternut-squash-lasagna/</loc>
-    <lastmod>2025-05-28T17:57:50-04:00</lastmod>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/categories/</loc>
-    <lastmod>2025-05-28T17:57:50-04:00</lastmod>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/categories/dinner/</loc>
-    <lastmod>2025-05-28T17:57:50-04:00</lastmod>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/lunch/</loc>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/pastas/</loc>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</loc>
-    <lastmod>2025-05-28T17:57:50-04:00</lastmod>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/tags/</loc>
-    <lastmod>2025-05-28T17:57:50-04:00</lastmod>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</loc>
-    <lastmod>2025-05-28T17:57:50-04:00</lastmod>
+    <lastmod>2025-02-28T17:57:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</loc>
     <lastmod>2025-01-29T19:40:58-05:00</lastmod>
@@ -27,9 +33,6 @@
     <lastmod>2025-01-29T19:40:58-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</loc>
-    <lastmod>2025-01-29T19:40:58-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/lunch/</loc>
     <lastmod>2025-01-29T19:40:58-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/microwave-steamed-eggs/</loc>
@@ -77,9 +80,6 @@
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/vegetarian-gua-bao/</loc>
     <lastmod>2024-07-02T20:24:47-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/posts/rice-paper-egg-wrap/</loc>
-    <lastmod>2024-05-20T20:24:47-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/rice-paper-roll/</loc>
     <lastmod>2024-04-19T20:24:47-04:00</lastmod>
   </url><url>
@@ -99,9 +99,6 @@
     <lastmod>2023-11-15T20:07:55-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/cheesy-shells/</loc>
-    <lastmod>2023-10-02T16:12:43-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PassionfruitKitchen/en/categories/pastas/</loc>
     <lastmod>2023-10-02T16:12:43-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/PassionfruitKitchen/en/posts/cheesecake-bars/</loc>

@@ -4,7 +4,7 @@ date: 2023-05-05T20:08:33-04:00
 categories: ["desserts", "snacks"]
 featured_categories: ["quick & easy"]
 tags: ["gluten-free", "vegetarian", "dairy-free"]
-summary: "Peanut butter cookies are usually a big disappointment for me. Peanut butter cookies tend to bake up very dry because of the way that the peanut butter affects the cookie texture. And that's a huge shame, because peanut butter is so delicious on its own!"
+summary: "Peanut butter cookies are usually a big disappointment for me. Peanut butter cookies tend to bake up very dry because of the way that the extra fat in the peanut butter affects the cookie texture. And that's a huge shame, because peanut butter flavored cookies sound like such a good idea in your head."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -16,7 +16,7 @@ resources:
 
 ![peanut butter cookies thumbnail](../../peanut-butter-cookies/pb-cookies-fern.jpeg)
 
-Peanut butter cookies are usually a big disappointment for me. Peanut butter cookies tend to bake up very dry because of the way that the peanut butter affects the cookie texture. And that's a huge shame, because peanut butter is so delicious on its own! However, the other day, I came across a recipe that seemed very promising: a flourless peanut butter cookie recipe. Suspend your disbelief, because removing the flour from the recipe actually improves the texture by a mile. These cookies bake up moist, dense, and chewy to boot. Even better: It's only 4 ingredients! Of course, a classic style of peanut butter cookie is a peanut butter blossom, and with extra Hershey's kisses around, I just had to make them into blossoms. What's just one more ingredient when you're only using 4? Definitely a great decision. You've got to try these!
+Peanut butter cookies are usually a big disappointment for me. Peanut butter cookies tend to bake up very dry because of the way that the extra fat in the peanut butter affects the cookie texture. And that's a huge shame, because peanut butter flavored cookies sound like such a good idea in your head. However, the other day, I came across a recipe that seemed very promising: a flourless peanut butter cookie recipe. Suspend your disbelief, because removing the flour from the recipe actually improves the texture by a mile. These cookies bake up moist, dense, and chewy to boot. Even better: It's only 4 ingredients. Of course, a classic style of peanut butter cookie is a peanut butter blossom, and with extra Hershey's kisses around, I just had to make these into flourless peanut butter blossoms. What's just one more ingredient when you're only using 4? Definitely a great decision.
 
 ![peanut butter cookies bitten](../../peanut-butter-cookies/pb-cookies-bite.jpeg)
 

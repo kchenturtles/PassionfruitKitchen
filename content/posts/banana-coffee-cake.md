@@ -4,7 +4,7 @@ date: 2023-01-05T20:07:42-04:00
 categories: ["desserts", "snacks", "breakfasts"]
 featured_categories: []
 tags: ["vegetarian"]
-summary: "Banana bread is a classic bake, and it definitely got more popular during lockdown! My dad makes an awesome banana bread that I'll always love, but I was looking for a moister banana bread. I combined this banana bread recipe with a recipe for coffee cake (because who doesn't love streusel?) and the combination was stellar!"
+summary: "Banana bread is a classic recipe, and it definitely got a lot more popular during COVID lockdown. My dad makes an awesome banana bread that I'll always have nostalgia for, but I was recently looking to develop a recipe for a moister banana bread. I ended up combining a banana bread recipe with a recipe for coffee cake (because who doesn't love streusel?) and it turned out really nicely."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -17,7 +17,7 @@ resources:
 
 ![banana coffee cake](../../banana-coffee-cake/banana-bread-stack.jpeg)
 
-Banana bread is a classic bake, and it definitely got more popular during lockdown! My dad makes an awesome banana bread that I'll always love, but I was looking for a moister banana bread. I combined this banana bread recipe with a recipe for coffee cake (because who doesn't love streusel?) and the combination was stellar! While most banana breads are typically baked in a 9x5 loaf pan, I prefer to bake mine in a 9x13 pan like a coffee cake to make it easier to share with people. The great thing about this recipe is that it's also pretty customizable! And since it's a coffee cake, you can totally get away with eating it for breakfast.
+Banana bread is a classic recipe, and it definitely got a lot more popular during COVID lockdown. My dad makes an awesome banana bread that I'll always have nostalgia for, but I was recently looking to develop a recipe for a moister banana bread. I ended up combining a banana bread recipe with a recipe for coffee cake (because who doesn't love streusel?) and it turned out really nicely. While most banana breads are typically baked in a 9x5 loaf pan, I prefer to bake mine in a 9x13 pan like a coffee cake to make it easier to share with people. The great thing about this recipe is that it's also pretty customizable! And since it's a coffee cake, you can totally get away with eating it for breakfast.
 
 ![banana coffee cake](../../banana-coffee-cake/banana-bread-stacked.jpeg)
 ## Ingredients

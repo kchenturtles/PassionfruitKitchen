@@ -6,7 +6,7 @@ featured_categories: ["breakfasts", "desserts"]
 tags: ["pescetarian", "vegetarian"]
 toc: true
 breakfast: true
-summary: "Pumpkin pie was one of the first things I ever learned how to bake! I originally used the Libby’s pumpkin pie recipe, but after a while, I got sick of baking the same recipe again and again. So I started to tinker with the recipe (to the delight of my family, of course) and I came up with the idea of using Chinese five spice instead of pumpkin pie spice. It gives the pie so much more depth of flavor."
+summary: "Pumpkin pie was one of the first things I ever learned how to bake! I originally used the Libby’s pumpkin pie recipe, but after a while, I got sick of baking the same recipe again and again. So I started to tinker with the recipe, and I came up with the idea of using Chinese five spice instead of pumpkin pie spice. It gives the pie so much more depth of flavor."
 dropCap: true
 displayInMenu: true
 displayInList: true
@@ -17,9 +17,9 @@ resources:
 
 ![5 spice pumpkin pie](../../pumpkin-pie/pumpkin-pie-thumbnail.jpeg)
 
-My family LOVES pumpkin pie. I love experimenting with baking new dishes – everything from coffee cake to cinnamon rolls – but nothing ever seems to disappear as fast as this pumpkin pie.
+My family LOVES pumpkin pie. I love experimenting with baking new dishes, but nothing ever seems to disappear as fast as pumpkin pie, even if I make it in the middle of the summer.
 
-Pumpkin pie was one of the first things I ever learned how to bake! I originally used the Libby’s pumpkin pie recipe, but after a while, I got sick of baking the same recipe again and again. So I started to tinker with the recipe (to the delight of my family, of course) and I came up with the idea of using Chinese five spice instead of pumpkin pie spice. It gives the pie so much more depth of flavor.
+Pumpkin pie was one of the first things I ever learned how to bake. I originally used the Libby’s pumpkin pie recipe, but after a while, I got sick of baking the same recipe again and again. So I started to tinker with the recipe, and I came up with the idea of using Chinese five spice instead of pumpkin pie spice. It gives the pie so much more depth of flavor.
 
 ![5 spice pumpkin pie side](../../pumpkin-pie/pumpkin-pie-side.jpeg)
 

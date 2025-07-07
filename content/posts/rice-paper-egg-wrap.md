@@ -11,7 +11,7 @@ displayInMenu: true
 one-pot: true
 summer: true
 displayInList: true
-draft: false
+draft: true
 thumbnail: rice-paper-wrap/rice-paper-wrap-1.jpg
 resources:
 ---

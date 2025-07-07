@@ -4,7 +4,7 @@ date: 2024-12-31T13:39:35-05:00
 categories: ["dinner", "snacks", "quick & easy"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["pescetarian", "vegetarian"]
-summary: "This is a great appetizer that looks fancy, tastes amazing, and is actually very simple to make! It's a riff on Baked Brie, which is a common holiday appetizer, but redesigned to be in the form of shareable pastries."
+summary: "This is a festive dish that looks fancy, tastes amazing, and is actually very simple to make! It's a riff on Baked Brie, which is a common holiday appetizer, but reimagined to be in individual pastry form. It makes a great appetizer."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -16,7 +16,7 @@ resources:
 
 ![baked brie](../../baked-brie/baked_brie.jpg)
 
-Happy New Year's Eve! I hope you had a great winter break. I definitely did! Christmas dinner for me involved making these pastries. I've actually been making these for a couple of years, but never thought to type up the recipe before. It came from a random idea I had a couple of Thanksgivings ago, where I'd wanted to make baked brie with a sheet of puff pastry I had but also wanted to make some Danish-style pastries...so I ended up kind of doing both, with them combined. It was everyone's favorite that year, and I've been making it every year since then!
+Happy New Year's Eve! I hope you had a great winter break. Christmas dinner for me involved making these pastries. I've actually been making these for a couple of years, but never thought to type up the recipe before. It came from a random idea I had a couple of Thanksgivings ago, where I'd wanted to make baked brie with a sheet of puff pastry I had but also wanted to make some Danish-style pastries...so I ended up kind of doing both, with them combined. It was everyone's favorite that year, and I've been making it every year since then!
 
 ## Ingredients
 

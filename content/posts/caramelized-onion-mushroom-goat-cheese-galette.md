@@ -16,7 +16,7 @@ resources:
 
 ![caramelized onion goat cheese galette thumbnail](../../galette/galette-thumbnail.jpeg)
 
-I love caramelized onions. And mushrooms. And goat cheese. So I thought, why not put them all on top of a puff pastry base? Best. Idea. Ever. I swear, I could eat the whole thing by myself. It’s the perfect mix of sweet, savory caramelized onions and tangy, creamy goat cheese. Caramelizing onions might sound scary, but it’s pretty easy (and quick!) to do for this tart, since you only need to caramelize a few!
+I love caramelized onions. And mushrooms. And goat cheese. So I thought, why not put them all on top of a puff pastry base? Best. Idea. Ever. I swear, I could eat the whole thing by myself. It’s the perfect mix of sweet caramelized onions and tangy, creamy goat cheese. Caramelizing onions might sound scary, but it’s pretty easy (and quick!) to do for this tart, since you don't need that many onions.
 
 ## Ingredients
 

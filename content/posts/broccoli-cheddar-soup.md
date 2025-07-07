@@ -5,7 +5,7 @@ categories: ["dinner", "lunch", "quick & easy", "soups & stews", "one-pot"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["vegetarian", "gluten-free"]
 toc: true
-summary: "Who else loves broccoli cheddar soup? I adored it as a kid, but really only from Panera Bread. Unfortunately, I’ve had quite a few bad broccoli cheddar soups in my life (school cafeteria, anyone?) — floury, bland, watery, and sometimes the broccoli inside would still be crunchy (yikes). But Panera’s was really good: creamy, savory, and deliciously cheesy."
+summary: "Who else loves broccoli cheddar soup? I adored it as a kid, and for me, the quintessential benchmark was Panera Bread's rendition -- comfort in a bread bowl. Unfortunately, I’ve had also quite a few bad broccoli cheddar soups in my life (school cafeteria, anyone?) — floury, bland, watery, and sometimes the broccoli inside would still be crunchy (yikes). But, in pursuit of the Panera Bread dreams of my childhood, I took to experimenting with making it at home."
 dropCap: true
 displayInMenu: true
 displayInList: true
@@ -22,9 +22,9 @@ resources:
 ---
 ![broccoli cheddar soup](../../broccoli_soup_thumbnail.jpeg)
 
-Who else loves broccoli cheddar soup? I adored it as a kid, but really only from Panera Bread. Unfortunately, I’ve had quite a few bad broccoli cheddar soups in my life (school cafeteria, anyone?) — floury, bland, watery, and sometimes the broccoli inside would still be crunchy (yikes). But Panera’s was really good: creamy, savory, and deliciously cheesy.
+Who else loves broccoli cheddar soup? I adored it as a kid, and for me, the quintessential benchmark was Panera Bread's rendition -- comfort in a bread bowl. Unfortunately, I’ve had also quite a few bad broccoli cheddar soups in my life (school cafeteria, anyone?) — floury, bland, watery, and sometimes the broccoli inside would still be crunchy (yikes). But, in pursuit of the Panera Bread dreams of my childhood, I took to experimenting with making it at home.
 
-Nowadays, whenever we’re craving some savory, cheesy goodness, I make my broccoli cheddar soup. I think it might even be better than Panera’s! After a lot of recipe testing, I’ve figured out the secret to getting the best flavor: the correct blend of spices! Not curry spices, but a little bit of garlic powder, nutmeg, and black pepper work wonders. You don’t notice them, but they add the best depth of flavor to the soup.
+Nowadays, whenever I'm craving some savory, cheesy comfort, I can make my broccoli cheddar soup. After a lot of recipe testing, I’ve figured out the secret to getting the best flavor: the correct blend of spices. Not spices as in curry spices, but just a little bit of garlic powder, nutmeg, and black pepper. You don’t overtly notice them, but they add the best depth of flavor to the soup.
 
 ![broccoli cheddar soup](../../broccoli_soup_spoon.jpeg)
 

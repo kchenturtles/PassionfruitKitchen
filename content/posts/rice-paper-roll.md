@@ -1,11 +1,11 @@
 ---
-title: "Rice Paper Sushi Rolls"
+title: "Rice Paper Sushi"
 date: 2024-04-19T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["one-pot"]
 tags: ["vegetarian", "pescetarian", "dairy-free", "gluten-free"]
 toc: true
-summary: "My family likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes great! We usually make it with surimi, cucumber, and avocado, sometimes we swap surimi for smoked salmon. So, how did this recipe come about? Well, a few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not wrap sushi in it? "
+summary: "My family sometimes likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes pretty good. We usually make it with surimi, cucumber, and avocado; sometimes we swap surimi for smoked salmon. So, how did this recipe come about? A few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not use it in sushi?"
 dropCap: true
 displayInMenu: true
 summer: true
@@ -18,11 +18,11 @@ resources:
 
 ![rice-paper-roll thumbnail](../../rice-paper-roll/rice-paper-roll-1.jpg)
 
-My family likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes great! We usually make it with surimi, cucumber, and avocado, sometimes we swap surimi for smoked salmon. So, how did this recipe come about? Well, a few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not wrap sushi in it? A bit like a sushi burrito but more self-contained, and it adds a cool chew to the outside of the sushi roll. It's been a huge hit with my family!
+My family sometimes likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes pretty good. We usually make it with surimi, cucumber, and avocado; sometimes we swap surimi for smoked salmon. So, how did this recipe come about? A few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not use it in sushi? It turns out a bit like a sushi burrito, and the rice paper adds a good textural contrast to the sushi roll. 
 
 ## Ingredients
 
-Take your typical sushi recipe, add rice paper, that's pretty much this recipe. It makes a great lunch or snack!
+Take your typical sushi recipe, add rice paper, and that's pretty much this recipe. It makes a great lunch or snack!
 
 - Sushi rice
 - Rice vinegar
@@ -42,7 +42,7 @@ You'll need to start by making sushi rice. It's pretty simple actually -- you ju
 
 ## Tips
 
-- Don't oversoak the rice paper, getting it wet on both sides is usually enough! It'll soften up over time and once you're done with the sushi roll the rice paper will be ready to wrap it.
+- Don't oversoak the rice paper to the point where it becomes too soft to work with. Just dip it in water on both sides. It'll soften up over time and once you're done with the sushi roll the rice paper will be ready to wrap it.
 - Have some extra ingredients on hand, to account for snacking while making them ;)
 - Feel free to customize the fillings as you want! If you can get sushi-grade fish, that is a great option.
 - The rolls are best eaten fresh, as sushi doesn't keep well overnight.

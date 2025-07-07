@@ -3,7 +3,7 @@ title: "Breakfast Strata"
 date: 2024-11-28T00:35:51-05:00
 categories: ["dinner", "lunch", "breakfasts"]
 tags: ["pescetarian", "vegetarian"]
-summary: "This might be the best thing I've ever made. And that's saying a lot. But everyone who tried this thinks the same thing, so...yeah, it's pretty tasty. Strata is a bit like a savory bread pudding, or stale bread baked in custard, and this take is pretty great!"
+summary: "This might be the best thing I've ever made. And that's saying a lot, but I made this for my family this Thanksgiving, and everyone pretty much agreed with that sentiment, so count that as evidence if you wish. This dish is a take on strata, which is a bit like a savory bread pudding."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -15,9 +15,9 @@ resources:
 
 ![strata](../../strata/strata-thumbnail.jpg)
 
-This might be the best thing I've ever made. And that's saying a lot. But everyone who tried this thinks the same thing, so...yeah, it's pretty tasty. Strata is a bit like a savory bread pudding, or stale bread baked in custard, and this take is pretty great!
+This might be the best thing I've ever made. And that's saying a lot, but I made this for my family this Thanksgiving, and everyone pretty much agreed with that sentiment, so count that as evidence if you wish. This dish is a take on strata, which is a bit like a savory bread pudding.
 
-Happy Thanksgiving to all who celebrate! Funny story, I actually made this while attempting to make stuffing for Thanksgiving. Except we were out of vegetable stock, and celery, and herbs, and like...everything you need for stuffing...oops, my fault for writing the grocery list in a hurry. So I had to improvise, and I ended up deciding to pivot to milk instead of stock, which basically turns it from stuffing to bread in custard, which is strata. Strata also has more eggs in it than stuffing. I used cheese, vegetarian bacon, onions, and scallions for the flavoring, but the great thing about this recipe is that it's easy to swap out ingredients depending on what you have. 
+Happy Thanksgiving to all who celebrate! Funny story, I actually made this while attempting to make stuffing for Thanksgiving. As it turned out, we were out of vegetable stock, and celery, and herbs, and like...everything you need for stuffing...oops, my fault for writing the grocery list in a hurry. So I had to improvise, and I ended up deciding to pivot to using milk instead of stock, which basically turns it from stuffing (bread soaked in eggs and stock) to bread pudding (bread soaked in milk and eggs), which is strata. Strata also has more eggs in it than stuffing. I used cheese, vegetarian bacon, onions, and scallions for this dish, but the great thing about this recipe is that it's easy to swap out ingredients depending on what you have. 
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ date: 2023-08-05T20:08:01-04:00
 categories: ["desserts", "snacks"]
 featured_categories: []
 tags: ["vegetarian", "pescetarian"]
-summary: "While round cheesecakes are impressive when you do get them right, I prefer to hedge my bets by making cheesecake bars. I prefer their taste over regular cheesecake because they have a higher crust to filling ratio, so they're more balanced. And they are much easier to make!"
+summary: "While springform pan cheesecakes are impressive when you do get them right, I prefer to hedge my bets by making cheesecake bars. I actually like them more than traditional springform pan cheesecakes because they have a higher crust to filling ratio, and I think it makes it more texturally enjoyable. And, as a bonus, cheesecake bars are much harder to mess up!"
 toc: true
 dropCap: true
 displayInMenu: true
@@ -18,7 +18,7 @@ resources:
 
 ![cheesecake bars](../../cheesecake-bars/cheesecake-aerial.jpeg)
 
-Cheesecake has a reputation for being hard to make. It's a pretty deserved reputation -- if you've ever tried to follow a recipe for a full round cheesecake, you've probably ended up in a mess of weird oven temperatures, water baths, propping the oven open...only for the cheesecake to still crack. While round cheesecakes are impressive when you do get them right, I prefer to hedge my bets by making cheesecake bars. I prefer their taste over regular cheesecake because they have a higher crust to filling ratio, so they're more balanced. And they are much easier to make! In fact, my recipe for cheesecake can be entirely made in a food processor. You start by pulverizing the graham crackers and mixing the crust, then you blend the cheesecake filling ingredients in there as well. If you don't mind some graham cracker crumbs in your cheesecake filling, you don't even need to clean the food processor in between. All in all, I could probably assemble this whole cheesecake in under 30 minutes.
+Cheesecake has a reputation for being hard to make. It's a pretty deserved reputation -- if you've ever tried to follow a recipe for a full round cheesecake, you've probably ended up in a mess of weird oven temperatures, water baths, and propping the oven open...only for the cheesecake to still crack. While springform pan cheesecakes are impressive when you do get them right, I prefer to hedge my bets by making cheesecake bars. I actually like them more than traditional springform pan cheesecakes because they have a higher crust to filling ratio, and I think it makes it more texturally enjoyable. And, as a bonus, cheesecake bars are much harder to mess up! In fact, my recipe for cheesecake can be entirely made in a food processor. You start by pulverizing the graham crackers and mixing the crust, then you blend the cheesecake filling ingredients in there as well. If you don't mind some graham cracker crumbs in your cheesecake filling, you don't even need to clean the food processor in between. All in all, I could probably assemble this recipe in under 30 minutes.
 
 ## Ingredients
 
