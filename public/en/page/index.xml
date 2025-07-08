@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Passionfruit Kitchen</title>
-    <link>http://localhost:1313/PassionfruitKitchen/en/page/</link>
+    <link>http://localhost:55220/PassionfruitKitchen/en/page/</link>
     <description>Recent content in Pages on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Apr 2019 17:46:35 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/page/about/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/page/about/</link>
       <pubDate>Tue, 23 Apr 2019 17:46:35 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/page/about/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/page/about/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;passionfruit&#34; src=&#34;../../passionfruit.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to Passionfruit Kitchen! I’m Kendree, a part-time food blogger and student. I love to cook for my family, and I started this blog to share some of my favorite recipes! I especially enjoy exploring and sharing my Chinese heritage through my cooking – usually with a pescatarian twist!&lt;/p&gt;</description>
     </item>
   </channel>

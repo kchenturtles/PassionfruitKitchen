@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snacks on Passionfruit Kitchen</title>
-    <link>http://localhost:1313/PassionfruitKitchen/en/categories/snacks/</link>
+    <link>http://localhost:55220/PassionfruitKitchen/en/categories/snacks/</link>
     <description>Recent content in Snacks on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Dec 2024 13:39:35 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/categories/snacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baked Brie Pastries</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/baked-brie/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/baked-brie/</link>
       <pubDate>Tue, 31 Dec 2024 13:39:35 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/baked-brie/</guid>
-      <description>This is a great appetizer that looks fancy, tastes amazing, and is actually very simple to make! It&amp;rsquo;s a riff on Baked Brie, which is a common holiday appetizer, but redesigned to be in the form of shareable pastries.</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/baked-brie/</guid>
+      <description>This is a festive dish that looks fancy, tastes amazing, and is actually very simple to make! It&amp;rsquo;s a riff on Baked Brie, which is a common holiday appetizer, but reimagined to be in individual pastry form. It makes a great appetizer.</description>
     </item>
     <item>
       <title>Pigs in a Blanket</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/pigs-in-a-blanket/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/pigs-in-a-blanket/</link>
       <pubDate>Thu, 31 Oct 2024 00:24:55 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/pigs-in-a-blanket/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/pigs-in-a-blanket/</guid>
       <description>Wow, it&amp;rsquo;s been busy recently! I&amp;rsquo;ve been sticking to the simple recipes to get by: just a couple of ingredients, not too many dishes dirtied, less prep work. Luckily for me, these vegetarian pigs in a blanket check all of those boxes, and they taste great!</description>
     </item>
     <item>
       <title>Sunshine Smoothie Bowl</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</link>
       <pubDate>Wed, 18 Sep 2024 11:11:14 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</guid>
       <description>Wow, I&amp;rsquo;m excited about this one! It&amp;rsquo;s so simple yet so good - I think I&amp;rsquo;ve made it like six times this month already. I call it a sunshine smoothie bowl because of the color, but to be more specific it&amp;rsquo;s an amazing tropical smoothie bowl - mango, pineapple, banana (and anything else you might want to add!) I&amp;rsquo;ve got a neat trick as well for making sure it&amp;rsquo;s thick enough to scoop.</description>
     </item>
     <item>
-      <title>Savory Crepe, Jian Bing Style</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/jianbing-crepe/</link>
+      <title>Jian Bing Crepe</title>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/jianbing-crepe/</link>
       <pubDate>Sun, 04 Aug 2024 20:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/jianbing-crepe/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/jianbing-crepe/</guid>
       <description>My dad&amp;rsquo;s favorite food is probably jian bing, a Chinese street food that usually consists of a crispy whole-wheat crepe filled with egg, black bean sauce, scallions, sometimes lettuce, and a crispy cracker or fried dough piece. As a little bit of fun, this Father&amp;rsquo;s Day I made a version using French crepe batter, which produces a smoother and softer crepe than the traditional Chinese Version. I don&amp;rsquo;t have the plate that vendors typically use to make jian bing, but I made do with what I had. This dish is essentially my recreation of a jian bing, just a little bit simpler and quicker to make!</description>
     </item>
     <item>
       <title>Vegetarian Gua Bao</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/vegetarian-gua-bao/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/vegetarian-gua-bao/</link>
       <pubDate>Tue, 02 Jul 2024 20:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/vegetarian-gua-bao/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/vegetarian-gua-bao/</guid>
       <description>Gua bao is a dish I grew up with! Basically, it&amp;rsquo;s often eaten as a split bun stuffed with pork belly and cucumber and sometimes other toppings like cilantro. Although as a child, my strongest memory is taking those split buns and making them into odd fusion PB&amp;amp;J sandwiches! After I went pescetarian, I missed having gua bao, so I came up with a vegetarian substitute that swaps mushrooms for pork belly. It tastes just as good!</description>
     </item>
     <item>
       <title>Rice Paper Sushi</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/rice-paper-roll/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/rice-paper-roll/</link>
       <pubDate>Fri, 19 Apr 2024 20:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/rice-paper-roll/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/rice-paper-roll/</guid>
       <description>My family sometimes likes to make sushi at home. Granted, it&amp;rsquo;s probably not very authentic, but it still tastes pretty good. We usually make it with surimi, cucumber, and avocado; sometimes we swap surimi for smoked salmon. So, how did this recipe come about? A few weeks ago I was grocery shopping and bought some rice paper, mostly because I&amp;rsquo;ve seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea &amp;ndash; why not use it in sushi?</description>
     </item>
     <item>
       <title>Valentines Day Dango</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/dango/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/dango/</link>
       <pubDate>Wed, 07 Feb 2024 20:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/dango/</guid>
-      <description>Happy Valentines Day! In honor of the holiday, I figured I should take advantage of that bottle of pink food coloring in my baking cabinet (fun fact, it’s the only color I have!) This is inspired by hanami dango, which is one of the cutest desserts I’ve ever had. I love dango because they are so simple, not to sweet, and so chewy. Traditionally hanami dango are pink, white, and green, but I made it with just pink and white for Valentines Day!</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/dango/</guid>
+      <description>Happy Valentines Day! In honor of the holiday, I figured I should take advantage of the bottle of pink food coloring in my baking cabinet (it&amp;rsquo;s actually the only color of food coloring I have). This recipe is inspired by hanami dango, which is one of the cutest desserts ever, in my opinion. I love dango it is so simple, not too sweet, and so chewy. Traditionally hanami dango are pink, white, and green, but I made it with just pink and white for Valentines Day.</description>
     </item>
     <item>
       <title>Slow Cooker Applesauce</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/slow-cooker-applesauce/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/slow-cooker-applesauce/</link>
       <pubDate>Wed, 24 Jan 2024 20:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/slow-cooker-applesauce/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/slow-cooker-applesauce/</guid>
       <description>I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old, and it was time to use them up. Usually with apples, I would make apple crisp or apple pie, but with robotics season starting I didn&amp;rsquo;t have time. So my solution? Slow cooker applesauce! It&amp;rsquo;s great because you can set it and forget it until it&amp;rsquo;s ready, it tastes great, and it makes the house smell so cozy, which is just what you need in these winter months. (Now the only question is squeezing 10 apples into my slow cooker&amp;hellip;)</description>
     </item>
     <item>
       <title>Egg Toast</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/korean-egg-toast/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/korean-egg-toast/</link>
       <pubDate>Sun, 24 Dec 2023 20:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/korean-egg-toast/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/korean-egg-toast/</guid>
       <description>This winter, I got introduced to Korean egg toast, and I&amp;rsquo;m pretty sure I&amp;rsquo;ve had it like every day this week. It&amp;rsquo;s so good &amp;ndash; the softest, fluffiest egg ever, folded into sweet brioche bread and topped with the perfect sweet-and-savory sauce. My favorite toast also has cheese and avocado! Of course I had to try to figure out how to make it at home, so here is what I came up with!</description>
     </item>
     <item>
       <title>Chewy Brown Butter Mochi</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/chewy-butter-mochi/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/chewy-butter-mochi/</link>
       <pubDate>Wed, 15 Nov 2023 20:07:55 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/chewy-butter-mochi/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/chewy-butter-mochi/</guid>
       <description>Butter mochi is becoming popular these days. It originates from Hawaii, and fuses traditional Japanese mochi with Western ingredients. Unlike Japanese mochi, it&amp;rsquo;s baked, and can be cut into bars. This gives it a different texture &amp;ndash; a little bit crispy, and more fluffy.</description>
     </item>
     <item>
       <title>The Best Cheesecake Bars</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/cheesecake-bars/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/cheesecake-bars/</link>
       <pubDate>Sat, 05 Aug 2023 20:08:01 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/cheesecake-bars/</guid>
-      <description>While round cheesecakes are impressive when you do get them right, I prefer to hedge my bets by making cheesecake bars. I prefer their taste over regular cheesecake because they have a higher crust to filling ratio, so they&amp;rsquo;re more balanced. And they are much easier to make!</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/cheesecake-bars/</guid>
+      <description>While springform pan cheesecakes are impressive when you do get them right, I prefer to hedge my bets by making cheesecake bars. I actually like them more than traditional springform pan cheesecakes because they have a higher crust to filling ratio, and I think it makes it more texturally enjoyable. And, as a bonus, cheesecake bars are much harder to mess up!</description>
     </item>
     <item>
       <title>Quick Roasted Broccoli</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</link>
       <pubDate>Mon, 22 May 2023 22:55:04 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</guid>
       <description>Roasted broccoli is simple, healthy, and versatile. It’s a quick recipe, easy to customize, and surprisingly addictive. I made a batch of roasted broccoli a few days ago, and my family snacked on it before dinner until half of it was gone!</description>
     </item>
     <item>
       <title>5 Ingredient Peanut Butter Blossoms</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/5-ingredient-peanut-butter-blossoms/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/5-ingredient-peanut-butter-blossoms/</link>
       <pubDate>Fri, 05 May 2023 20:08:33 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/5-ingredient-peanut-butter-blossoms/</guid>
-      <description>Peanut butter cookies are usually a big disappointment for me. Peanut butter cookies tend to bake up very dry because of the way that the peanut butter affects the cookie texture. And that&amp;rsquo;s a huge shame, because peanut butter is so delicious on its own!</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/5-ingredient-peanut-butter-blossoms/</guid>
+      <description>Peanut butter cookies are usually a big disappointment for me. Peanut butter cookies tend to bake up very dry because of the way that the extra fat in the peanut butter affects the cookie texture. And that&amp;rsquo;s a huge shame, because peanut butter flavored cookies sound like such a good idea in your head.</description>
     </item>
     <item>
       <title>Banana Coffee Cake</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/banana-coffee-cake/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/banana-coffee-cake/</link>
       <pubDate>Thu, 05 Jan 2023 20:07:42 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/banana-coffee-cake/</guid>
-      <description>Banana bread is a classic bake, and it definitely got more popular during lockdown! My dad makes an awesome banana bread that I&amp;rsquo;ll always love, but I was looking for a moister banana bread. I combined this banana bread recipe with a recipe for coffee cake (because who doesn&amp;rsquo;t love streusel?) and the combination was stellar!</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/banana-coffee-cake/</guid>
+      <description>Banana bread is a classic recipe, and it definitely got a lot more popular during COVID lockdown. My dad makes an awesome banana bread that I&amp;rsquo;ll always have nostalgia for, but I was recently looking to develop a recipe for a moister banana bread. I ended up combining a banana bread recipe with a recipe for coffee cake (because who doesn&amp;rsquo;t love streusel?) and it turned out really nicely.</description>
     </item>
     <item>
       <title>Ube Mooncakes</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/ube-mooncakes/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/ube-mooncakes/</link>
       <pubDate>Sat, 12 Nov 2022 20:24:28 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/ube-mooncakes/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/ube-mooncakes/</guid>
       <description>Mooncakes are a symbolic dessert traditionally eaten on the Mid Autumn Festival. They are decorated with elaborate stamped designs and characters on top. Mooncakes are traditionally baked pastries with a rich filling. The pastry layer is akin to a soft cookie, while the filling can be savory or sweet. Traditional fillings include lotus seed paste with salted egg yolk, red bean paste, mixed nutes, and jujube or date paste.</description>
     </item>
     <item>
       <title>How To Set Up a Cheeseboard</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</link>
       <pubDate>Fri, 12 Aug 2022 20:07:11 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/how-to-set-up-a-cheeseboard/</guid>
       <description>A big cheeseboard is also the perfect appetizer at a holdiay party! I always used to see all these photos of fancy cheeseboards on Instagram and Pinterest, and I’d wish I could make something similar. There are a few steps to making a cheeseboard, which I cover in this guide.</description>
     </item>
     <item>
       <title>Oatmeal Muffins (5 ways!)</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</link>
       <pubDate>Sat, 09 Apr 2022 20:24:00 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</guid>
       <description>A lot of muffins I find in stores are very sweet and very dry, so I prefer to make my own. Homemade muffins are the best, especially warm out of the oven. They only need a bowl and a whisk, and they’re so easy to customize! My recipe has no refined sugar and has oats for added fiber and texture.</description>
     </item>
     <item>
       <title>Easy Shrimp Cocktail (2 ways!)</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</link>
       <pubDate>Wed, 16 Jun 2021 21:12:02 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</guid>
       <description>I know you can buy the elements at the store, but I prefer to make this shrimp cocktail from scratch. It’s only a few ingredients and takes barely any time at all. Plus, it’s better made fresh. For a spin on the classic, I replaced the typical super-sweet ketchup with a homemade tomato sauce that’s tomatoey, spicy, just the right amount of sweet, and absolutely delish. I also made another version with a mango chili dipping sauce, which is an awesome combination with the shrimp!</description>
     </item>
     <item>
       <title>Sesame Honey Cauliflower Wings</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</link>
       <pubDate>Sat, 02 Jan 2021 21:04:12 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/sesame-honey-cauliflower-wings/</guid>
       <description>Cauliflower wings are an awesome vegetarian snack! I first made cauliflower wings when I made vegetarian buffalo wings for the Super Bowl, but I don’t love buffalo sauce, so I came up with a sesame-honey version instead. The sauce is sticky, sweet, and garlicky, and the cauliflower wings are deliciously crunchy.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casseroles on Passionfruit Kitchen</title>
-    <link>http://localhost:1313/PassionfruitKitchen/en/featured_categories/casseroles/</link>
+    <link>http://localhost:55220/PassionfruitKitchen/en/featured_categories/casseroles/</link>
     <description>Recent content in Casseroles on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 22 Jun 2021 22:54:34 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/featured_categories/casseroles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/featured_categories/casseroles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vegetable Fritatta</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/vegetable-fritatta/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/vegetable-fritatta/</link>
       <pubDate>Tue, 22 Jun 2021 22:54:34 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/vegetable-fritatta/</guid>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/vegetable-fritatta/</guid>
       <description>Fritattas are a great dish to make anytime: They’re easy to whip up, and they’re great for pretty much any meal. Plus, they’re super customizable, and you can use them to clean leftover produce out of your fridge. You can customize the mix-ins if you desire!</description>
     </item>
   </channel>

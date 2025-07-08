@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pastas on Passionfruit Kitchen</title>
-    <link>http://localhost:1313/PassionfruitKitchen/en/categories/pastas/</link>
+    <link>http://localhost:55220/PassionfruitKitchen/en/categories/pastas/</link>
     <description>Recent content in Pastas on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 28 Feb 2025 17:57:50 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/pastas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/categories/pastas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Butternut Squash Lasagna</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/butternut-squash-lasagna/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/butternut-squash-lasagna/</link>
       <pubDate>Fri, 28 Feb 2025 17:57:50 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/butternut-squash-lasagna/</guid>
-      <description>This recipe actually came about at my sister&amp;rsquo;s request! She was visiting home and telling me about this dish she makes at college: lasagna with butternut squash. When I at first heard that, I was so skeptical &amp;ndash; after all, it seems like something that would get you in trouble with the Italians. But she likes it a lot, so I figured that I would give it a try. After hearing about how she makes it, though&amp;hellip;I figured I could improve on it a bit.</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/butternut-squash-lasagna/</guid>
+      <description>This recipe actually came about at my sister&amp;rsquo;s request! She was visiting home and telling me about this dish she makes at college: lasagna with butternut squash. When I at first heard that, I was so skeptical &amp;ndash; after all, it seems like something that would get you in trouble with generations of Italian tradition. But she likes it a lot, so I figured that I would give it a try and see if I could improve on it.</description>
     </item>
     <item>
-      <title>Four-Cheese Cheesy Shells</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/cheesy-shells/</link>
+      <title>Cheesy Shells</title>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/cheesy-shells/</link>
       <pubDate>Mon, 02 Oct 2023 16:12:43 -0500</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/cheesy-shells/</guid>
-      <description>This is a pretty awesome mac and cheese recipe. It&amp;rsquo;s got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior shape (I will die on this hill). It&amp;rsquo;s extra saucy, because the saucier the better. It&amp;rsquo;s salty, cheesy, and has a bit of a kick (adjustable levels!) Peak comfort food right here.</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/cheesy-shells/</guid>
+      <description>This is a pretty awesome mac and cheese recipe. It&amp;rsquo;s got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior shape (I will die on this hill). It&amp;rsquo;s extra saucy, because the saucier the better. It&amp;rsquo;s salty, cheesy, and has a bit of a kick; peak comfort food right here.</description>
     </item>
     <item>
       <title>Creamy Tomato Penne</title>
-      <link>http://localhost:1313/PassionfruitKitchen/en/posts/creamy-tomato-penne/</link>
+      <link>http://localhost:55220/PassionfruitKitchen/en/posts/creamy-tomato-penne/</link>
       <pubDate>Thu, 07 Jul 2022 20:24:47 -0400</pubDate>
-      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/creamy-tomato-penne/</guid>
-      <description>I love pasta alla vodka, but it does require two pots – one to boil the water, and one to mix the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe!</description>
+      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/creamy-tomato-penne/</guid>
+      <description>I love pasta alla vodka, but it does require two pots – one to boil the water, and one to make the sauce. I was craving a good tomatoey pasta the other night, and I happened to have the idea to try a one-pot version, where the pasta cooks in the sauce (please don’t come for me, Italians.) The pasta turned out delicious, and it was so easy to make that I knew I had to put it in a recipe!</description>
     </item>
   </channel>
 </rss>
