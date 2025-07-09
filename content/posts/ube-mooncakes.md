@@ -1,6 +1,6 @@
 ---
 title: "Ube Mooncakes"
-date: 2022-11-12T20:24:28-04:00
+date: 2024-09-12T20:24:28-04:00
 categories: ["desserts", "snacks"]
 featured_categories: ["desserts", "snacks"]
 tags: ["vegetarian", "pescetarian", "dairy-free"]
@@ -10,7 +10,6 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
-summer: true
 thumbnail: mooncakes/mooncakes-thumbnail.jpeg
 resources:
 ---

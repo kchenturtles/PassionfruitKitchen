@@ -10,6 +10,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 draft: false
+independence: true
 thumbnail: croissant-dogs/croissant-dogs-thumbnails.jpg
 resources:
 ---

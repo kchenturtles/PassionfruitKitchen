@@ -1,6 +1,6 @@
 ---
 title: "Vegetable Fritatta"
-date: 2021-06-22T22:54:34-04:00
+date: 2024-06-23T22:54:34-04:00
 categories: ["dinner", "lunch", "quick & easy", "casseroles", "one-pot"]
 featured_categories: ["quick & easy", "casseroles", "one-pot"]
 tags: ["vegetarian", "gluten-free"]
@@ -9,6 +9,7 @@ summary: "Fritattas are a great dish to make anytime: They’re easy to whip up,
 dropCap: true
 displayInMenu: true
 displayInList: true
+casserole: true
 draft: false
 featured: true
 thumbnail: tomato_fritatta_aerial.jpg

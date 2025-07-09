@@ -1,6 +1,6 @@
 ---
 title: "Butternut Squash Lasagna"
-date: 2025-02-28T17:57:50-04:00
+date: 2025-04-08T17:57:50-04:00
 categories: ["dinner", "lunch", "pastas"]
 featured_categories: []
 tags: ["vegetarian", "pescetarian"]
@@ -8,6 +8,7 @@ summary: "This recipe actually came about at my sister's request! She was visiti
 toc: true
 dropCap: true
 displayInMenu: true
+casserole: true
 displayInList: true
 draft: false
 thumbnail: butternut.jpg

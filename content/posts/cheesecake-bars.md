@@ -1,6 +1,6 @@
 ---
 title: "The Best Cheesecake Bars"
-date: 2023-08-05T20:08:01-04:00
+date: 2024-08-05T20:08:01-04:00
 categories: ["desserts", "snacks"]
 featured_categories: []
 tags: ["vegetarian", "pescetarian"]

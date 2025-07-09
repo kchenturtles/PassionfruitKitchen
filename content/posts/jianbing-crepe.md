@@ -1,6 +1,6 @@
 ---
 title: "Jian Bing Crepe"
-date: 2024-08-04T20:24:47-04:00
+date: 2023-08-04T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]

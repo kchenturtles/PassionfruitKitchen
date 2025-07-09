@@ -1,6 +1,6 @@
 ---
 title: "Broccoli Cheddar Soup"
-date: 2022-01-12T22:53:59-04:00
+date: 2024-01-12T22:53:59-04:00
 categories: ["dinner", "lunch", "quick & easy", "soups & stews", "one-pot"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["vegetarian", "gluten-free"]
@@ -9,8 +9,8 @@ summary: "Who else loves broccoli cheddar soup? I adored it as a kid, and for me
 dropCap: true
 displayInMenu: true
 displayInList: true
+one-pot: true
 draft: false
-summer: true
 thumbnail: broccoli_soup_thumbnail.jpeg
 resources:
 - name: featuredImage

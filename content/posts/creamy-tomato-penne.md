@@ -1,6 +1,6 @@
 ---
 title: "Creamy Tomato Penne"
-date: 2022-07-07T20:24:47-04:00
+date: 2023-07-07T20:24:47-04:00
 categories: ["one-pot", "dinner", "lunch", "quick & easy", "pastas"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]

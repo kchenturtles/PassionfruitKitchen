@@ -8,6 +8,7 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
+independence: true
 draft: false
 thumbnail: strata/strata-thumbnail.jpg
 resources:

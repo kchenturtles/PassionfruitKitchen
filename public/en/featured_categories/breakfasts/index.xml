@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breakfasts on Passionfruit Kitchen</title>
-    <link>http://localhost:55220/PassionfruitKitchen/en/featured_categories/breakfasts/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/featured_categories/breakfasts/</link>
     <description>Recent content in Breakfasts on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 18 Sep 2024 11:11:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/featured_categories/breakfasts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/featured_categories/breakfasts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sunshine Smoothie Bowl</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</link>
       <pubDate>Wed, 18 Sep 2024 11:11:14 -0500</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/sunshine-smoothie-bowl/</guid>
       <description>Wow, I&amp;rsquo;m excited about this one! It&amp;rsquo;s so simple yet so good - I think I&amp;rsquo;ve made it like six times this month already. I call it a sunshine smoothie bowl because of the color, but to be more specific it&amp;rsquo;s an amazing tropical smoothie bowl - mango, pineapple, banana (and anything else you might want to add!) I&amp;rsquo;ve got a neat trick as well for making sure it&amp;rsquo;s thick enough to scoop.</description>
     </item>
     <item>
       <title>Oatmeal Muffins (5 ways!)</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</link>
       <pubDate>Sat, 09 Apr 2022 20:24:00 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/oatmeal-muffins-5-ways/</guid>
       <description>A lot of muffins I find in stores are very sweet and very dry, so I prefer to make my own. Homemade muffins are the best, especially warm out of the oven. They only need a bowl and a whisk, and they’re so easy to customize! My recipe has no refined sugar and has oats for added fiber and texture.</description>
     </item>
     <item>
       <title>5 Spice Pumpkin Pie</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/5-spice-pumpkin-pie/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/5-spice-pumpkin-pie/</link>
       <pubDate>Thu, 25 Nov 2021 20:24:40 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/5-spice-pumpkin-pie/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/5-spice-pumpkin-pie/</guid>
       <description>Pumpkin pie was one of the first things I ever learned how to bake! I originally used the Libby’s pumpkin pie recipe, but after a while, I got sick of baking the same recipe again and again. So I started to tinker with the recipe, and I came up with the idea of using Chinese five spice instead of pumpkin pie spice. It gives the pie so much more depth of flavor.</description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 ---
 title: "Brown Rice 'Jambalaya' (Instant Pot Recipe!)"
-date: 2022-09-30T20:24:06-04:00
+date: 2023-03-30T20:24:06-04:00
 categories: ["one-pot", "dinner", "seafood"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free", "vegetarian"]
@@ -10,6 +10,7 @@ dropCap: true
 displayInMenu: true
 displayInList: true
 independence: true
+one-pot: true
 draft: false
 thumbnail: jambalaya/jambalaya-thumbnail.jpeg
 resources:
@@ -17,7 +18,7 @@ resources:
 
 ![jambalaya thumbnail](../../jambalaya/jambalaya-thumbnail.jpeg)
 
-My dream food city is probably New Orleans. New Orleans cuisine is very distinct, and it has influences of French, Spanish, African, and Native American food. I especially love jambalaya, which is a dish made of rice and meat – often andouille sausage, chicken and shrimp. It is cooked with vegetables, typically the “holy trinity” of green bell pepper, celery, and onion, and Creole or Cajun spices. Some versions contain tomatoes, and some don’t.
+My dream food destination is probably New Orleans. New Orleans cuisine is very distinct, and it has influences of French, Spanish, African, and Native American food. I especially love jambalaya, which is a dish made of rice and meat – often andouille sausage, chicken and shrimp. It is cooked with vegetables, typically the “holy trinity” of green bell pepper, celery, and onion, and Creole or Cajun spices. Some versions contain tomatoes, and some don’t.
 
 I love jambalaya. It’s traditionally not pescetarian, so I swapped chicken for mushrooms and used vegetarian sausage to make my version. I also used brown rice instead of white rice, since that’s my family’s favorite type of rice. It also adds body to the jambalaya, so I prefer using it, even though it isn’t traditional. Since I don’t usually have the patience to cook the rice on a stovetop, I used my instant pot instead to make it. It’s one of my family’s favorite dishes!
 

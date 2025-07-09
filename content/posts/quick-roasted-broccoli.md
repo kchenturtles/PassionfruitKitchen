@@ -1,6 +1,6 @@
 ---
 title: "Quick Roasted Broccoli"
-date: 2023-05-22T22:55:04-04:00
+date: 2022-09-22T22:55:04-04:00
 categories: ["dinner", "lunch", "quick & easy", "salads", "snacks", "sides"]
 featured_categories: ["quick & easy"]
 tags: ["vegetarian", "gluten-free", "dairy-free"]

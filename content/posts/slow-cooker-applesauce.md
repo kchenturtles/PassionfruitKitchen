@@ -1,6 +1,6 @@
 ---
 title: "Slow Cooker Applesauce"
-date: 2024-01-24T20:24:47-04:00
+date: 2025-01-24T20:24:47-04:00
 categories: ["desserts", "snacks"]
 featured_categories: ["one-pot"]
 tags: ["vegetarian", "pescetarian", "dairy-free", "gluten-free"]
@@ -8,7 +8,6 @@ toc: true
 summary: "I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old, and it was time to use them up. Usually with apples, I would make apple crisp or apple pie, but with robotics season starting I didn't have time. So my solution? Slow cooker applesauce! It's great because you can set it and forget it until it's ready, it tastes great, and it makes the house smell so cozy, which is just what you need in these winter months. (Now the only question is squeezing 10 apples into my slow cooker...)"
 dropCap: true
 displayInMenu: true
-summer: true
 displayInList: true
 draft: false
 thumbnail: applesauce/applesauce-stacked.jpg

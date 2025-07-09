@@ -1,6 +1,6 @@
 ---
 title: "Ratatouille Shakshuka"
-date: 2022-06-29T20:24:55-04:00
+date: 2022-07-29T20:24:55-04:00
 categories: ["casseroles", "dinner", "one-pot", "lunch", "quick & easy"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free", "vegetarian"]
@@ -9,7 +9,6 @@ dropCap: true
 summary: "I know this probably sounds weird, but ratatouille + shakshuka is a surprisingly good combo. If you’ve never heard of ratatouille before, it’s a French Provencal vegetable stew typically made with the freshest of summer produce – zucchini, tomatoes, eggplant. Shakshuka is a dish of eggs poached in tomato sauce, which has many variations that can be found around the Mediterranean and Northern Africa."
 displayInMenu: true
 displayInList: true
-casserole: true
 draft: false
 thumbnail: ratatouille-eggs/ratatouille-thumbnail.jpeg
 resources:

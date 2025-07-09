@@ -1,14 +1,15 @@
 ---
 title: "Chewy Brown Butter Mochi"
-date: 2023-11-15T20:07:55-04:00
+date: 2025-03-15T20:07:55-04:00
 categories: ["desserts", "snacks"]
 featured_categories: []
 tags: ["gluten-free", "vegetarian"]
-summary: "Butter mochi is becoming popular these days. It originates from Hawaii, and fuses traditional Japanese mochi with Western ingredients. Unlike Japanese mochi, it's baked, and can be cut into bars. This gives it a different texture -- a little bit crispy, and more fluffy."
+summary: "Butter mochi is becoming more popular these days, or at least I hear about it more often on the food side of Instagram and on trendy cafe menus. I do think that when cultural dishes like this start being seen as 'trendy,' it's important that people stay respectful to history of the original dish."
 toc: true
 dropCap: true
 displayInMenu: true
 breakfast: true
+summer: true
 displayInList: true
 draft: false
 thumbnail: butter-mochi/butter-mochi-glass.jpeg
@@ -17,7 +18,11 @@ resources:
 
 ![butter mochi](../../butter-mochi/butter-mochi-glass.jpeg)
 
-Butter mochi is becoming popular these days. It originates from Hawaii, and fuses traditional Japanese mochi with Western ingredients. Unlike Japanese mochi, it's baked, and can be cut into bars. This gives it a different texture -- a little bit crispy, and more fluffy. The butter makes it taste delicious. As an experiment, I tried making butter mochi with browned butter instead of regular melted butter. Browning butter is when you melt it and keep it over the heat once it is melted, until the water boils off and the milk solids in the butter toast, giving it an amazing nutty, caramelly aroma. Brown butter gives this butter mochi an extra oomph, and it's delicious!
+Butter mochi is becoming more popular these days, or at least I hear about it more often on the food side of Instagram and on trendy cafe menus. I do think that when cultural dishes like this start being seen as 'trendy,' it's important that people stay respectful to the history of the original dish.
+
+Butter mochi comes from Hawaii, and the tradition of a baked sticky rice dessert in Hawaii is speculated to have originated due to the influence of Japanese immigrants (and the subsequent introduction of glutinous rice flour as a staple starch), or alternatively from the Filipino baked dessert bibingka, also brought to the Hawaiian islands by Filipino immigrants. An exact origin story has yet to be agreed upon by food historians, but nevertheless, it's a clear testament to the unique melting pot of Asian and Pacific influences in Hawaiian culture. Butter mochi seems to be pretty ubiquitous in Hawaii nowadays -- I remember seeing it sold everywhere from local bakeries to gas station convenience stores when I was visiting the island of Maui.
+
+What might first come to mind when you think about mochi is probably mochi ice cream or pounded mochi. Unlike these, Hawaiian butter mochi is baked, with ingredients remiscent of a cake -- eggs and butter. This contributes to a fluffier texture with crispy edges. As an experiment, I tried making butter mochi with browned butter instead of regular melted butter. Browning butter is when you melt it and keep it over the heat once it is melted, until the water boils off and the milk solids in the butter toast, giving it an amazing nutty, caramelly aroma. Brown butter gives this butter mochi an extra depth of flavor, and it's delicious.
 
 ## Ingredients
 

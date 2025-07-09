@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinner on Passionfruit Kitchen</title>
+    <link>http://localhost:1313/PassionfruitKitchen/en/featured_categories/dinner/</link>
+    <description>Recent content in Dinner on Passionfruit Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Feb 2025 17:57:50 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/featured_categories/dinner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Butternut Squash Lasagna</title>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/butternut-squash-lasagna/</link>
+      <pubDate>Fri, 28 Feb 2025 17:57:50 -0400</pubDate>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/butternut-squash-lasagna/</guid>
+      <description>This recipe actually came about at my sister&amp;rsquo;s request! She was visiting home and telling me about this dish she makes at college: lasagna with butternut squash. When I at first heard that, I was so skeptical &amp;ndash; after all, it seems like something that would get you in trouble with generations of Italian tradition. But she likes it a lot, so I figured that I would give it a try and see if I could improve on it.</description>
+    </item>
+  </channel>
+</rss>

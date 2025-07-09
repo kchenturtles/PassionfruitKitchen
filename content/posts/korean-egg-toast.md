@@ -1,15 +1,14 @@
 ---
 title: "Egg Toast"
-date: 2023-12-24T20:24:47-04:00
+date: 2023-11-24T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "This winter, I got introduced to Korean egg toast, and I'm pretty sure I've had it like every day this week. It's so good -- the softest, fluffiest egg ever, folded into sweet brioche bread and topped with the perfect sweet-and-savory sauce. My favorite toast also has cheese and avocado! Of course I had to try to figure out how to make it at home, so here is what I came up with!"
+summary: "This fall, I got introduced to Korean egg toast, and I'm pretty sure I've had it at least eight times this month. It's so good -- the softest, fluffiest egg ever, folded into sweet brioche bread and topped with the perfect sweet-and-savory sauce. My favorite toast also has cheese and avocado! Of course I had to try to figure out how to make it at home, so here is what I came up with!"
 dropCap: true
 displayInMenu: true
 displayInList: true
-casserole: true
 draft: false
 thumbnail: egg-toast/egg-toast-inside.jpg
 resources:

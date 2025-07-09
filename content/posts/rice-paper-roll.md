@@ -1,6 +1,6 @@
 ---
 title: "Rice Paper Sushi"
-date: 2024-04-19T20:24:47-04:00
+date: 2023-04-19T20:24:47-04:00
 categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["one-pot"]
 tags: ["vegetarian", "pescetarian", "dairy-free", "gluten-free"]
@@ -8,7 +8,6 @@ toc: true
 summary: "My family sometimes likes to make sushi at home. Granted, it's probably not very authentic, but it still tastes pretty good. We usually make it with surimi, cucumber, and avocado; sometimes we swap surimi for smoked salmon. So, how did this recipe come about? A few weeks ago I was grocery shopping and bought some rice paper, mostly because I've seen it being used a ton of ways on Instagram and wanted to give it a try. When my family was making sushi together later that weekend, I looked at the rice paper and came up with a neat idea -- why not use it in sushi?"
 dropCap: true
 displayInMenu: true
-summer: true
 displayInList: true
 independence: true
 draft: false

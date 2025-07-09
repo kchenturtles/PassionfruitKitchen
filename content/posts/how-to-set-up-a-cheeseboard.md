@@ -1,6 +1,6 @@
 ---
 title: "How To Set Up a Cheeseboard"
-date: 2022-08-12T20:07:11-04:00
+date: 2024-07-12T20:07:11-04:00
 categories: ["appetizers", "dinner", "desserts", "snacks"]
 featured_categories: ["desserts"]
 tags: ["pescetarian"]
@@ -9,6 +9,7 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
+independence: true
 featured: true
 draft: false
 thumbnail: cheeseboard/cheeseboard.jpeg

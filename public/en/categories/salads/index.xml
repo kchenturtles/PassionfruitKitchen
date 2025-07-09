@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salads on Passionfruit Kitchen</title>
-    <link>http://localhost:55220/PassionfruitKitchen/en/categories/salads/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/categories/salads/</link>
     <description>Recent content in Salads on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 29 Jun 2023 21:11:39 -0400</lastBuildDate>
-    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/categories/salads/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/salads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peach Burrata Caprese Salad</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</link>
       <pubDate>Thu, 29 Jun 2023 21:11:39 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/peach-burrata-caprese-salad/</guid>
       <description>I conquered my fear of salads with this peach and burrata caprese. I made it for my parents’ anniversary dinner, and they loved it. Since it’s peach season, I threw in peaches with the classic tomato and basil caprese salad. I also replaced the traditional mozzarella with burrata, because I think it makes the salad more cohesive. It’s a super simple salad, dressed with just a drizzle of good balsamic vinegar.</description>
     </item>
     <item>
       <title>Quick Roasted Broccoli</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</link>
       <pubDate>Mon, 22 May 2023 22:55:04 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/quick-roasted-broccoli/</guid>
       <description>Roasted broccoli is simple, healthy, and versatile. It’s a quick recipe, easy to customize, and surprisingly addictive. I made a batch of roasted broccoli a few days ago, and my family snacked on it before dinner until half of it was gone!</description>
     </item>
   </channel>

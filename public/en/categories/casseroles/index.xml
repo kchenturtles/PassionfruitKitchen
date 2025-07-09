@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casseroles on Passionfruit Kitchen</title>
-    <link>http://localhost:55220/PassionfruitKitchen/en/categories/casseroles/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/categories/casseroles/</link>
     <description>Recent content in Casseroles on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 29 Jun 2022 20:24:55 -0400</lastBuildDate>
-    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/categories/casseroles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/categories/casseroles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ratatouille Shakshuka</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/ratatouille-shakshuka/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/ratatouille-shakshuka/</link>
       <pubDate>Wed, 29 Jun 2022 20:24:55 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/ratatouille-shakshuka/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/ratatouille-shakshuka/</guid>
       <description>I know this probably sounds weird, but ratatouille + shakshuka is a surprisingly good combo. If you’ve never heard of ratatouille before, it’s a French Provencal vegetable stew typically made with the freshest of summer produce – zucchini, tomatoes, eggplant. Shakshuka is a dish of eggs poached in tomato sauce, which has many variations that can be found around the Mediterranean and Northern Africa.</description>
     </item>
     <item>
       <title>Vegetable Fritatta</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/vegetable-fritatta/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/vegetable-fritatta/</link>
       <pubDate>Tue, 22 Jun 2021 22:54:34 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/vegetable-fritatta/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/vegetable-fritatta/</guid>
       <description>Fritattas are a great dish to make anytime: They’re easy to whip up, and they’re great for pretty much any meal. Plus, they’re super customizable, and you can use them to clean leftover produce out of your fridge. You can customize the mix-ins if you desire!</description>
     </item>
   </channel>

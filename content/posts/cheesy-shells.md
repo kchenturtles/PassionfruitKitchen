@@ -1,6 +1,6 @@
 ---
 title: "Cheesy Shells"
-date: 2023-10-02T16:12:43-05:00
+date: 2025-02-02T16:12:43-05:00
 categories: ["dinner", "lunch", "pastas"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
@@ -9,7 +9,7 @@ toc: true
 dropCap: true
 displayInMenu: true
 displayInList: true
-summer: true
+casserole: true
 draft: false
 thumbnail: cheesy-shells.jpg
 resources:

@@ -1,6 +1,6 @@
 ---
 title: "Microwave Steamed Eggs"
-date: 2025-01-29T19:40:58-05:00
+date: 2022-01-29T19:40:58-05:00
 categories: ["one-pot", "dinner", "quick & easy", "lunch"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["gluten-free", "vegetarian", "dairy-free"]

@@ -1,6 +1,6 @@
 ---
 title: "5 Spice Pumpkin Pie"
-date: 2021-11-25T20:24:40-04:00
+date: 2023-10-25T20:24:40-04:00
 categories: ["breakfasts", "desserts", "pies & tarts"]
 featured_categories: ["breakfasts", "desserts"]
 tags: ["pescetarian", "vegetarian"]

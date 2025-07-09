@@ -1,6 +1,6 @@
 ---
 title: "Peach Burrata Caprese Salad"
-date: 2023-06-29T21:11:39-04:00
+date: 2021-06-29T21:11:39-04:00
 categories: ["appetizers", "dinner", "lunch", "salads", "quick & easy"]
 featured_categories: ["quick & easy"]
 tags: ["gluten-free", "vegetarian", "pescetarian"]

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snacks on Passionfruit Kitchen</title>
-    <link>http://localhost:55220/PassionfruitKitchen/en/featured_categories/snacks/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/featured_categories/snacks/</link>
     <description>Recent content in Snacks on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Nov 2022 20:24:28 -0400</lastBuildDate>
-    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/featured_categories/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/featured_categories/snacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ube Mooncakes</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/ube-mooncakes/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/ube-mooncakes/</link>
       <pubDate>Sat, 12 Nov 2022 20:24:28 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/ube-mooncakes/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/ube-mooncakes/</guid>
       <description>Mooncakes are a symbolic dessert traditionally eaten on the Mid Autumn Festival. They are decorated with elaborate stamped designs and characters on top. Mooncakes are traditionally baked pastries with a rich filling. The pastry layer is akin to a soft cookie, while the filling can be savory or sweet. Traditional fillings include lotus seed paste with salted egg yolk, red bean paste, mixed nutes, and jujube or date paste.</description>
     </item>
     <item>
       <title>Easy Shrimp Cocktail (2 ways!)</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</link>
       <pubDate>Wed, 16 Jun 2021 21:12:02 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/posts/easy-shrimp-cocktail/</guid>
       <description>I know you can buy the elements at the store, but I prefer to make this shrimp cocktail from scratch. It’s only a few ingredients and takes barely any time at all. Plus, it’s better made fresh. For a spin on the classic, I replaced the typical super-sweet ketchup with a homemade tomato sauce that’s tomatoey, spicy, just the right amount of sweet, and absolutely delish. I also made another version with a mango chili dipping sauce, which is an awesome combination with the shrimp!</description>
     </item>
   </channel>

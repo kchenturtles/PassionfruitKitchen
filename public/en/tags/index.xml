@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Passionfruit Kitchen</title>
-    <link>http://localhost:55220/PassionfruitKitchen/en/tags/</link>
+    <link>http://localhost:1313/PassionfruitKitchen/en/tags/</link>
     <description>Recent content in Tags on Passionfruit Kitchen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 28 Feb 2025 17:57:50 -0400</lastBuildDate>
-    <atom:link href="http://localhost:55220/PassionfruitKitchen/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/PassionfruitKitchen/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pescetarian</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/tags/pescetarian/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</link>
       <pubDate>Fri, 28 Feb 2025 17:57:50 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/tags/pescetarian/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/pescetarian/</guid>
       <description></description>
     </item>
     <item>
       <title>Vegetarian</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/tags/vegetarian/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</link>
       <pubDate>Fri, 28 Feb 2025 17:57:50 -0400</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/tags/vegetarian/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/vegetarian/</guid>
       <description></description>
     </item>
     <item>
       <title>Dairy-Free</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/tags/dairy-free/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</link>
       <pubDate>Wed, 29 Jan 2025 19:40:58 -0500</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/tags/dairy-free/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/dairy-free/</guid>
       <description></description>
     </item>
     <item>
       <title>Gluten-Free</title>
-      <link>http://localhost:55220/PassionfruitKitchen/en/tags/gluten-free/</link>
+      <link>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</link>
       <pubDate>Wed, 29 Jan 2025 19:40:58 -0500</pubDate>
-      <guid>http://localhost:55220/PassionfruitKitchen/en/tags/gluten-free/</guid>
+      <guid>http://localhost:1313/PassionfruitKitchen/en/tags/gluten-free/</guid>
       <description></description>
     </item>
   </channel>

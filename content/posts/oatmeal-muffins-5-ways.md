@@ -1,6 +1,6 @@
 ---
 title: "Oatmeal Muffins (5 ways!)"
-date: 2022-04-09T20:24:00-04:00
+date: 2024-04-09T20:24:00-04:00
 categories: ["breakfasts", "desserts", "quick & easy", "snacks"]
 featured_categories: ["quick & easy", "desserts", "breakfasts"]
 tags: ["vegetarian"]
@@ -9,7 +9,7 @@ summary: "A lot of muffins I find in stores are very sweet and very dry, so I pr
 dropCap: true
 displayInMenu: true
 displayInList: true
-independence: true
+summer: true
 draft: false
 thumbnail: muffins/muffins-thumbnail.jpeg
 resources:

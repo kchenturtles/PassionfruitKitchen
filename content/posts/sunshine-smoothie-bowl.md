@@ -1,13 +1,14 @@
 ---
 title: "Sunshine Smoothie Bowl"
-date: 2024-09-18T11:11:14-05:00
+date: 2025-06-18T11:11:14-05:00
 categories: ["breakfasts", "snacks", "quick & easy"]
 featured_categories: ["breakfasts", "quick & easy"]
 tags: ["gluten-free", "vegetarian", "dairy-free"]
-summary: "Wow, I'm excited about this one! It's so simple yet so good - I think I've made it like six times this month already. I call it a sunshine smoothie bowl because of the color, but to be more specific it's an amazing tropical smoothie bowl - mango, pineapple, banana (and anything else you might want to add!) I've got a neat trick as well for making sure it's thick enough to scoop."
+summary: "I'm excited about this one! It's so simple yet so good - I think I've made it like six times this month already. I call it a sunshine smoothie bowl because of the color, but to be more specific, it's a tropical smoothie bowl - mango, pineapple, banana, and anything else you might want to add. It's super easy to make -- just some blended frozen fruit and yogurt -- and it tastes just like mango sorbet."
 toc: true
 dropCap: true
 displayInMenu: true
+summer: true
 displayInList: true
 draft: false
 thumbnail: smoothie-bowl/smoothie-bowl-aerial.jpg
@@ -16,7 +17,7 @@ resources:
 
 ![smoothie bowl aerial](../../smoothie-bowl/smoothie-bowl-aerial.jpg)
 
-Wow, I'm excited about this one! It's so simple yet so good - I think I've made it like six times this month already. I call it a sunshine smoothie bowl because of the color, but to be more specific it's an amazing tropical smoothie bowl - mango, pineapple, banana (and anything else you might want to add!) I've got a neat trick as well for making sure it's thick enough to scoop. The ingredients for this smoothie bowl are also super simple -- just some frozen fruit and yogurt -- and blended together it tastes just like mango sorbet!
+I'm excited about this one! It's so simple yet so good - I think I've made it like six times this month already. I call it a sunshine smoothie bowl because of the color, but to be more specific, it's a tropical smoothie bowl - mango, pineapple, banana, and anything else you might want to add. It's super easy to make -- just some blended frozen fruit and yogurt -- and it tastes just like mango sorbet.
 
 ![smoothie bowl scoop](../../smoothie-bowl/smoothie-bowl-scoop1.jpg)
 ## Ingredients
@@ -32,7 +33,7 @@ Wow, I'm excited about this one! It's so simple yet so good - I think I've made 
 
 ## Tips
 
-- Smoothie bowls are simple -- you just dump everything in a blender or food processor and blend! I use a food processor because the motor on my blender is rather burnt out. Food processors are great for making thick smoothies, although a powerful blender works just as well.
+- Smoothie bowls are simple -- you just dump everything in a blender or food processor and blend! I use a food processor because the motor on my blender is rather burnt out. Food processors are great for making thick smoothies, since they're less likely to get stuck on big chunks of fruit, but a powerful blender works just as well.
 - Feel free to customize your ingredients and toppings however you like! I've swapped out pineapple for frozen peaches before and had some excellent results. If you feel like adding some veggies, you could also throw in a handful of spinach.
 - I used a kiwi, some yogurt, and granola to top my smoothie bowl for the photos, but you can top it with whatever you like!
 <div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
