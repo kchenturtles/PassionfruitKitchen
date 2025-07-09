@@ -7,7 +7,7 @@
   tags:  
   {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s"
   $taxonomy $tag) -}}
-    <a href="{{ .Permalink }}" class="hover:opacity-50" style = "color: purple; font-family:'marigny', sans-serif; font-weight:200;">{{ $tag | urlize }}, </a>
+    <a href="{{ .Permalink }}" class="hover:opacity-50 text-pink-800 dark:text-purple-200" style = "font-family:'marigny', sans-serif; font-weight:200;">{{ $tag | urlize }}, </a>
   {{- end -}} {{- end -}}
 </div>
 </body>

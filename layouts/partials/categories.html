@@ -1,6 +1,6 @@
 <div class = "container mt-12 mx-auto flex flex-wrap gap-3 justify-start items-center" style="font-family:'marigny', sans-serif; font-weight:200;">
   <div class="text-xl font-medium pb-0 text-black dark:text-white">Categories:</div>
     {{ range .Params.categories }}
-    <div style = "background-color: lavender; padding-left:0.5em; padding-right: 0.5em; max-width: max-content; height: fit-content; border-radius: 0.25rem;" class = "button hover:opacity-50" ><a  style = "color: black; text-decoration: none; max-width: fit-content;" href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
+    <div style = "padding-left:0.5em; padding-right: 0.5em; max-width: max-content; height: fit-content; border-radius: 0.25rem;" class = "bg-purple-100 dark:bg-gray-700 dark:text-white button hover:opacity-50" ><a style = "text-decoration: none; max-width: fit-content;" class="dark:text-white" href="{{ "../PassionfruitKitchen/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </div>
   {{ end }}
 </div>

@@ -24,7 +24,7 @@
             </div>  
                 <div>{{ .Params.description }}</div>
             <div class = "font-sans text-base text-gray-800 dark:text-gray-200 text-left overflow-hidden pb-1" style="font-family: 'marigny', sans-serif; font-weight:300;">{{ .Params.summary }} </div>
-            <a href="{{ .Permalink }}" class="text-base sm:text-lg md:text-xl hover:underline font-sans justify-end text-left" style="font-family: 'marigny', sans-serif; color:purple" >continue reading</a>
+            <a href="{{ .Permalink }}" class="text-base sm:text-lg md:text-xl hover:underline font-sans justify-end text-left text-pink-800 dark:text-purple-200" style="font-family: 'marigny', sans-serif;" >continue reading</a>
       </div>
     {{ if not (or (or .Site.Params.hideOtherLanguages .Params.hideOtherLanguages) false) }}
       {{ if .IsTranslated -}}

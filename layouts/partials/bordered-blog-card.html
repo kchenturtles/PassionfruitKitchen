@@ -1,10 +1,10 @@
-<div class = "hover:text-yellow-600 w-full">
-    <a href="{{ .Permalink }}" class = "dark:text-green-500 hover:text-yellow-600 w-full">
+<div class = "w-full dark:bg-gray-800">
+    <a href="{{ .Permalink }}" class = "hover:text-pink-800 w-full">
       {{ if .Params.thumbnail }}
       <div class="relative w-full h-40 sm:h-32 md:h-40 lg:h-52 xl:h-64 2xl:h-72">
         <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="h-full w-full object-cover"/>
         {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
-        <div class="absolute top-1 right-1 sm:top-2 sm:right-2 md:top-4 md:right-4 rounded shadow bg-white dark:invert text-xs lg:text-sm px-2 py-0.5" style="font-family: 'marigny', sans-serif; font-weight:200;">
+        <div class="absolute top-1 right-1 sm:top-2 sm:right-2 md:top-4 md:right-4 rounded shadow bg-white dark:bg-gray-900 text-xs lg:text-sm px-2 py-0.5" style="font-family: 'marigny', sans-serif; font-weight:200;">
           {{ partial "date.html" (dict "date" .Date "language" $.Page.Language "format" "short") }}
         </div>
         {{ end }}

@@ -12,11 +12,14 @@
         max-width: auto;
         height: auto;
       }
+      h2, h3, h4 {
+        color: #9d174d !important;
+      }
     </style>
   </head>
   <body>
 
-    <div style = "background-color: lavenderblush; font-family:'marigny';" class="pt-1 pb-1 capitalize no-underline font-sans"> 
+    <div style = "font-family:'marigny';" class="bg-purple-100 dark:bg-gray-700 pt-1 pb-1 capitalize no-underline font-sans adaptive"> 
         <div class = "mx-auto px-4 no-underline text-left" style = "text-decoration: none; max-width: fit-content;">
         <a href = "https://passionfruitkitchen.com/" class = "no-underline hover:text-pink-800 text-xs lg:text-sm" style = "text-decoration: none;">Passionfruit Kitchen </a>
         <a href = "https://passionfruitkitchen.com/categories/" class = "no-underline hover:text-pink-800 text-xs lg:text-sm" style = "text-decoration: none;"> · Categories</a>
@@ -28,12 +31,12 @@
     </div>
 
   <div class="container my-8 dark:prose-light dark:text-white grid grid-cols-2 lg:grid-cols-3 lg:gap-8 sm:w-5/6 max-w-[1200px] px-4 sm:mx-auto" >
-    <div class = "prose dark:text-white col-span-2 !w-full !max-w-full" style="max-width: 100%;">
-    <div class="container mx-auto text-2xl xl:text-6xl pb-0 font-sans mb-4" style = "color:purple; font-family:'fleur', sans-serif">{{ .Title }}</div>
+    <div class = "prose dark:prose-light dark:text-white col-span-2 !w-full !max-w-full" style="max-width: 100%;">
+    <div class="container mx-auto text-2xl xl:text-6xl pb-0 font-sans mb-4 text-pink-800 dark:text-white" style = "font-family:'fleur', sans-serif">{{ .Title }}</div>
         <div class = "flex gap-2 mb-2 items-center">
-        <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50 text-xs sm:text-base" style="background-color: lavender; text-decoration: none; font-family:'marigny', sans-serif; font-weight: 400;">Jump To Recipe</a>
+        <a href="#recipe" class="rounded-md px-4 py-2 hover:opacity-50 text-xs sm:text-base bg-purple-100 dark:bg-gray-700 dark:text-white" style="text-decoration: none; font-family:'marigny', sans-serif; font-weight: 400;">Jump To Recipe</a>
 
-        <a href="#recommended" class="rounded-md px-4 py-2 hover:opacity-50 text-xs sm:text-base" style="background-color: lavenderblush; text-decoration: none; font-family:'marigny', sans-serif; font-weight: 400;">Similar Recipes</a>
+        <a href="#recommended" class="rounded-md px-4 py-2 hover:opacity-50 text-xs sm:text-base bg-pink-100 dark:bg-gray-600 dark:text-white" style="text-decoration: none; font-family:'marigny', sans-serif; font-weight: 400;">Similar Recipes</a>
 
     </div>
 
@@ -90,16 +93,16 @@
     </div>
     {{ end }}
 
-    <div class="dark:text-gray-500 text-left text-sm sm:text-base container" style="font-family:'marigny', sans-serif; font-weight:200;">
+    <div class="dark:text-gray-200 text-left text-sm sm:text-base container" style="font-family:'marigny', sans-serif; font-weight:200;">
      {{ .Content }}
     </div>
-     <div class = "flex justify-center w-full" style = "background-color: lavenderblush; align-content:center; padding: 1rem; gap: 3rem; color: black;">
+     <div class = "flex justify-center w-full bg-pink-100 dark:bg-gray-700 text-black dark:text-white" style = "align-content:center; padding: 1rem; gap: 3rem;">
       <div class="h-24 w-24" style="padding-bottom: 10rem;">
-        <a href = "instagram.com/passionfruit_kitchen" style="padding:0; margin:0; border:0;" class="hover:opacity-50"> <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style="align-self: center;"/></a>
+        <a href = "instagram.com/passionfruit_kitchen" style="padding:0; margin:0; border:0;" class="hover:opacity-50 !invert"> <img src = "https://kchenturtles.github.io/PassionfruitKitchen/instagram.png" style="align-self: center;"/></a>
      </div>
         <div style = "display: block; align-self: center;">
-            <div style = "background-color: lavenderblush; font-size: x-large; font-weight: 400; font-family: 'marigny'; text-align: center; padding-top: 1rem;"> Tried this recipe?</div>
-            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; background-color: lavenderblush; padding-top: 0; margin-bottom: 2rem; max-width: fit-content; font-family:'marigny'">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style = "color:purple" class = "button hover:opacity-50"> @passionfruit_kitchen </a> on Instagram!</div>
+            <div style = "font-size: x-large; font-weight: 400; font-family: 'marigny'; text-align: center; padding-top: 1rem;" class="bg-pink-100 dark:bg-gray-700 text-black dark:text-white"> Tried this recipe?</div>
+            <div style = "display: flex; flex-wrap: wrap; gap: 0.5em; padding-top: 0; margin-bottom: 2rem; max-width: fit-content; font-family:'marigny'" class="bg-pink-100 dark:bg-gray-700 text-black dark:text-white">Snap a picture and tag me <a href = "instagram.com/passionfruit_kitchen" style="color:#9d174d" class = "button hover:opacity-50 !text-pink-800"> @passionfruit_kitchen </a> on Instagram!</div>
         </div>
      </div>
      {{- partial "categories.html" . -}}
@@ -123,8 +126,8 @@
         <div class="previous-post">
             {{ if .Prev }}
             <div style = "display: block;">
-                <div class="font-bold text-xs lg:text-lg lowercase" style ="color:purple; font-family:'marigny', sans-serif; font-weight:600;">prev</div>
-                <a class="link-reverse text-left text-xl lg:text-3xl font-light hover:text-yellow-600" href="{{ .Prev.Permalink }}?ref=footer" style="font-family:'fleur', sans-serif; font-weight:200; text-decoration-line:none;">« {{ .Prev.Title | truncate 50 "..."}}</a>
+                <div class="font-bold text-xs lg:text-lg lowercase text-pink-800 dark:text-white" style ="font-family:'marigny', sans-serif; font-weight:600;">prev</div>
+                <a class="link-reverse text-left text-xl lg:text-3xl font-light hover:text-pink-800 dark:text-white hover:!underline" href="{{ .Prev.Permalink }}?ref=footer" style="font-family:'fleur', sans-serif; font-weight:200; text-decoration-line:none;">« {{ .Prev.Title | truncate 50 "..."}}</a>
             </div>
             {{ end }}
         </div>
@@ -132,8 +135,8 @@
         <div class="next-post text-right">
             {{ if .Next }}
             <div style = "display: block;">
-                <div class="font-sans font-bold text-xs lg:text-lg lowercase text-right" style ="color:purple; font-family:'marigny', sans-serif; font-weight:600;">next</div>
-                <a class="link-reverse text-right text-xl lg:text-3xl font-light hover:text-yellow-600 hover:!underline" href="{{ .Next.Permalink }}?ref=footer" style="font-family:'fleur', sans-serif; font-weight:200; text-decoration-line:none;">{{ .Next.Title | truncate 25 "..." }} »</a>
+                <div class="font-sans font-bold text-xs lg:text-lg lowercase text-right text-pink-800 dark:text-white" style ="font-family:'marigny', sans-serif; font-weight:600;">next</div>
+                <a class="link-reverse text-right text-xl lg:text-3xl font-light hover:text-pink-800 dark:text-white hover:!underline" href="{{ .Next.Permalink }}?ref=footer" style="font-family:'fleur', sans-serif; font-weight:200; text-decoration-line:none;">{{ .Next.Title | truncate 25 "..." }} »</a>
             </div>
             {{ end }}
         </div>

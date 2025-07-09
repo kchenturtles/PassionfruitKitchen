@@ -1,12 +1,12 @@
 
-<div class = "flex flex-grow rounded-lg shadow-lg bg-white hover:text-yellow-600 hover:shadow-xl dark:text-black pt-0" style="font-family:'marigny', sans-serif; font-weight:200;">
+<div class = "flex flex-grow rounded-lg shadow-lg bg-white dark:bg-gray-700 hover:text-pink-800 hover:shadow-xl dark:!text-white pt-0" style="font-family:'marigny', sans-serif; font-weight:200;">
     <a href="{{ .Permalink }}" class = "hover:text-yellow-600 pt-0 mt-0 w-full" style = "overflow: hidden; text-decoration: none;">
       {{ if .Params.thumbnail }}
       <div class="p-0 m-0 mt-0 w-full" style = "padding:0; margin:0; overflow: hidden; border-top-left-radius: 0.5rem; border-top-right-radius: 0.5rem;">
         <img src="https://kchenturtles.github.io/PassionfruitKitchen/{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="w-full h-24 md:h-24 lg:h-28 xl:h-32 2xl:h-36" style = "margin-top: 0; margin-bottom: 0; margin: 0; width:110%; object-fit: cover;" />
       </div>
       {{ end }}
-      <div class="text-xs md:text-sm font-sans text-center font-semibold p-2 md:p-4" style="font-family:'marigny', sans-serif; font-weight:400;">{{ .Params.title }}</div>
+      <div class="text-xs md:text-sm font-sans text-center font-semibold p-2 md:p-4 dark:text-white" style="font-family:'marigny', sans-serif; font-weight:400;">{{ .Params.title }}</div>
       <div>{{ .Params.description }}</div>
     </a>
     {{ if not (or (or .Site.Params.hideOtherLanguages .Params.hideOtherLanguages) false) }}

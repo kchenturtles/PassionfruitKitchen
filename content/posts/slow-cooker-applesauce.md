@@ -41,8 +41,8 @@ The most work you have to do in this recipe is chop the apples. You don't even h
 - Be careful blending the cooked apples into applesauce, as you may want to let them cool a bit first.
 - If, after blending, you want your applesauce a bit thicker, you can pour it back into the slow cooker and let it cook down.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Slow-Cooker Applesauce</h2><p style = "font-weight: 300;">A super-convenient, delicious recipe!</p></div><img src="../../applesauce/applesauce-stacked.jpg"  class="w-full h-auto mx-auto"/></div>
 
