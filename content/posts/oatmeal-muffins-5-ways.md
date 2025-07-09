@@ -78,7 +78,7 @@ Increase the amount of sweetener you are adding if your mix-ins are on the sour 
 | **_Total Time_: 50 min** | **_Serves_: 12**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="padding-left:2em; padding-right:2em; border-width:3px; margin-top:0;" class="bg-white dark:bg-gray-900 border-pink-100 dark:border-gray-700 dark:!text-white">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1-1/4 cup quick oats

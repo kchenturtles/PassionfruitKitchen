@@ -54,7 +54,7 @@ Making this stir fry is just like making scrambled eggs. First, you’ll beat th
 | **_Total Time_: 15 min** | **_Serves_: 4**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="padding-left:2em; padding-right:2em; border-width:3px; margin-top:0;" class="bg-white dark:bg-gray-900 border-pink-100 dark:border-gray-700 dark:!text-white">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 6-8 large eggs

@@ -43,7 +43,7 @@ My sister doesn't have a blender or food processor at college, so she makes her 
 | **_Total Time_: 80 min** | **_Serves_: 12-16**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="padding-left:2em; padding-right:2em; border-width:3px; margin-top:0;" class="bg-white dark:bg-gray-900 border-pink-100 dark:border-gray-700 dark:!text-white">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 - 1 butternut squash, or equivalent winter squash, peeled and diced

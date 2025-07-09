@@ -50,7 +50,7 @@ Banana bread is a classic recipe, and it definitely got a lot more popular durin
 | **_Total Time_: 1 hr 5 min** | **_Serves_: 16**  |
 
 </div>
-<div style="background-color: white; padding-left:2em; padding-right:2em; border-width:3px; border-color:lavenderblush; margin-top:0;">
+<div style="padding-left:2em; padding-right:2em; border-width:3px; margin-top:0;" class="bg-white dark:bg-gray-900 border-pink-100 dark:border-gray-700 dark:!text-white">
  <div><h2 style = "margin-top:1em; margin-bottom:0;" >Ingredients</h2></div>
 
 **For the cake:**
