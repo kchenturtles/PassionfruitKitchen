@@ -5,7 +5,7 @@ categories: ["dinner", "lunch", "quick & easy", "casseroles", "one-pot"]
 featured_categories: ["quick & easy", "casseroles", "one-pot"]
 tags: ["vegetarian", "gluten-free"]
 toc: true
-summary: "Fritattas are a great dish to make anytime: They’re easy to whip up, and they’re great for pretty much any meal. Plus, they’re super customizable, and you can use them to clean leftover produce out of your fridge. You can customize the mix-ins if you desire!"
+summary: "Fritattas are a good weeknight staple: They’re easy to whip up, and they’re great for pretty much any meal. Plus, they’re super customizable, and they're a convenient way to clean leftover produce out of your fridge."
 dropCap: true
 displayInMenu: true
 displayInList: true
@@ -29,7 +29,7 @@ Do you have a dish you think you could eat every day and never get tired of?
 
 This is that dish for me. I make it every other week, and I’ve yet to get tired of it. It’s a simple frittata (baked egg dish) that I typically make with spinach, mushrooms, and cheese. It’s so low-key, you could probably make it in your sleep if you wanted. I jazzed it up by adding some cherry tomatoes, but you can add any leftover vegetables, potatoes, salmon…whatever you have in your fridge! Do it your way, and enjoy this easy, simple recipe!
 
-Fritattas are a great dish to make anytime: They’re easy to whip up, and they’re great for pretty much any meal. Plus, they’re super customizable, and you can use them to clean leftover produce out of your fridge. You can customize the mix-ins if you desire! I sometimes swap out tomatoes and spinach for kale, mushrooms, sweet potatoes, bell peppers, onions, asparagus, or sausages. If you use other vegetables, I would recommend still precooking them before putting them into the casserole.
+Fritattas are a good weeknight staple: They’re easy to whip up, and they’re great for pretty much any meal. Plus, they’re super customizable, and they're a convenient way to clean leftover produce out of your fridge. I sometimes swap out tomatoes and spinach for kale, mushrooms, sweet potatoes, bell peppers, onions, asparagus, or sausages. If you change up what vegetables you're using, I would recommend still precooking them before putting them into the casserole.
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ date: 2024-07-12T20:07:11-04:00
 categories: ["appetizers", "dinner", "desserts", "snacks"]
 featured_categories: ["desserts"]
 tags: ["pescetarian"]
-summary: "A big cheeseboard is also the perfect appetizer at a holdiay party! I always used to see all these photos of fancy cheeseboards on Instagram and Pinterest, and I’d wish I could make something similar. There are a few steps to making a cheeseboard, which I cover in this guide. "
+summary: "This is more of a guide than a recipe, to be honest, since there isn't any cooking involved. Cheeseboards are the OG girl dinner, in my opinion -- just ingredients laid out to assemble and eat. They're a lot of fun to make and share with family and friends, and if you spend just a little time arranging them, it can make any gathering feel a little bit special. I always used to see all these photos of fancy cheeseboards on Instagram and Pinterest, and I’d wish I could make something similar. "
 toc: true
 dropCap: true
 displayInMenu: true
@@ -18,23 +18,23 @@ resources:
 
 ![cheeseboard thumbnail](../../cheeseboard/cheeseboard.jpeg)
 
-Who doesn’t love a good cheeseboard? They’re perfect for parties, fun to snack on, and fun to show off. My family loves cheeseboards when having some craft beer or wine. We have a little “pairing party,” and I arrange a board full of delicious snacks: fruits, spreads, crackers, nuts, and cheeses. A big cheeseboard is also the perfect appetizer at a holdiay party!
+Who doesn’t love a good cheeseboard? Cheeseboards are the OG girl dinner, in my opinion -- just ingredients laid out to assemble and eat. They’re perfect for parties, fun to snack on, and fun to show off. My family loves cheeseboards when having some craft beer or wine. We have a little “pairing party,” and I arrange a board full of delicious snacks: fruits, spreads, crackers, nuts, and cheeses. 
 
-I always used to see all these photos of fancy cheeseboards on Instagram and Pinterest, and I’d wish I could make something similar. There are a few steps to making a cheeseboard, which I cover in this guide. First, you need to pick a variety of cheeses and select some elements that pair well with them. Then, you can slice, fan, and spread out your ingredients to make a delicious array!
+This is more of a guide than a recipe, to be honest, since there isn't any cooking involved. Cheeseboards are a lot of fun to make and share with family and friends, and if you spend just a little time arranging them, it can make any gathering feel a little bit special. I always used to see all these photos of fancy cheeseboards on Instagram and Pinterest, and I’d wish I could make something similar. 
 
 ![cheeseboard thumbnail](../../cheeseboard/cheeseboard-1.jpeg)
 _Pictured: Cheeseboard with Emmental, Coupole, Gorgonzola, Edam_
 
 ## Choosing Your Cheeses
 
-Three to four cheeses is a good number for a cheeseboard, but you can add more if you’re having a big party! You want different types, flavors, and textures for your guests to pair and try. Most grocery stores have a cheese section where you can buy a ton of types of cheese, and pre-wrapped cheeses work fine! You should try to include one from each of these categories in your cheeseboard:
+Three to four cheeses is a good number for a cheeseboard, but you can add more if you have a lot of people. You want different types, flavors, and textures for your guests to pair and try. Most grocery stores have a cheese section where you can buy a ton of types of cheese, and pre-wrapped cheeses work fine! You should try to include one from each of these categories in your cheeseboard:
 
-- A soft spreadable cheese such as fresh goat cheese (chevre), brie cheese, or camembert (My family loves Coupole, which is made by Vermont Creamery)
-- An aged, harder cheese – often good with wine, fruit, and balsamic vinegar. Think Manchego, aged Gouda, or Parmigiano-Reggiano.
-- A nice funky blue cheese! There are so many options: Roquefort, Stilton, Gorgonzola, or a milder one like a Cambozola if you’re just getting introduced to blue cheese.
-- A semi-hard cheese with a good, buttery flavor for pairing with crackers, such as Havarti, cheddar, young Gouda, and Gruyere
+- A soft spreadable cheese such as fresh goat cheese (chevre), or a bloomy rind cheese like brie cheese or camembert (My family loves Coupole, which is a bloomy rind goat cheese made by Vermont Creamery)
+- An aged, harder cheese – often good to pair with wine, fruit, and balsamic vinegar. Think Manchego, aged Gouda, or Parmigiano-Reggiano.
+- A funky blue cheese. You can omit this if you don't like blue cheese, but it is a great addition to any cheeseboard and pairs well with a lot of different fruits and nuts. There are so many options: Roquefort, Stilton, Gorgonzola, or a milder one like a Cambozola if you’re just getting introduced to blue cheese.
+- A semi-hard cheese with a good, buttery flavor for pairing with crackers, such as Havarti, cheddar, young Gouda, or Gruyere.
 
-Of course, I also encourage you to try other cheeses if they’re interesting! I love chevre that has fruit mixed into it. Another favorite is Attrezzi’s caramelized onion cheddar. There’s red wine-flavored cheeses, black truffle cheeses…I had a lot of fun trying this caramel-y Scandinavian cheese called gjetost or brunost – it was surpringly tasty!
+Of course, I also encourage you to try other cheeses if they’re interesting! I love chevre that has fruit mixed into it. Another favorite is Attrezzi’s caramelized onion cheddar. There’s red wine-flavored cheeses, black truffle cheeses…one time, I had a lot of fun trying this caramel-y Scandinavian cheese called gjetost. Don't be afraid to explore a bit when it comes to cheese.
 
 ![cheeseboard thumbnail](../../cheeseboard/cheeseboard-2.jpeg)
 _Pictured: Cheeseboard with Gruyere, Cambozola, Manchego, Chevre_

@@ -5,7 +5,7 @@ categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "My dad's favorite food is probably jian bing, a Chinese street food that usually consists of a crispy whole-wheat crepe filled with egg, black bean sauce, scallions, sometimes lettuce, and a crispy cracker or fried dough piece. As a little bit of fun, this Father's Day I made a version using French crepe batter, which produces a smoother and softer crepe than the traditional Chinese Version. I don't have the plate that vendors typically use to make jian bing, but I made do with what I had. This dish is essentially my recreation of a jian bing, just a little bit simpler and quicker to make!"
+summary: "My dad's favorite food is probably jian bing, a Chinese street food that usually consists of a crispy buckwheat or whole-wheat crepe filled with egg, black bean sauce, scallions, sometimes lettuce, and a crispy cracker or fried dough piece. As a little bit of fun, this Father's Day I made a version using French crepe batter, which produces a different result than the traditional Chinese Version -- but still really good. I don't have the crepe pan that street vendors typically use to make jian bing, but I made do with what I had. This dish is essentially my recreation of a jian bing, just a little bit simpler and quicker to make at home."
 dropCap: true
 displayInMenu: true
 summer: true
@@ -17,7 +17,7 @@ resources:
 
 ![jianbing-crepe thumbnail](../../jianbing-crepe/crepe-aerial.jpg)
 
-My dad's favorite food is probably jian bing, a Chinese street food that usually consists of a crispy whole-wheat crepe filled with egg, black bean sauce, scallions, sometimes lettuce, and a crispy cracker or fried dough piece. As a little bit of fun, this Father's Day I made a version using French crepe batter, which produces a smoother and softer crepe than the traditional Chinese version. I don't have the crepe maker that vendors typically use to make jian bing, but I can make do with what I have. This dish is essentially my recreation of a jian bing, just a little bit simpler and quicker to make!
+My dad's favorite food is probably jian bing, a Chinese street food that usually consists of a crispy buckwheat or whole-wheat crepe filled with egg, black bean sauce, scallions, sometimes lettuce, and a crispy cracker or fried dough piece. As a little bit of fun, this Father's Day I made a version using French crepe batter, which produces a different result than the traditional Chinese Version -- but still really good. I don't have the crepe pan that street vendors typically use to make jian bing, but I made do with what I had. This dish is essentially my recreation of a jian bing, just a little bit simpler and quicker to make at home.
 
 ## Ingredients
 

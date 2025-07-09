@@ -5,7 +5,7 @@ categories: ["lunch", "snacks", "dinner"]
 featured_categories: ["quick & easy", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
 toc: true
-summary: "This fall, I got introduced to Korean egg toast, and I'm pretty sure I've had it at least eight times this month. It's so good -- the softest, fluffiest egg ever, folded into sweet brioche bread and topped with the perfect sweet-and-savory sauce. My favorite toast also has cheese and avocado! Of course I had to try to figure out how to make it at home, so here is what I came up with!"
+summary: "This fall, I got introduced to Korean egg toast from a restaurant that opened up in a nearby mall, and I'm pretty sure I've had it at least eight times this month. It's so good -- the softest, fluffiest egg ever, folded into sweet brioche bread and topped with the perfect sweet-and-savory sauce. I also like it topped with cheese and avocado. Of course I had to try to figure out how to make it at home, so here is what I came up with."
 dropCap: true
 displayInMenu: true
 displayInList: true
@@ -16,7 +16,7 @@ resources:
 
 ![egg-toast thumbnail](../../egg-toast/egg-toast-stacked.jpg)
 
-This winter, I got introduced to Korean egg toast, and I'm pretty sure I've had it like every day this week. It's so good -- the softest, fluffiest egg ever, folded into sweet brioche bread and topped with the perfect sweet-and-savory sauce. My favorite toast also has cheese and avocado! Of course I had to try to figure out how to make it at home, so here is what I came up with!
+This fall, I got introduced to Korean egg toast from a restaurant that opened up in a nearby mall, and I'm pretty sure I've had it at least eight times this month. It's so good -- the softest, fluffiest egg ever, folded into sweet brioche bread and topped with the perfect sweet-and-savory sauce. I also like it topped with cheese and avocado. Of course I had to try to figure out how to make it at home, so here is what I came up with.
 
 Korean egg toast, or gilgeori toast, is a dish often sold by street vendors in Korea. Often the egg has vegetables like cabbage folded in, but my recipe is based off of the version more commonly sold in America, which is just eggs, sometimes with avocado and cheese.
 

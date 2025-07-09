@@ -4,7 +4,7 @@ date: 2024-10-31T00:24:55-05:00
 categories: ["snacks", "dinner", "quick & easy"]
 featured_categories: [""]
 tags: ["vegetarian", "pescetarian"]
-summary: "Wow, it's been busy recently! I've been sticking to the simple recipes to get by: just a couple of ingredients, not too many dishes dirtied, less prep work. Luckily for me, these vegetarian pigs in a blanket check all of those boxes, and they taste great! "
+summary: "Wow, life has been busy recently! I've been sticking to the simple recipes to get by: just a couple of ingredients, not too many dishes dirtied, less prep work. Luckily for me, these vegetarian pigs in a blanket check all of those boxes, and they make a great appetizer or snack any day."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -17,7 +17,7 @@ resources:
 
 ![croissant dogs thumbnail](../../croissant-dogs/croissant-dogs-thumbnails.jpg)
 
-Wow, it's been busy recently! I've been sticking to the simple recipes to get by: just a couple of ingredients, not too many dishes dirtied, less prep work. Luckily for me, these vegetarian pigs in a blanket check all of those boxes, and they taste great!
+Wow, life has been busy recently! I've been sticking to the simple recipes to get by: just a couple of ingredients, not too many dishes dirtied, less prep work. Luckily for me, these vegetarian pigs in a blanket check all of those boxes, and they make a great appetizer or snack any day.
 
 ## Ingredients
 

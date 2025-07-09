@@ -4,7 +4,7 @@ date: 2025-02-02T16:12:43-05:00
 categories: ["dinner", "lunch", "pastas"]
 featured_categories: ["quick & easy", "soups & stews", "one-pot"]
 tags: ["vegetarian", "pescetarian"]
-summary: "This is a pretty awesome mac and cheese recipe. It's got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior shape (I will die on this hill). It's extra saucy, because the saucier the better. It's salty, cheesy, and has a bit of a kick; peak comfort food right here."
+summary: "This is my favorite mac and cheese recipe. It's got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior pasta shape (and yes, I will die on this hill). It's extra saucy, because the saucier the better. It's salty, cheesy, and has a bit of a kick; peak comfort food right here."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -17,7 +17,8 @@ resources:
 
 ![cheesy shells](../../cheesy-shells.jpg)
 
-I admit, "cheesy shells" is a fancy way of saying mac and cheese. However, this is a pretty awesome mac and cheese recipe. It's got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior shape (I will die on this hill). It's extra saucy, because the saucier the better. It's salty, cheesy, and has a bit of a kick; peak comfort food right here.
+
+I admit, "cheesy shells" is a fancy way of saying mac and cheese. However, this is a pretty awesome mac and cheese recipe. It's got tons of flavor, and it uses shell pasta instead of elbow macaroni because shells are the superior pasta shape (and yes, I will die on this hill). It's extra saucy, because the saucier the better. It's salty, cheesy, and has a bit of a kick; peak comfort food right here.
 
 ## Ingredients
 

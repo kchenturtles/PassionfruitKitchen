@@ -5,7 +5,7 @@ categories: ["desserts", "snacks"]
 featured_categories: ["one-pot"]
 tags: ["vegetarian", "pescetarian", "dairy-free", "gluten-free"]
 toc: true
-summary: "I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old, and it was time to use them up. Usually with apples, I would make apple crisp or apple pie, but with robotics season starting I didn't have time. So my solution? Slow cooker applesauce! It's great because you can set it and forget it until it's ready, it tastes great, and it makes the house smell so cozy, which is just what you need in these winter months. (Now the only question is squeezing 10 apples into my slow cooker...)"
+summary: "I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old to keep storing, and it was time to find a way to use them up. Usually with apples, I would make apple crisp or apple pie, but with robotics season underway, I didn't really have time. So my solution? Slow cooker applesauce! It's great because you can set it and forget it until it's ready, it tastes great, and it makes the house smell so cozy, which is just what you need in the dreary winter months. (Now the only question is squeezing 10 apples into my slow cooker...)"
 dropCap: true
 displayInMenu: true
 displayInList: true
@@ -16,13 +16,13 @@ resources:
 
 ![applesauce thumbnail](../../applesauce/applesauce-stacked.jpg)
 
-I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old, and it was time to use them up. Usually with old apples, I would make apple crisp or apple pie, but with robotics season starting I didn't have time. So my solution? Slow cooker applesauce! It's great because you can set it and forget it until it's ready, it tastes great, and it makes the house smell so cozy, which is just what you need in these winter months. (Now the only question is squeezing 10 apples into my slow cooker...)
+I had wayyy too many apples in the fridge. Like, maybe 15? Some of them were getting far too old to keep storing, and it was time to find a way to use them up. Usually with apples, I would make apple crisp or apple pie, but with robotics season underway, I didn't really have time. So my solution? Slow cooker applesauce! It's great because you can set it and forget it until it's ready, it tastes great, and it makes the house smell so cozy, which is just what you need in the dreary winter months. (Now the only question is squeezing 10 apples into my slow cooker...)
 
 ![applesauce thumbnail](../../applesauce/applesauce-aerial.jpg)
 
 ## Ingredients
 
-You can actually make an excellent and healthy applesauce with just 3 ingredients -- and one of them is water! No sugar needed, and it still comes out very sweet!
+You can actually make an excellent and healthy applesauce with just 3 ingredients -- and one of them is water. Even without adding sugar, it still comes out very sweet.
 
 - Apples -- any type, a mix is good. McIntosh make great applesauce, as do Golden Delicious and Empire.
 - Cinnamon and any other spices desired
@@ -30,7 +30,7 @@ You can actually make an excellent and healthy applesauce with just 3 ingredient
 
 ## Making Applesauce in the Slow Cooker
 
-The most work you have to do in this recipe is chop the apples. You don't even have to peel them! Once you've got your cubed apples, you just throw them in the slow cooker with some water and leave it to simmer for several hours, until the apples are soft and breaking down into a mush. Then you can blend it into a smooth puree, and enjoy!
+The most work you have to do in this recipe is chop the apples. You don't even have to peel them; the apple skin actually releases a lot of pectin when cooked, which is an ingredient that helps thicken the applesauce. (You may have heard before that pectin is also used in jam). Once you've got your cubed apples, you just throw them in the slow cooker with some water and leave it to simmer for several hours, until the apples are soft and breaking down into a mush. Then you can blend it into a smooth puree, and enjoy!
 
 ![applesauce plated](../../applesauce/applesauce-open.jpg)
 

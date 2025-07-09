@@ -6,7 +6,7 @@ featured_categories: ["quick & easy", "seafood", "one-pot"]
 tags: ["gluten-free", "pescetarian", "dairy-free"]
 toc: true
 dropCap: true
-summary: "When I was young, we used to get takeout from this one place in Chinatown (I don’t know the name, sadly.) I specifically remember this one dish I loved: their stir-fried shrimp and eggs."
+summary: "When I was young, we used to get takeout from this one place in Chinatown (I don’t remember the name, much to my sadness.) But I specifically remember this one dish I loved: their stir-fried shrimp and eggs."
 displayInMenu: true
 displayInList: true
 one-pot: true
@@ -17,7 +17,7 @@ resources:
 
 ![shrimp and egg stir fry thumbnail](../../shrimp-eggs/shrimp-eggs-thumbnail.jpeg)
 
-When I was young, we used to get takeout from this one place in Chinatown (I don’t know the name, sadly.) I specifically remember this one dish I loved: their stir-fried shrimp and eggs. Hilariously, back then I hated shrimp for some reason! However, I loved this dish so much, and I would just eat the eggs because they were so savory and delicious (probably infused with the shrimp’s flavor, yet I still refused to eat the shrimp?)
+When I was young, we used to get takeout from this one place in Chinatown (I don’t know the name, much to my sadness.) But I specifically remember this one dish I loved: their stir-fried shrimp and eggs. Hilariously, back then I hated shrimp for some reason! However, I loved this dish so much, and I would just eat the eggs because they were so savory and delicious (probably infused with the shrimp’s flavor, yet I still refused to eat the shrimp?)
 
 The other day, I accidentally bought WAY too many eggs. Like, at home we had 36, and I forgot to count the eggs before grocery shopping, so I went and bought…another 36. So I had 72 eggs, and quite a dilemma on hand. I ended up making basically only egg dishes that week, including this dish, stir-fried garlic chives and eggs, tea eggs, frittata, and soy-marinated eggs.
 

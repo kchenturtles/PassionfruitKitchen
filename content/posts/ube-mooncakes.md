@@ -4,7 +4,7 @@ date: 2024-09-12T20:24:28-04:00
 categories: ["desserts", "snacks"]
 featured_categories: ["desserts", "snacks"]
 tags: ["vegetarian", "pescetarian", "dairy-free"]
-summary: "Mooncakes are a symbolic dessert traditionally eaten on the Mid Autumn Festival. They are decorated with elaborate stamped designs and characters on top. Mooncakes are traditionally baked pastries with a rich filling. The pastry layer is akin to a soft cookie, while the filling can be savory or sweet. Traditional fillings include lotus seed paste with salted egg yolk, red bean paste, mixed nutes, and jujube or date paste."
+summary: "Mooncakes are a symbolic dessert eaten on the Mid Autumn Festival. They are decorated with elaborate stamped designs and characters on top. Traditionally, mooncakes are baked pastries with a rich filling. The pastry layer is akin to a soft cookie, while the filling can be savory or sweet. Traditional fillings include lotus seed paste with salted egg yolk, red bean paste, mixed nutes, and jujube or date paste."
 toc: true
 dropCap: true
 displayInMenu: true
@@ -22,9 +22,9 @@ What is the Mid Autumn Festival? It is a festival celebrating the harvest that t
 
 ## What Are Mooncakes?
 
-Mooncakes are a symbolic dessert traditionally eaten on the Mid Autumn Festival. They are decorated with elaborate stamped designs and characters on top. Mooncakes are traditionally baked pastries with a rich filling. The pastry layer is akin to a soft cookie, while the filling can be savory or sweet. Traditional fillings include lotus seed paste with salted egg yolk, red bean paste, mixed nutes, and jujube or date paste. However, mooncakes vary by region: variations include Suzhou meat-filled flaky pastry mooncakes and Chaoshan spiral pastry mooncakes. Nowadays, a new style called snowskin, or bing pi (饼皮) has become popular, which has a mochi-like exterior instead of a baked pastry crust. People are also trying many new mooncake fillings, such as custard, green tea, taro, or even durian!
+Mooncakes are a symbolic dessert eaten on the Mid Autumn Festival. They are decorated with elaborate stamped designs and characters on top. Traditionally, mooncakes are baked pastries with a rich filling. The pastry layer is akin to a soft cookie, while the filling can be savory or sweet. Traditional fillings include lotus seed paste with salted egg yolk, red bean paste, mixed nutes, and jujube or date paste. However, mooncakes vary by region: variations include Suzhou meat-filled flaky pastry mooncakes and Chaoshan spiral pastry mooncakes. Nowadays, a new style called snowskin, or bing pi (饼皮) has become popular, which has a mochi-like exterior instead of a baked pastry crust. People are also trying many new mooncake fillings, such as custard, green tea, taro, or even durian.
 
-This brings me to my recipe: ube mooncakes! Ube is a purple Phillippine yam similar to a purple sweet potato. It’s naturally sweet, a little bit earthy, and a little bit vanilla-y, and it’s a great filling for mooncakes! Bakery mooncakes can be expensive, and they are so easy to make at home, so what are you waiting for?
+This brings me to my recipe: ube mooncakes. Ube is a purple Phillippine yam similar to a purple sweet potato. It’s naturally sweet, a little bit earthy, and a little bit vanilla-y, and it’s a great filling for mooncakes! Bakery mooncakes can be expensive, and mooncakes are actually pretty simple and fun to make at home, so if you've got time, give it a try!
 
 ![mooncakes aerial](../../mooncakes/mooncakes-aerial.jpeg)
 
