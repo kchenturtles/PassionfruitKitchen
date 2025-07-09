@@ -47,8 +47,8 @@ You'll need to start by making sushi rice. It's pretty simple actually -- you ju
 - Feel free to customize the fillings as you want! If you can get sushi-grade fish, that is a great option.
 - The rolls are best eaten fresh, as sushi doesn't keep well overnight.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Rice Paper Sushi Rolls</h2><p style = "font-weight: 300;">A creative take on sushi!</p></div><img src="../../rice-paper-roll/rice-paper-roll-1.jpg"  class="w-full h-auto mx-auto"/></div>
 

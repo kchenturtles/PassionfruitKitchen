@@ -39,8 +39,8 @@ Happy Thanksgiving to all who celebrate! Funny story, I actually made this while
 - Unsliced bread is ideal, since that way you can decide how large you want the chunks of bread to be, but sliced works fine as well. 
 - Some alternative flavor ideas: Spinach, feta and sundried tomato, or cheddar, scallion, and vegetarian ham. Feel free to get creative!
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Breakfast Strata</h2><p style = "font-weight: 300;">A delicious breakfast great for using up leftovers!</p></div><img src="../../strata/strata-thumbnail.jpg"  class="w-full h-auto mx-auto"></div>
 

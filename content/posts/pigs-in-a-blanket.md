@@ -31,8 +31,8 @@ You'll need quite literally just two ingredients, and both you can just get from
 
 - You can cut the hot dogs and crescent dough triangles in half to make small snacks for a crowd. That will make 16 instead of 8.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Vegetarian Pigs in a Blanket</h2><p style = "font-weight: 300;">A two-ingredient snack with barely any prep!</p></div><img src="../../croissant-dogs/croissant-dogs-thumbnails.jpg"  class="w-full h-auto mx-auto"></div>
 

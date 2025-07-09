@@ -36,8 +36,8 @@ So, I was super happy recently when testing making this in a microwave. It comes
 - Beating the eggs well is the trick to success with this, to guarantee a smooth custard. Technically you should also skim the bubbles off the surface before you cook it, but I usually don't have the energy to and it's always turned out fine.
 - Be careful not to overcook the custard, as that will cause it to start weeping. Cook it for a few minutes to start off, and if it is still liquid, continue in short increments until it is ready. It won't be completely solid, but if it is mostly firm and jiggly, it's done.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Microwave Steamed Eggs</h2><p style = "font-weight: 300;">Quick and easy comfort food that only needs a few ingredients!</p></div><img src="../../steamed-eggs.jpg"  class="w-full h-auto mx-auto"></div>
 

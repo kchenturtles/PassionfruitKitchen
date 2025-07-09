@@ -42,8 +42,8 @@ After heating up oil in a pan, you'll actually put the rice paper right on top o
 - Start adding the toppings when the eggs are partially cooked -- just to make sure you don't overcook them.
 - Some ideas for toppings and sauces include chili oil, black bean sauce, oyster sauce, peas, scallions, and cilantro!
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Crispy Rice Paper Wraps</h2><p style = "font-weight: 300;">A quick and creative dish!</p></div><img src="../../rice-paper-wrap/rice-paper-wrap-1.jpg"  class="w-full h-auto mx-auto"/></div>
 

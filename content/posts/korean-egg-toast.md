@@ -49,8 +49,8 @@ The sauce is super simple, just a sweet mayo (although you can add a little bit 
 - Don't stir the eggs too much while cooking them; stick with a gentle folding motion. This will keep the eggs together and will keep the sandwich from falling apart. 
 - Mix it up! Although I don't eat meat, it's popular to put meat into these sandwiches. Some options include bacon, ham, sausage, and Spam. 
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Egg Toast</h2><p style = "font-weight: 300;">A simple take on a popular street food!</p></div><img src="../../egg-toast/egg-toast-stacked.jpg" class="w-full h-auto mx-auto"/></div>
 

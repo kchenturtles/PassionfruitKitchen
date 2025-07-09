@@ -39,8 +39,8 @@ Cheesecake has a reputation for being hard to make. It's a pretty deserved reput
 - It is okay if the cheesecake browns a bit in the oven, but keep an eye on how set it is. It is done when it is still a little bit soft in the middle -- avoid overbaking.
 - You can customize these bars by mixing in something or adding a topping! You can also sub the graham crackers for another type of cookie. For instance, I've made these with Oreo crust and Oreos mixed in. Or you could swirl them with jam, or Nutella, or whatever you want. 
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12 w-full"><div class = "mb-8"><h2>Cheesecake Bars</h2><p style = "font-weight: 300;">An easier cheesecake recipe!</p></div><img src="../../cheesecake-bars/cheesecake-stacked.jpeg" class="w-full h-auto mx-auto"> </div>
 

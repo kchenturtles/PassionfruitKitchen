@@ -49,8 +49,8 @@ The jian bing element just comes from cracking an egg onto one side of the crepe
 - If you find that when all the liquid has boiled away the pasta isn't fully cooked yet, add some more stock.
 - You can also add herbs and seasonings if you like!
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Jian Bing Crepes</h2><p style = "font-weight: 300;">A new take on a brunch classic!</p></div><img src="../../jianbing-crepe/crepe-aerial.jpg" class="w-full h-auto mx-auto"/></div>
 

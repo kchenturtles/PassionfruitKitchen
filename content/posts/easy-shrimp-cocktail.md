@@ -49,8 +49,8 @@ To assemble, you need:
 - Make sure to let the shrimp cool before you serve! You can make the sauce while the shimp is cooling.
 - The typical way to serve shrimp cocktail is by arranging the shrimp around the edge of a glass or a bowl filled with sauce. You can also put the shrimp around the edge of a large bowl and put the sauce in a smaller bowl in the middle.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Shrimp Cocktail 2 Ways</h2><p style = "font-weight: 300;">A new take on a classic appetizer!</p></div> <img src="../../categories/appetizers.jpeg" class="w-full h-auto mx-auto"></div>
 

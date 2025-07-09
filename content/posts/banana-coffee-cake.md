@@ -40,8 +40,8 @@ Banana bread is a classic recipe, and it definitely got a lot more popular durin
 - A great tip for mashing bananas is actually to use an electric beater! Just put them in a bowl and mix them around with the tines of the beater until they are mostly homogenous. This way, you avoid getting chunks of un-mashed banana in your banana bread.
 - Banana bread is built for customizations! You can fold in anything from chocolate chips to shredded coconut to chopped walnuts into the batter, or mix it into the streusel on top!
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Banana Coffee Cake</h2><p style = "font-weight: 300;">A tasty treat any time of the day!</p></div> <img src="../../banana-coffee-cake/banana-bread-aerial.jpeg" class="w-full h-auto mx-auto"> </div>
 

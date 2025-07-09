@@ -37,8 +37,8 @@ Butter mochi is becoming popular these days. It originates from Hawaii, and fuse
 - If you do not want to brown the butter, you can just use melted butter instead.
 - The bake for butter mochi is quite long, and it can be difficult to tell when it is done. I like to simply test if the center is solid. Overbaking butter mochi by a little bit won't ruin the texture the way it might for a cheesecake, which is good. 
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Brown Butter Mochi</h2><p style = "font-weight: 300;">A fun twist on the chewy classic!</p></div> <img src="../../butter-mochi/butter-mochi-aerial.jpeg" class="w-full h-auto mx-auto"> </div>
 

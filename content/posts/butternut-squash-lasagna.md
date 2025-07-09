@@ -33,8 +33,8 @@ My sister doesn't have a blender or food processor at college, so she makes her 
 - Lasagna is actually pretty hard to mess up. Don't get too worried about the assembly process; if you have a bit too much or too little of once sauce, you can add more or less in one layer and it'll be about the same.
 - You can pretty easily swap the butternut squash in this for a different winter squash, or even use a squash puree. When you're cooking squash cubes, make sure they're diced small so that they take less time to cook through.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Butternut Squash Lasagna</h2><p style = "font-weight: 300;">A great weeknight dinner, and a fun (if slightly blasphemous) twist on lasagna.</p></div><img src="../../butternut.jpg"  class="w-full h-auto mx-auto"></div>
 

@@ -73,8 +73,8 @@ At any point, if your rice starts sticking to the pan, you may want to add some 
 If you are using a non-stick pan, use a wooden utensil like chopsticks or a wooden spatula to stir-fry — you don’t want to scrape the coating off of the pan.
 If you want to make this fried rice vegan, you can omit the egg and use vegetarian fish sauce and oyster sauce.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Red Curry Fried Rice</h2><p style = "font-weight: 300;">A simple, quick-to-make fried rice with a red curry twist!</p></div> <img src="../../fried_rice.jpeg"  class="w-full h-auto mx-auto"></div>
 

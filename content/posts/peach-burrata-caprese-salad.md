@@ -38,8 +38,8 @@ You will need:
 - Slice your ingredients fairly thinly to make the salad more cohesive.
 - If you want to plate this salad fancily, you can lay the basil, tomato, and peach first and then break open a piece of burrata on top.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Peach & Burrata Caprese Salad</h2><p style = "font-weight: 300;">A new take on caprese! Perfect for summer.</p></div> <img src="../../categories/salads.jpeg"  class="w-full h-auto mx-auto"> </div>
 

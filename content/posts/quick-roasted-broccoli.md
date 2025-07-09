@@ -44,8 +44,8 @@ The ingredients for this recipe are simple: you just need broccoli, a dash of ol
 - Don’t put too many florets on one roasting pan – this will keep them from cooking evenly and browning properly.
 - If you are adding a hard cheese like Parmesan, add it at the end, tossing it with the florets after they come out of the oven. A softer, more meltable cheese like shredded cheddar can be baked with the florets, but hard grated cheeses will burn in the oven.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Quick Roasted Broccoli</h2><p style = "font-weight: 300;">Versatile in a salad or bowl, and tasty on its own as a side!</p></div> <img src="../../roasted_broccoli.jpeg"  class="w-full h-auto mx-auto" style = "justify-content: center;"></div>
 

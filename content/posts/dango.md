@@ -48,8 +48,8 @@ If you want to color your dango, separate it into portions depending on how many
 - Aim for smaller, not larger, balls. Larger dango take longer to cook through, and they're also just harder to bite! The dango will end up being larger than when they went into the pot, so be sure to account for that.
 - The dango will float before they are done cooking! Once you see them float, give them another couple of minutes before you take them out.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Valentine's Day Dango</h2><p style = "font-weight: 300;">A tasty, chewy treat!</p></div><img src="../../dango/dango-stacked.jpg" class="w-full h-auto mx-auto"/></div>
 

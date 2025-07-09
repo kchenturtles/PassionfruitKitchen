@@ -42,8 +42,8 @@ This recipe needs only a few ingredients!
 - If you don’t have honey, you can use basically any other sweetener instead, such as sugar, rice syrup, or agave.
 - Be sure to adjust the sauce to taste! You could also add ginger and chopped scallions for extra flavor.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Honey Soy Salmon</h2><p style = "font-weight: 300;">A sweet, salty one-pan dinner sure to please everyone!</p></div> <img src="../../honey_soy_salmon.jpg" class="w-full h-auto mx-auto"></div>
 

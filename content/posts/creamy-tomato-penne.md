@@ -51,8 +51,8 @@ Let the pasta cook in the liquid until softened but not quite cooked through. Ad
 - If you find that when all the liquid has boiled away the pasta isn't fully cooked yet, add some more stock.
 - You can also add herbs and seasonings if you like!
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Creamy Tomato Penne</h2><p style = "font-weight: 300;">An easy, low-key weeknight creamy tomato pasta!</p></div><img src="../../tomato-pasta/pasta-thumbnail.jpeg"  class="w-full h-auto mx-auto"/></div>
 

@@ -42,8 +42,8 @@ I admit, "cheesy shells" is a fancy way of saying mac and cheese. However, this 
 - I typically prefer to buy solid blocks of cheese and shred it by hand. Packaged shredded cheese can have additives that may make the sauce grainy. However, I do buy parmesan pre-shredded. 
 - You can customize the amounts of salt, pepper, nutmeg, paprika, and mustard powder that you add. If you prefer more of a kick, add more to your pasta. If you want to add something else, like garlic or onion powder, you can do that too!
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Four-Cheese Cheesy Shells</h2><p style = "font-weight: 300;">Easy, delicious comfort food</p></div> <img src="../../cheesy-shells.jpg" class="w-full h-auto mx-auto"> </div>
 

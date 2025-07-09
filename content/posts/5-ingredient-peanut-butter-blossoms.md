@@ -38,8 +38,8 @@ You only need 5 ingredients (which you probably already have in your cupboard, s
 - If the dough feels too soft to work with, try chilling it before scooping.
 - Try to use a peanut butter without much added sugar/salt. If you would like, you can add 1/2 - 1 tsp of salt into the dough when you are making the cookies.
 
-<div style = "background-color: lavenderblush;"  id = "recipe"> 
-<div style = "background-color:lavenderblush; padding-left:2em; margin-top:0; margin-bottom:0;">
+<div class = "bg-pink-100 dark:bg-gray-700"  id = "recipe"> 
+<div class = "bg-pink-100 dark:bg-gray-700"  style = "padding-left:2em; margin-top:0; margin-bottom:0;">
 
 <div style="display:grid; align-items:start; justify-content:space-between; padding-right:2em" class="grid-cols-2 gap-2 md:gap-4 lg:gap-8 xl:gap-12"><div class = "mb-8"><h2>Peanut Butter Blossoms</h2><p style = "font-weight: 300;">A delicious 5-ingredient treat!</p></div> <img src="../../peanut-butter-cookies/pb-cookies-bite.jpeg" class="w-full h-auto mx-auto"></div>
 
